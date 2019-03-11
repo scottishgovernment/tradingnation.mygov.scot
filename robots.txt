@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tradingnation.mygov.scot/sitemap.xml

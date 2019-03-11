@@ -1,0 +1,18 @@
+{
+  "name": "a-trading-nation",
+  "description": "A Trading Nation site for mygov.scot",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash.digital.gov.uk:7999/mgv/tradingnation.mygov.scot.git"
+  },
+  "author": {
+    "name": "mygov.scot Digital Engineering team",
+    "email": "mygov-tech-team@gov.scot",
+    "url": "http://www.mygov.scot/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@scottish-government/mygov-assets": "1.0.91"
+  }
+}
