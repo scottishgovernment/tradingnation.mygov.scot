@@ -58,7 +58,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level6.url | replace:'index.html',''}}"><!--
                 {% if level6.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    -->{{ site.title }}<!--
                 {% else %}
                     -->{{level6.title}}<!--
                 {% endif %}
@@ -69,7 +69,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level5.url | replace:'index.html',''}}"><!--
                 {% if level5.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    -->{{ site.title }}<!--
                 {% else %}
                     -->{{level5.title}}<!--
                 {% endif %}
@@ -80,7 +80,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level4.url | replace:'index.html',''}}"><!--
                 {% if level4.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    -->{{ site.title }}<!--
                 {% else %}
                     -->{{level4.title}}<!--
                 {% endif %}
@@ -91,7 +91,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level3.url | replace:'index.html',''}}"><!--
                 {% if level3.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    -->{{ site.title }}<!--
                 {% else %}
                     -->{{level3.title}}<!--
                 {% endif %}
@@ -102,7 +102,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{ level2.url | replace:'index.html',''}}"><!--
                 {% if level2.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    -->{{ site.title }}<!--
                 {% else %}
                     -->{{level2.title}}<!--
                 {% endif %}
@@ -111,7 +111,7 @@
         {% endif %}
         <li class="breadcrumbs__item"><!--
             {% if page.thispage == 'home' %}
-                -->Economic Action Plan<!--
+                -->{{ site.title }}<!--
             {% else %}
                 -->{{page.title}}<!--
             {% endif %}
