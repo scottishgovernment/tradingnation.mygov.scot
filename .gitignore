@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 .idea/
+assets/css/main2.css
 Gemfile*
 .DS_Store
 .ruby-version

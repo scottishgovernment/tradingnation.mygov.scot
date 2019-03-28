@@ -8,10 +8,9 @@ gtm_code: GTM-PW52KXS
 sass:
     sass_dir: assets/_scss
 
-
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 

@@ -19,4 +19,4 @@ docker run $OPTS \
   -e JEKYLL_UID=$(id -u) \
   -e JEKYLL_GID=$(id -g) \
   $image \
-  su jekyll -c "/usr/gem/bin/jekyll build \"$@\""
+  su jekyll -c "SASS_PATH=/usr/gem/gems/compass-core-1.0.3/stylesheets /usr/gem/bin/jekyll build \"$@\""

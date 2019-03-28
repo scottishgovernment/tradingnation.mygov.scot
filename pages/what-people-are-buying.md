@@ -7,6 +7,7 @@ frontpage: yes
 parent: home
 permalink: /what-people-are-buying/
 ---
+<<<<<<< HEAD
 
 A Trading Nation focuses on the following sectors:
 
@@ -38,3 +39,5 @@ This showed that the [top 4 countries](https://www.example.com) had opportunitie
 
 
 You can find out more about how sectors were chosen on [gov.scot](https://www.example.com)
+=======
+>>>>>>> 58ed8372d558e0c03a0fb6a0adc6b7d05b513d1a

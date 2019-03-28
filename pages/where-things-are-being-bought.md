@@ -8,6 +8,7 @@ frontpage: yes
 parent: home
 permalink: /where-things-are-being-bought/
 ---
+<<<<<<< HEAD
 
 [A Trading Nation](https://www.example.com) focusses on exporting to 20 countries.
 
@@ -72,3 +73,5 @@ Each country was chosen based on evidence. This evidence drew on a range of quan
 * the difficulties of selling in particular countries e.g. rules and regulations
 
 You can find out more about how countries were chosen on [A Trading Nation](https://www.example.com)
+=======
+>>>>>>> 58ed8372d558e0c03a0fb6a0adc6b7d05b513d1a

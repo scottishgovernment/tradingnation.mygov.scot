@@ -7,6 +7,7 @@ frontpage: yes
 parent: home
 permalink: /contact/
 ---
+<<<<<<< HEAD
 
 
 To contact us about [A Trading Nation](https://www.example.com) you can:
@@ -35,3 +36,5 @@ If you’re a business looking for help with exporting, you can find help and su
 You can contact the Scottish Government newsdesk on 0131 244 0222, Monday to Friday 9am to 5:30pm.
 
 During out of hours, contact 0300 244 4000.
+=======
+>>>>>>> 58ed8372d558e0c03a0fb6a0adc6b7d05b513d1a
