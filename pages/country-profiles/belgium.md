@@ -10,3 +10,5 @@ permalink: /country-profiles/belgium/
 prev: { title: "Poland", url: "/country-profiles/poland/"}
 next: { title: "China", url: "/country-profiles/china/"}
 ---
+
+![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
