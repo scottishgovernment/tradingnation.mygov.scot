@@ -8,7 +8,6 @@ frontpage: yes
 parent: home
 permalink: /help-for-businesses/
 ---
-<<<<<<< HEAD
 
 ## Advice and guidance
 For general advice and guidance on exporting, go to:
@@ -84,5 +83,3 @@ To meet other businesses and find out about opportunities to export, go to:
 *	[Scottish Enterprise](https://www.scottish-enterprise.com/)
 *	[Highlands and Islands Enterprise](http://www.hie.co.uk/)
 *	[Scottish Council for the Development and Industry](https://www.scdi.org.uk/)
-=======
->>>>>>> 58ed8372d558e0c03a0fb6a0adc6b7d05b513d1a
