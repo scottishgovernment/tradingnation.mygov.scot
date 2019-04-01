@@ -7,16 +7,8 @@
 
 
 
-/* SASS Libraries
-========================================================================== */
-/*
- * Global SASS libraries/helpers from Compass's built in mixins to aid
- * compatibility and progressive enhancement methods.
- */
-@import "compass";
-@import "compass/typography";
-@import "compass/utilities";
-@import "compass/css3";
+$base-line-height: 7px;
+$base-font-size: 16px;
 
 
 
@@ -52,45 +44,16 @@ $breakpoint-has-widths: ('small', 'medium', 'large', 'xlarge');
 $breakpoint-has-push:   ('medium', 'large', 'xlarge');
 $breakpoint-has-pull:   ('medium', 'large', 'xlarge');
 
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/csswizardry-grids/csswizardry-grids.scss";
+@import "../../node_modules/@scottish-government/mygov-assets/scss/grid";
 
 
 
 
-/**
- * SETTINGS
+/*
+ * The core mygov styles. These core styles are required for correct display of
+ * all of the MyGov Assets components.
  */
-$inuit-base-font-size: 15px;
-$inuit-base-line-height: 24px;
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-defaults/settings.defaults";
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-responsive-settings/settings.responsive";
-@import "../../node_modules/@scottish-government/mygov-assets/scss/settings/settings.base-spacing";
-@import "../../node_modules/@scottish-government/mygov-assets/scss/settings/settings.colors";
-@import "../../node_modules/@scottish-government/mygov-assets/scss/settings/settings.transition";
-@import "../../node_modules/@scottish-government/mygov-assets/scss/settings/settings.type";
-
-
-
-
-/**
- * TOOLS
- */
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-functions/tools.functions";
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-mixins/tools.mixins";
-$inuit-use-fractions: false;
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-tools-widths/tools.widths";
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-responsive-tools/tools.responsive";
-@import "../../node_modules/@scottish-government/mygov-assets/scss/tools/tools.mixins";
-
-
-
-
-/**
- * GENERIC
- */
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-normalize/generic.normalize";
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-reset/generic.reset";
-@import "../../node_modules/@scottish-government/mygov-assets/node_modules/inuit-box-sizing/generic.box-sizing";
+ @import "../../node_modules/@scottish-government/mygov-assets/scss/core";
 
 
 
