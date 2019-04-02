@@ -2,36 +2,14 @@ $color__accent: #0087CC;
 $color__teal: #00a4b4;
 
 .hero-header {
-    background: $color__teal;
-    color: $color__white;
-
-    &:after {
-        content: '';
-        position: absolute;
-        left: 0;
-        right: 0;
-        background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0));
-        height: 7px;
-    }
-
-    .breadcrumbs {
-        color: $color__white;
-    }
-
-    .breadcrumbs__item:after {
-        color: $color__grey--medium;
-    }
-
-    .breadcrumbs__link {
-        color: $color__white;
-    }
 
     &__content {
         position: relative;
     }
 
     &__title {
-        border-left: 4px solid $color__blue--darker;
+        border-left: 4px solid $color__orange;
+        color: $color__magenta;
         margin: 14px 0 28px;
         padding-left: 20px;
     }
@@ -56,20 +34,8 @@ $color__teal: #00a4b4;
         font-size: 24px;
         line-height: 1.4em;
         margin-top: 7px;
-        color: $color__blue--darker;
+        color: $color__grey--dark;
         margin-bottom: 0;
-    }
-}
-
-.hero-header--secondary {
-    background: $color__blue--darker;
-
-    .hero-header__title {
-        border-left: 4px solid $color__blue--base;
-    }
-
-    .hero-header__tagline {
-        color: $color__teal;
     }
 }
 
