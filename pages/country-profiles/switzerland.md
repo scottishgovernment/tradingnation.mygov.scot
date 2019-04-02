@@ -81,7 +81,7 @@ It has groups that meet in:
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to Switzerland in A Trading Nation[title](https://www.example.com).
+You can also find more information on exporting to Switzerland in [A Trading Nation](https://www.example.com).
 
 
 ## UK Trade Commissioner for Europe

@@ -80,4 +80,4 @@ The [Department for International Trade](https://www.gov.uk/guidance/exporting-t
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to China in A Trading Nation[title](https://www.example.com).
+You can also find more information on exporting to China in [A Trading Nation](https://www.example.com).

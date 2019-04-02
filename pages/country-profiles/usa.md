@@ -22,7 +22,7 @@ Between 2013 and 2017, Scottish exports to the USA increased by an average of 4.
 
 
 ## The benefits of selling to the USA
-The World Bank[title](https://www.example.com) rates the USA as the 8th easiest country in the world to do business with.
+The [World Bank](http://www.doingbusiness.org/en/rankings) rates the USA as the 8th easiest country in the world to do business with.
 
 The USA’s a good place to export to because it:
 
@@ -37,7 +37,7 @@ It’s also a good place for Scottish businesses to export to because:
 * English is the first language
 
 ## What we could sell more of
-A Trading Nation[title](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In the USA, the key sectors where Scotland could sell more are:
 
@@ -58,10 +58,10 @@ Scottish Development International can help Scottish businesses in the USA with:
 
 They have an offices in:
 
-* Boston[title](https://www.example.com)
-* Chicago[title](https://www.example.com)
-* Houston[title](https://www.example.com)
-* San Jose[title](https://www.example.com)
+* [Boston](https://www.sdi.co.uk/about-sdi/global-offices/americas/usa-boston)
+* [Chicago](https://www.sdi.co.uk/about-sdi/global-offices/americas/usa-chicago)
+* [Houston](https://www.sdi.co.uk/about-sdi/global-offices/americas/usa-houston)
+* [San Jose](https://www.sdi.co.uk/about-sdi/global-offices/americas/usa-san-jose)
 
 
 ### Scottish Affairs Office
@@ -75,7 +75,7 @@ GlobalScot is a worldwide network of business contacts who are experts in their 
 
 
 ### Department for International Trade
-The Department for International Trade[title](https://www.example.com) can help Scottish businesses export to the USA.
+The [Department for International Trade](https://www.gov.uk/guidance/exporting-to-the-usa) can help Scottish businesses export to the USA.
 
 It has staff in the British Embassy in Washington and the British Consulates in:
 
@@ -90,10 +90,10 @@ It has staff in the British Embassy in Washington and the British Consulates in:
 
 
 ### British-American Business Council
-The British-American Business Council[title](https://www.example.com) is a large network of businesses based throughout the USA and the UK. It gives members advice and introductions in America.
+The [British-American Business Council](http://www.babc.org/) is a large network of businesses based throughout the USA and the UK. It gives members advice and introductions in America.
 
 
-You can find more help with exporting[title](https://www.example.com).
+You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
 
-You can also find more information on exporting to the USA in A Trading Nation[title](https://www.example.com).
+You can also find more information on exporting to the Netherlands in [A Trading Nation](https://www.example.com).

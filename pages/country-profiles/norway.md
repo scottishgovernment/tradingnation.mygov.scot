@@ -38,7 +38,7 @@ It’s also a good place for Scottish businesses to export to because:
 
 
 ## What we could sell more of
-A Trading Nation[title](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In Norway, the key sectors where Scotland could sell more are:
 
@@ -82,4 +82,4 @@ Aberdeen and Stavanger are twin cities. They take turns to host Europe's top [Of
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to Norway in A Trading Nation[title](https://www.example.com).
+You can also find more information on exporting to Norway in [A Trading Nation](https://www.example.com).
