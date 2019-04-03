@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: tiles-3-hero
 title:  "Country profiles"
 category: trading-nation
 summary: ""
@@ -11,4 +11,5 @@ navitems: country-profiles
 thispage: country-profiles
 permalink: /country-profiles/
 hero: CountryNavImage.png
+ordered: true
 ---

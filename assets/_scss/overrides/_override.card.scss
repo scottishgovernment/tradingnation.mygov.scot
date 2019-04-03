@@ -8,3 +8,7 @@
         color: $color__link--primary;
     }
 }
+
+.card__content.category-item__link {
+    border-left-width: 0;
+}

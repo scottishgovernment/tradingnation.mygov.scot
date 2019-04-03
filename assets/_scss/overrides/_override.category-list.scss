@@ -1,0 +1,11 @@
+.category-list__list {
+    margin-left: 0;
+    list-style-type: none;
+    counter-reset: section;
+}
+
+ol.category-list__list li a h2:before {
+    counter-increment: section;
+    content: counter(section) ". ";
+    display: inline;
+}

@@ -7960,6 +7960,11 @@ body.home {
   color: #A51765;
 }
 
+/* line 12, ../_scss/overrides/_override.card.scss */
+.card__content.category-item__link {
+  border-left-width: 0;
+}
+
 /* line 1, ../_scss/overrides/_override.category-item.scss */
 .category-item {
   border-left-color: #333333;
@@ -7984,10 +7989,52 @@ body.home {
 /* line 19, ../_scss/overrides/_override.category-item.scss */
 .category-item__link:active, .category-item__link:focus {
   background-color: #f0dfe8;
+  outline: 3px solid #f0dfe8;
 }
-/* line 24, ../_scss/overrides/_override.category-item.scss */
+/* line 25, ../_scss/overrides/_override.category-item.scss */
 .category-item__link p {
   transition: color 0.2s;
+}
+
+/* reordering the nesting to put category-item__link on the outside */
+/* line 33, ../_scss/overrides/_override.category-item.scss */
+.category-item {
+  border-left-width: 0;
+  color: inherit;
+  margin-bottom: 0;
+}
+
+/* line 39, ../_scss/overrides/_override.category-item.scss */
+.category-item__link {
+  border-left: 1px solid #333333;
+  margin-bottom: 40px;
+  transition: border-color 0.2s, color 0.2s;
+}
+/* line 44, ../_scss/overrides/_override.category-item.scss */
+.category-item__link:hover {
+  border-color: #F0A75A;
+}
+/* line 48, ../_scss/overrides/_override.category-item.scss */
+.category-item__link:focus {
+  color: #333333;
+}
+/* line 52, ../_scss/overrides/_override.category-item.scss */
+.category-item__link:active {
+  color: #A51765;
+}
+
+/* line 1, ../_scss/overrides/_override.category-list.scss */
+.category-list__list {
+  margin-left: 0;
+  list-style-type: none;
+  counter-reset: section;
+}
+
+/* line 7, ../_scss/overrides/_override.category-list.scss */
+ol.category-list__list li a h2:before {
+  counter-increment: section;
+  content: counter(section) ". ";
+  display: inline;
 }
 
 /*------------------------------------*\
@@ -8466,12 +8513,12 @@ body.home {
   color: #333;
 }
 
-/* line 150, ../_scss/main.scss */
+/* line 151, ../_scss/main.scss */
 .main-content > h2 {
   margin-top: 0 !important;
 }
 
-/* line 154, ../_scss/main.scss */
+/* line 155, ../_scss/main.scss */
 .main-content p + h2, .main-content ul + h2 {
   margin-top: 1.6em !important;
 }

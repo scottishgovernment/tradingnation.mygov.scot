@@ -19,10 +19,37 @@
         &:active,
         &:focus {
             background-color: $color__magenta--tint;
+            outline: 3px solid $color__magenta--tint;
         }
 
         p {
             transition: color 0.2s;
         }
+    }
+}
+
+
+/* reordering the nesting to put category-item__link on the outside */
+.category-item {
+    border-left-width: 0;
+    color: inherit;
+    margin-bottom: 0;
+}
+
+.category-item__link {
+    border-left: 1px solid $color__grey--dark;
+    margin-bottom: 40px;
+    transition: border-color 0.2s, color 0.2s;
+
+    &:hover {
+        border-color: $color__orange;
+    }
+
+    &:focus {
+        color: $color__grey--dark;
+    }
+
+    &:active {
+        color: $color__link--primary;
     }
 }

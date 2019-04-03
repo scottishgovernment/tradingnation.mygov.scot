@@ -36,15 +36,15 @@
                 {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
                 {% for item in indexed %}
                  --><div class="grid__item medium--six-twelfths large--four-twelfths">
-                        <article class="category-item">
-                            <a href="{{ item.url }}" class="category-item__link" data-gtm="item-0">
+                        <a href="{{ item.url }}" class="category-item__link" data-gtm="item-0">
+                            <article class="category-item">
                                 <h2 class="category-item__title">{{item.title}}</h2>
-                        
+
                                 <p class="category-item__summary">
                                     {{item.summary}}
                                 </p>
-                            </a>
-                        </article>
+                            </article>
+                        </a>
                     </div><!--
                 {% endfor %}
          --></div>
