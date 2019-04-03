@@ -1,0 +1,28 @@
+.category-item {
+    border-left-color: $color__grey--dark;
+    color: $color__grey--dark;
+
+    &:hover {
+        border-left-color: $color__orange;
+    }
+
+    &__summary {
+        color: $color__grey--dark;
+    }
+
+    &__link {
+        color: $color__grey--dark;
+        &:hover {
+            color: $color__link--primary;
+        }
+
+        &:active,
+        &:focus {
+            background-color: $color__magenta--tint;
+        }
+
+        p {
+            transition: color 0.2s;
+        }
+    }
+}

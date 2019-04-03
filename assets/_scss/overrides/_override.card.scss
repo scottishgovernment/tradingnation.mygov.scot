@@ -3,11 +3,8 @@
         background-image: $gradient-tradingnation;
     }
 
-    a {
-        color: $color__black;
-
-        &:hover {
-            color: $color__link--primary;
-        }
+    a:active,
+    a:focus {
+        color: $color__link--primary;
     }
 }

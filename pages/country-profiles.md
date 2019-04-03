@@ -10,4 +10,5 @@ parent: home
 navitems: country-profiles
 thispage: country-profiles
 permalink: /country-profiles/
+hero: CountryNavImage.png
 ---

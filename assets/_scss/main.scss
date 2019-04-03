@@ -135,6 +135,7 @@ $breakpoint-has-pull:   ('medium', 'large', 'xlarge');
  * TRUMPS/OVERRIDES
  */
 @import "overrides/override.card";
+@import "overrides/override.category-item";
 @import "../../node_modules/@scottish-government/mygov-assets/scss/trumps/trump.header-search";
 @import "overrides/override.hero-header";
 @import "overrides/override.page-nav";
