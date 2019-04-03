@@ -2,7 +2,6 @@
 layout: default
 title:  "Switzerland"
 category: country-profiles
-summary: "In 2017, Scotland sold £735 million worth of exports to Switzerland. This is 2.3% of Scotland’s total international exports."
 index: 5
 frontpage: yes
 parent: country-profiles
@@ -11,14 +10,9 @@ prev: { title: "Netherlands", url: "/country-profiles/netherlands/"}
 next: { title: "Norway", url: "/country-profiles/norway/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold <b>£735 million</b> worth of exports to Switzerland. This is <b>2.3%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Switzerland increased by an average of <b>12.5%</b> each year.</p>
+
 ![An image of Switzerland outlined on a map](/assets/images/country_maps/05-Switzerland.png)
-
-
-![Chart of Scotland's top five exports in Switzerland](/assets/images/charts_and_graphs/country/Countries.Switzerland.ScotlandsTop5Exports 2 RC.jpg)
-![Chart of Scotland's top fifteen imports in Switzerland](/assets/images/charts_and_graphs/country/Countries.Switzerland.Top15Imports RC.jpg)
-
-
-Between 2013 and 2017, Scottish exports to Switzerland increased by an average of 12.5% each year.
 
 ## The benefits of selling to Switzerland
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Switzerland as the 38th easiest country in the world to do business with.
@@ -40,7 +34,7 @@ It’s also a good place for Scottish businesses to export to because:
 * it has lots of people from different cultures, looking to buy different things
 
 ## What we could sell more of
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In Switzerland, the key sectors where Scotland could sell more are:
 
@@ -81,7 +75,7 @@ It has groups that meet in:
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to Switzerland in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to Switzerland in A Trading Nation.
 
 
 ## UK Trade Commissioner for Europe

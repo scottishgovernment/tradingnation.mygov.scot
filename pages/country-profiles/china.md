@@ -2,7 +2,6 @@
 layout: default
 title:  "China"
 category: country-profiles
-summary: "In 2017, Scotland sold just under <b>£625 million</b> worth of exports to China. This is <b>7.2%</b> of Scotland’s total international exports."
 index: 9
 frontpage: yes
 parent: country-profiles
@@ -11,12 +10,9 @@ prev: { title: "Belgium", url: "/country-profiles/belgium/"}
 next: { title: "Republic of Ireland", url: "/country-profiles/republic-of-ireland/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold just under <b>£625 million</b> worth of exports to China. This is <b>7.2%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to China increased by an average of <b>1.6%</b> each year.</p>
+
 ![An image of China outlined on a map](/assets/images/country_maps/09-China.png)
-
-![Chart of Scotland's top five exports in China](/assets/images/charts_and_graphs/country/Countries.China.ScotlandsTop5Exports RC.jpg)
-![Chart of Scotland's top fifteen imports in China](/assets/images/charts_and_graphs/country/Countries.China.Top15Imports RC.jpg)
-
-Between 2013 and 2017, Scottish exports to China increased by an average of 1.6% each year.
 
 ## The benefits of selling to China
 
@@ -35,7 +31,7 @@ China is also a good place for Scottish businesses to export to because:
 * an increasing number of people and businesses are buying more
 
 ## What we could sell more of
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In China, the key sectors where Scotland could sell more are:
 
@@ -80,4 +76,4 @@ The [Department for International Trade](https://www.gov.uk/guidance/exporting-t
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to China in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to China in A Trading Nation.

@@ -2,18 +2,15 @@
 layout: default
 title:  "Why exporting is important"
 category: trading-nation
-summary: ""
 index: 1
 frontpage: yes
 parent: home
 permalink: /why-exporting-is-important/
 ---
 
-
-In 2017, Scotland exported over £32 billion of products and services.
+<p class='leader'>In 2017, Scotland exported over <b>£32 billion</b> of products and services.</p>
 
 Exporting helps Scotland’s economy to grow and creates jobs. It also helps the Scottish Government collect more tax to:
-
 * improve living standards
 * improve public services
 
@@ -71,4 +68,4 @@ For example, if sales drop in one market, the risk to their business will be les
 
 ## Scotland’s export growth plan
 
-Because exporting is important to Scotland and its businesses, the Scottish Government has created an export growth plan. This plan is called [A Trading Nation](https://www.example.com).
+Because exporting is important to Scotland and its businesses, the Scottish Government has created an export growth plan. This plan is called A Trading Nation.

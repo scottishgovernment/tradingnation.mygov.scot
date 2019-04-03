@@ -2,7 +2,6 @@
 layout: default
 title:  "Poland"
 category: country-profiles
-summary: "In 2017, Scotland sold £395 million worth of exports to Poland. This is 1.2% of Scotland’s total international exports."
 index: 7
 frontpage: yes
 parent: country-profiles
@@ -11,12 +10,9 @@ prev: { title: "Norway", url: "/country-profiles/norway/"}
 next: { title: "Belgium", url: "/country-profiles/belgium/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold <b>£395 million</b> worth of exports to Poland. This is <b>1.2%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Poland increased by an average of <b>6.5%</b> each year.</p>
+
 ![An image of Poland outlined on a map](/assets/images/country_maps/07-Poland.png)
-
-![Chart of Scotland's top five exports in Poland](/assets/images/charts_and_graphs/country/Countries.Poland.ScotlandsTop5Exports RC.jpg)
-![Chart of Scotland's top fifteen imports in Poland](/assets/images/charts_and_graphs/country/Countries.Poland.Top15Imports RC.jpg)
-
-Between 2013 and 2017, Scottish exports to Poland increased by an average of 6.5% each year.
 
 ## The benefits of selling to Poland
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Poland as the 33rd easiest country in the world to do business with.
@@ -34,7 +30,7 @@ It’s also a good place for Scottish businesses to export to because:
 * it has a strong and growing economy
 
 ## What we could sell more of
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In Poland, the key sectors where Scotland could sell more are:
 
@@ -79,4 +75,4 @@ The Department for International Trade has also produced a [guide to doing busin
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to Poland in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to Poland in A Trading Nation.

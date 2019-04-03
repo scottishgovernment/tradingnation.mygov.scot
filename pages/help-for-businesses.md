@@ -2,12 +2,13 @@
 layout: default
 title:  "Help for businesses looking to export"
 category: trading-nation
-summary: "Different organisations can help your business to export. Who can help depends on what you’re trying to do."
 index: 5
 frontpage: yes
 parent: home
 permalink: /help-for-businesses/
 ---
+
+<p class='leader'>Different organisations can help your business to export. Who can help depends on what you’re trying to do.</p>
 
 ## Advice and guidance
 For general advice and guidance on exporting, go to:
@@ -45,7 +46,7 @@ To get funding, you’ll need [an export plan](https://www.scottish-enterprise.c
 ## Research
 Find information on opportunities in different sectors and the people or businesses you can sell to:
 
-*	[A Trading Nation](https://www.example.com)
+*	A Trading Nation
 *	[Exporting is Great](https://www.great.gov.uk/)
 *	[Bank of Scotland](https://business.bankofscotland.co.uk/business-resource-centre/economic-and-market-insight.html)
 *	[Santander](https://en.portal.santandertrade.com/analyse-markets)

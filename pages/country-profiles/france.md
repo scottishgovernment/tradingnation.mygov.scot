@@ -2,7 +2,6 @@
 layout: default
 title:  "France"
 category: country-profiles
-summary: "In 2017, Scotland sold <b>£2.4 billion</b> worth of exports to France. This is <b>7.6%</b> of Scotland’s total international exports."
 index: 3
 frontpage: yes
 parent: country-profiles
@@ -11,12 +10,9 @@ prev: { title: "Germany", url: "/country-profiles/germany/"}
 next: { title: "Netherlands", url: "/country-profiles/netherlands/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold <b>£2.4 billion</b> worth of exports to France. This is <b>7.6%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of <b>7%</b> each year.</p>
+
 ![An image of France outlined on a map](/assets/images/country_maps/03-France.png)
-
-![Chart of Scotland's top five exports in France](/assets/images/charts_and_graphs/country/Countries.France.ScotlandsTop5ExportsRC.jpg)
-![Chart of Scotland's top fifteen imports in France](/assets/images/charts_and_graphs/country/Countries.France.Top15Imports RC.jpg)
-
-Between 2013 and 2017, Scottish exports to France increased by an average of 7% each year.
 
 ## The benefits of selling to France
 The World Bank rates France as the 31st easiest country in the world to do business with.
@@ -33,7 +29,7 @@ France is also a good place for Scottish businesses to export to because:
 * they make, buy and sell lots of different things
 
 ## What we could sell more of
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In France, the key sectors where Scotland could sell more are:
 
@@ -75,4 +71,4 @@ The [Franco-British Chamber of Commerce & Industry](https://francobritishchamber
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to France in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to France in A Trading Nation.

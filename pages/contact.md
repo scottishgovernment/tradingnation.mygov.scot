@@ -8,8 +8,7 @@ parent: home
 permalink: /contact/
 ---
 
-
-To contact us about [A Trading Nation](https://www.example.com) you can:
+<p class='leader'>To contact us about A Trading Nation you can</p>
 
 ### Email  
 [XXX@gov.scot](mailto:)

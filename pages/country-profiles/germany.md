@@ -2,7 +2,6 @@
 layout: default
 title:  "Germany"
 category: country-profiles
-summary: "In 2017, Scotland sold <b>£2.3 billion</b> worth of exports to Germany. This is <b>7.2%</b> of Scotland’s total international exports."
 index: 2
 frontpage: yes
 parent: country-profiles
@@ -11,12 +10,9 @@ prev: { title: "USA&nbsp;&nbsp;", url: "/country-profiles/usa/"}
 next: { title: "France", url: "/country-profiles/france/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold <b>£2.3 billion</b> worth of exports to Germany. This is <b>7.2%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Germany increased by an average of <b>7.4%</b> each year.</p>
+
 ![An image of Germany outlined on a map](/assets/images/country_maps/02-Germany.png)
-
-![Chart of Scotland's top five exports in Germany](/assets/images/charts_and_graphs/country/Countries.Germany.ScotlandsTop5ExportsRC.jpg)
-![Chart of Scotland's top fifteen imports in Germany](/assets/images/charts_and_graphs/country/Countries.Germany.Top15Imports RC.jpg)
-
-Between 2013 and 2017, Scottish exports to Germany increased by an average of 7.4% each year.
 
 ## The benefits of selling to Germany
 The World Bank rates Germany as the 20th easiest country in the world to do business with.
@@ -37,7 +33,7 @@ Germany is a good place for Scottish businesses to export to because:
 
 
 ## What we could sell more of
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In Germany, the key sectors where Scotland could sell more are:
 
@@ -82,4 +78,4 @@ The [British Chamber of Commerce Germany](http://www.bccg.de/) also offers its m
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to Germany in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to Germany in A Trading Nation.

@@ -2,7 +2,6 @@
 layout: default
 title:  "Belgium"
 category: country-profiles
-summary: "In 2017, Scotland sold just under <b>£1 billion worth</b> of exports to Belgium. This is <b>3.1%</b> of Scotland’s total international exports."
 index: 8
 frontpage: yes
 parent: country-profiles
@@ -11,10 +10,9 @@ prev: { title: "Poland", url: "/country-profiles/poland/"}
 next: { title: "China", url: "/country-profiles/china/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold just under <b>£1 billion</b> worth of exports to Belgium. This is <b>3.1%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Belgium increased by an average of <b>4.6%</b> each year.</p>
+
 ![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
-
-
-Between 2013 and 2017, Scottish exports to Belgium increased by an average of 4.6% each year.
 
 ## The benefits of selling to Belgium
 
@@ -31,12 +29,8 @@ Belgium is also a good place for Scottish businesses to export to because:
 * English is widely spoken in business there
 * it has good transport links
 
-![Chart of top fifteen imports in Belgium](/assets/images/charts_and_graphs/country/Countries.Belgium.Top15Imports RC.jpg)
-
-
 ## What we could sell more of
-
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 /assets/images/charts_and_graphs/country
 
@@ -76,4 +70,4 @@ The [Department for International Trade](https://www.gov.uk/government/publicati
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
 
-You can also find more information on exporting to Belgium in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to Belgium in A Trading Nation.

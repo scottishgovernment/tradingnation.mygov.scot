@@ -2,16 +2,13 @@
 layout: default
 title:  "Where things are being bought"
 category: trading-nation
-summary: ""
 index: 3
 frontpage: yes
 parent: home
 permalink: /where-things-are-being-bought/
 ---
 
-[A Trading Nation](https://www.example.com) focusses on exporting to 20 countries.
-
-Evidence shows these countries are where Scotland's exports are most likely to grow.
+<p class='leader'>A Trading Nation focusses on exporting to 20 countries. Evidence shows these countries are where Scotland's exports are most likely to grow.</p>
 
 ## Countries we’ll look to export to
 The top 10 countries are:
@@ -46,7 +43,7 @@ The next 10 countries are:
 These countries currently make up **17%** of Scotland’s exports.
 
 ## Countries that could offer future opportunities
-[A Trading Nation](https://www.example.com) also shows countries that could offer:
+A Trading Nation also shows countries that could offer:
 
 * longer term opportunities for businesses
 * opportunities for specific sectors
@@ -71,4 +68,4 @@ Each country was chosen based on evidence. This evidence drew on a range of quan
 * the things people and business want or need, across the world
 * the difficulties of selling in particular countries e.g. rules and regulations
 
-You can find out more about how countries were chosen on [A Trading Nation](https://www.example.com)
+You can find out more about how countries were chosen on A Trading Nation

@@ -2,7 +2,6 @@
 layout: default
 title:  "Republic of Ireland"
 category: country-profiles
-summary: "In 2017, Scotland sold <b>£1.5 billion</b> worth of exports to Ireland. This is <b>4.5%</b> of Scotland’s total international exports."
 index: 10
 frontpage: yes
 parent: country-profiles
@@ -10,11 +9,9 @@ permalink: /country-profiles/republic-of-ireland/
 prev: { title: "China", url: "/country-profiles/china/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold <b>£1.5 billion</b> worth of exports to Ireland. This is <b>4.5%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of <b>21%</b> each year.</p>
+
 ![An image of Republic of Ireland outlined on a map](/assets/images/country_maps/10-Irish-Republic.png)
-
-![Chart of Scotland's top fifteen imports in the Republic of Ireland](/assets/images/charts_and_graphs/country/Countries.Ireland.Top15Imports RC.jpg)
-
-Between 2013 and 2017, Scottish exports to Ireland increased by an average of 21% each year.
 
 ## The benefits of selling to Ireland
 The World Bank rates Ireland as the 17th easiest country in the world to do business with.
@@ -34,7 +31,7 @@ Ireland is also a good place for Scottish businesses to export to because:
 
 
 ## What we could sell more of
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 In Ireland, the key sectors where Scotland could sell more are:
 
 * transportation equipment
@@ -42,7 +39,6 @@ In Ireland, the key sectors where Scotland could sell more are:
 * computer programming and information technology (IT)
 
 ![An infographic of top opportunities in Republic of Ireland](/assets/images/country_infographics/10-Republic-of-Ireland-top-opportunities.png)
-
 
 ## Help with exporting in Ireland
 
@@ -84,4 +80,4 @@ The [Department for International Trade](https://www.gov.uk/government/publicati
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to Germany in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to Germany in A Trading Nation.

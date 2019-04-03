@@ -2,7 +2,6 @@
 layout: default
 title:  "Netherlands"
 category: country-profiles
-summary: "In 2017, Scotland sold £2.5 billion worth of exports to the Netherlands. This is 7.6% of Scotland’s total international exports."
 index: 4
 frontpage: yes
 parent: country-profiles
@@ -11,14 +10,9 @@ prev: { title: "France", url: "/country-profiles/france/"}
 next: { title: "Switzerland", url: "/country-profiles/switzerland/"}
 ---
 
+<p class='leader'>In 2017, Scotland sold <b>£2.5 billion</b> worth of exports to the Netherlands. This is <b>7.6%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the Netherlands increased by an average of <b>1.6%</b> each year.</p>
+
 ![An image of Netherlands outlined on a map](/assets/images/country_maps/04-Netherlands.png)
-
-
-![Chart of Scotland's top five exports in the Netherland's](/assets/images/charts_and_graphs/country/Countries.Netherlands.ScotlandsTop5ExportsRC.jpg)
-![Chart of Scotland's top fifteen imports in the Netherland's](/assets/images/charts_and_graphs/country/Countries.Netherlands.Top15Imports RC.jpg)
-
-
-Between 2013 and 2017, Scottish exports to the Netherlands increased by an average of 1.6% each year.
 
 ## The benefits of selling to the Netherlands
 
@@ -39,7 +33,7 @@ It’s also a good place for Scottish businesses to export to because it:
 
 ## What we could sell more of
 
-[A Trading Nation](https://www.example.com) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
+A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
 In the Netherlands, the key sectors where Scotland could sell more are:
 
@@ -71,4 +65,4 @@ The [Netherlands Britain Chamber of Commerce](http://www.nbcc.co.uk/?lang=nl) of
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
 
-You can also find more information on exporting to the Netherlands in [A Trading Nation](https://www.example.com).
+You can also find more information on exporting to the Netherlands in A Trading Nation.

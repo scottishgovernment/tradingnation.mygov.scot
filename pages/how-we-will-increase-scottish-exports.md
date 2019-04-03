@@ -2,13 +2,12 @@
 layout: default
 title:  "How we will increase Scottish exports"
 category: trading-nation
-summary: ""
 index: 4
 frontpage: yes
 parent: home
 permalink: /increase-scottish-exports/
 ---
-[A Trading Nation](https://www.example.com) aims to increase Scotland’s exports by:
+A Trading Nation aims to increase Scotland’s exports by:
 
 * focussing resources
 * making changes to strategy
@@ -23,7 +22,7 @@ For example, [evidence shows](https://www.example.com) that successful exporting
 * focus on a limited range of products and services
 * sell to a limited number of countries
 
-This is why [A Trading Nation](https://www.example.com) focusses on [key sectors](https://www.example.com) and [countries](https://www.example.com).
+This is why A Trading Nation focusses on [key sectors](https://www.example.com) and [countries](https://www.example.com).
 
 
 ## Top 500 businesses
@@ -64,13 +63,13 @@ This will also be in partnership with private sector support organisations. For 
 This will be for businesses based in Scotland.
 
 ## Changes to policy
-[A Trading Nation](https://www.example.com) has used a framework to organise its policy changes. This is known as an ‘ACE model’. This stands for:
+A Trading Nation has used a framework to organise its policy changes. This is known as an ‘ACE model’. This stands for:
 
 * awareness and ambition
 * capacity and capabilities
 * expand and exploit
 
-This means [A Trading Nation](https://www.example.com) aims to:
+This means A Trading Nation aims to:
 
 * raise awareness of exporting and encourage businesses to see it as an ambition
 * build the capacity and capabilities of exporting businesses
@@ -78,7 +77,7 @@ This means [A Trading Nation](https://www.example.com) aims to:
 
 
 ## Raising awareness and encouraging ambition
-To raise awareness of exporting and encourage businesses to do it, [A Trading Nation](https://www.example.com) will put in place:
+To raise awareness of exporting and encourage businesses to do it, A Trading Nation will put in place:
 
 * a business-to-business mentorship programme (through the First Minister’s Export Challenge)
 * £xm for a campaign to encourage business leaders to export  
@@ -91,7 +90,7 @@ To help build capacity and capabilities in exporting businesses, we’ll:
 
 * work with Chambers of Commerce to organise trade missions
 * give £xm to run courses to make sure at least YYY companies every year can use global ecommerce platforms such as Amazon, Ali Baba
-* update the data used in [A Trading Nation](https://www.example.com) every year and make it available online in a user-friendly way
+* update the data used in A Trading Nation every year and make it available online in a user-friendly way
 * focus resources around differing levels of business needs
 * focus resources around key [countries](https://www.example.com) and [sectors](https://www.example.com)  
 * £xm to fund exporting qualifications for business development managers
@@ -114,6 +113,6 @@ To help businesses expand and take advantage of opportunities we'll:
 * provide better coordination and collaboration with the Department for International Trade on trade missions
 
 
-Scottish Development International will also improve their market intelligence and export support. They'll realign their overseas network to match the opportunities in [A Trading Nation](https://www.example.com).
+Scottish Development International will also improve their market intelligence and export support. They'll realign their overseas network to match the opportunities in A Trading Nation.
 
 Scottish Government will spend £xm to help with this and create Y new in-market specialist roles.
