@@ -10,10 +10,10 @@ permalink: /contact/
 
 <p class='leader'>To contact us about A Trading Nation you can</p>
 
-### Email  
-[XXX@gov.scot](mailto:)
+## Email  
+<XXX@gov.scot>
 
-### Phone   
+## Phone   
 Call 0300 244 1305 Monday to Friday, 9am to 4pm.
 
 [Find out about call charges](https://www.gov.uk/call-charges)
@@ -25,9 +25,11 @@ The Scottish Government
 150 Broomielaw  
 Glasgow, G2 8LU
 
-Twitter: [@DITIscotland](https://twitter.com/ditiscotland?lang=en)
+## Twitter
+[@DITIscotland](https://twitter.com/ditiscotland?lang=en)
 
-If you’re a business looking for help with exporting, you can find help and support.
+
+If you’re a business looking for help with exporting, you can [find help and support](https://tradingnation.mygov.scot/help-for-businesses/).
 
 
 ## Media enquiries
