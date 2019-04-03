@@ -7955,12 +7955,39 @@ body.home {
   background-image: linear-gradient(to right, #F0A75A, #A51765);
 }
 /* line 6, ../_scss/overrides/_override.card.scss */
-.card a {
-  color: #000000;
-}
-/* line 9, ../_scss/overrides/_override.card.scss */
-.card a:hover {
+.card a:active,
+.card a:focus {
   color: #A51765;
+}
+
+/* line 1, ../_scss/overrides/_override.category-item.scss */
+.category-item {
+  border-left-color: #333333;
+  color: #333333;
+}
+/* line 5, ../_scss/overrides/_override.category-item.scss */
+.category-item:hover {
+  border-left-color: #F0A75A;
+}
+/* line 9, ../_scss/overrides/_override.category-item.scss */
+.category-item__summary {
+  color: #333333;
+}
+/* line 13, ../_scss/overrides/_override.category-item.scss */
+.category-item__link {
+  color: #333333;
+}
+/* line 15, ../_scss/overrides/_override.category-item.scss */
+.category-item__link:hover {
+  color: #A51765;
+}
+/* line 19, ../_scss/overrides/_override.category-item.scss */
+.category-item__link:active, .category-item__link:focus {
+  background-color: #f0dfe8;
+}
+/* line 24, ../_scss/overrides/_override.category-item.scss */
+.category-item__link p {
+  transition: color 0.2s;
 }
 
 /*------------------------------------*\
@@ -8439,12 +8466,12 @@ body.home {
   color: #333;
 }
 
-/* line 149, ../_scss/main.scss */
+/* line 150, ../_scss/main.scss */
 .main-content > h2 {
   margin-top: 0 !important;
 }
 
-/* line 153, ../_scss/main.scss */
+/* line 154, ../_scss/main.scss */
 .main-content p + h2, .main-content ul + h2 {
   margin-top: 1.6em !important;
 }
