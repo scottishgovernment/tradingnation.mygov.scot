@@ -45,8 +45,10 @@ In the Netherlands, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in the Netherlands's](/assets/images/country_infographics/04-Netherlands-top-opportunities.png)
 
+{:.hidden}
 ### Top opportunities in the Netherlands
 
+{:.hidden}
 * Food & drink
 * Financial & business services
 * Technology, software & communications
@@ -54,6 +56,7 @@ In the Netherlands, the key sectors where Scotland could sell more are:
 * Chemical sciences
 * Life sciences
 * Engineering & advanced manufacturing
+
 
 ## Help with exporting in the Netherlands
 

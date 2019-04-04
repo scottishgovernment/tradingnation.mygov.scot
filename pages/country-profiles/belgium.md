@@ -33,8 +33,6 @@ Belgium is also a good place for Scottish businesses to export to because:
 ## What we could sell more of
 A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
 
-/assets/images/charts_and_graphs/country
-
 In Belgium, the key sectors where Scotland could sell more are:
 
 * financial services
