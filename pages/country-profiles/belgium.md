@@ -10,7 +10,8 @@ prev: { title: "Poland", url: "/country-profiles/poland/"}
 next: { title: "China", url: "/country-profiles/china/"}
 ---
 
-<p class='leader'>In 2017, Scotland sold just under <b>£1 billion</b> worth of exports to Belgium. This is <b>3.1%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Belgium increased by an average of <b>4.6%</b> each year.</p>
+{:.leader}
+In 2017, Scotland sold just under **£1 billion** worth of exports to Belgium. This is **3.1%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Belgium increased by an average of **4.6%** each year.
 
 ![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
 

@@ -10,7 +10,8 @@ prev: { title: "Switzerland", url: "/country-profiles/switzerland/"}
 next: { title: "Poland", url: "/country-profiles/poland/"}
 ---
 
-<p class='leader'>In 2017, Scotland sold over <b>£1 billion</b> worth of exports to Norway. This is <b>3.1%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Norway decreased by an average of <b>5.9%</b> each year. Exports have been affected by a slow-down in Norway’s economy during this time.</p>
+{:.leader}
+In 2017, Scotland sold over **£1 billion** worth of exports to Norway. This is **3.1%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Norway decreased by an average of **5.9%** each year. Exports have been affected by a slow-down in Norway’s economy during this time.
 
 ![An image of Norway outlined on a map](/assets/images/country_maps/06-Norway.png)
 
@@ -71,7 +72,7 @@ The [Department for International Trade](https://www.gov.uk/government/publicati
 
 
 ### Aberdeen and Stavanger
-Aberdeen and Stavanger are twin cities. They take turns to host Europe's top [Offshore Oil and Gas Exhibition](https://www.offshore-europe.co.uk/). They’re important cities for trade in oil and gas equipment.  
+Aberdeen and Stavanger are twin cities. They take turns to host Europe's top [Offshore Oil and Gas Exhibition](https://www.offshore-europe.co.uk/). They’re important cities for trade in oil and gas equipment.
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 

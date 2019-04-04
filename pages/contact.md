@@ -8,21 +8,22 @@ parent: home
 permalink: /contact/
 ---
 
-<p class='leader'>To contact us about A Trading Nation you can</p>
+{:.leader}
+To contact us about A Trading Nation you can
 
-## Email  
+## Email
 <XXX@gov.scot>
 
-## Phone   
+## Phone
 Call 0300 244 1305 Monday to Friday, 9am to 4pm.
 
 [Find out about call charges](https://www.gov.uk/call-charges)
 
 ## Address
-Trade and Investment Delivery Division  
-The Scottish Government  
-5 Atlantic Quay  
-150 Broomielaw  
+Trade and Investment Delivery Division
+The Scottish Government
+5 Atlantic Quay
+150 Broomielaw
 Glasgow, G2 8LU
 
 ## Twitter

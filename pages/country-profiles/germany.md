@@ -10,7 +10,8 @@ prev: { title: "USA&nbsp;&nbsp;", url: "/country-profiles/usa/"}
 next: { title: "France", url: "/country-profiles/france/"}
 ---
 
-<p class='leader'>In 2017, Scotland sold <b>£2.3 billion</b> worth of exports to Germany. This is <b>7.2%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Germany increased by an average of <b>7.4%</b> each year.</p>
+{:.leader}
+In 2017, Scotland sold **£2.3 billion** worth of exports to Germany. This is **7.2%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Germany increased by an average of **7.4%** each year.
 
 ![An image of Germany outlined on a map](/assets/images/country_maps/02-Germany.png)
 

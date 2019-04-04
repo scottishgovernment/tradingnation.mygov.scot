@@ -21,4 +21,4 @@ We try and make our site work with various assistive technologies by:
 
 ## Feedback
 
-If you have any trouble using mygov.scot, please <a href="https://www.mygov.scot/give-feedback/">contact us</a> and let us know.
+If you have any trouble using mygov.scot, please [contact us](https://www.mygov.scot/give-feedback/) and let us know.

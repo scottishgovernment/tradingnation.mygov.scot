@@ -9,7 +9,8 @@ permalink: /country-profiles/usa/
 next: { title: "Germany", url: "/country-profiles/germany/"}
 ---
 
-<p class="leader">In 2017, Scotland sold <b>£5.5 billion</b> worth of exports to the United States of America (USA). This is <b>16.1%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the USA increased by an average of <b>4.6%</b> each year.</p>
+{:.leader}
+In 2017, Scotland sold **£5.5 billion** worth of exports to the United States of America (USA). This is **16.1%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the USA increased by an average of **4.6%** each year.
 
 ![An image of USA outlined on a map](/assets/images/country_maps/01-USA.png)
 

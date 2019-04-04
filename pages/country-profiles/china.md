@@ -10,7 +10,8 @@ prev: { title: "Belgium", url: "/country-profiles/belgium/"}
 next: { title: "Republic of Ireland", url: "/country-profiles/republic-of-ireland/"}
 ---
 
-<p class='leader'>In 2017, Scotland sold just under <b>£625 million</b> worth of exports to China. This is <b>7.2%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to China increased by an average of <b>1.6%</b> each year.</p>
+{:.leader}
+In 2017, Scotland sold just under **£625 million** worth of exports to China. This is **7.2%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to China increased by an average of **1.6%** each year.
 
 ![An image of China outlined on a map](/assets/images/country_maps/09-China.png)
 

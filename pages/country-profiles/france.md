@@ -10,7 +10,8 @@ prev: { title: "Germany", url: "/country-profiles/germany/"}
 next: { title: "Netherlands", url: "/country-profiles/netherlands/"}
 ---
 
-<p class='leader'>In 2017, Scotland sold <b>£2.4 billion</b> worth of exports to France. This is <b>7.6%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of <b>7%</b> each year.</p>
+{:.leader}
+In 2017, Scotland sold **£2.4 billion** worth of exports to France. This is **7.6%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of **7%** each year.
 
 ![An image of France outlined on a map](/assets/images/country_maps/03-France.png)
 

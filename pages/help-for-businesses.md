@@ -8,7 +8,8 @@ parent: home
 permalink: /help-for-businesses/
 ---
 
-<p class='leader'>Different organisations can help your business to export. Who can help depends on what you’re trying to do.</p>
+{:.leader}
+Different organisations can help your business to export. Who can help depends on what you’re trying to do.
 
 ## Advice and guidance
 For general advice and guidance on exporting, go to:
@@ -32,7 +33,7 @@ To work out what skills or training you’ll need to export, go to:
 
 
 ## Funding
-To find out about getting funding, go to:  
+To find out about getting funding, go to:
 
 *	[Scottish Enterprise](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/growing-your-business/make-it-to-market)
 *	[Highlands and Islands Enterprise](http://www.hie.co.uk/)

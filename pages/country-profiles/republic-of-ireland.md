@@ -9,7 +9,8 @@ permalink: /country-profiles/republic-of-ireland/
 prev: { title: "China", url: "/country-profiles/china/"}
 ---
 
-<p class='leader'>In 2017, Scotland sold <b>£1.5 billion</b> worth of exports to Ireland. This is <b>4.5%</b> of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of <b>21%</b> each year.</p>
+{:.leader}
+In 2017, Scotland sold **£1.5 billion** worth of exports to Ireland. This is **4.5%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of **21%** each year.
 
 ![An image of Republic of Ireland outlined on a map](/assets/images/country_maps/10-Irish-Republic.png)
 
@@ -75,7 +76,7 @@ GlobalScot is worldwide network of business contacts who are experts in their fi
 
 
 ## Department for International Trade
-The [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-ireland/exporting-to-ireland) can help Scottish businesses export to Ireland.  
+The [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-ireland/exporting-to-ireland) can help Scottish businesses export to Ireland.
 
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
