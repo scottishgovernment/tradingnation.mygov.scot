@@ -10,12 +10,12 @@ permalink: /what-people-are-buying/
 
 A Trading Nation focuses on the following sectors:
 
-*	[financial and business services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
-*	[food and drink](https://tradingnation.mygov.scot/sectors/food-and-drink/)  
-*	[life and chemical sciences](https://tradingnation.mygov.scot/sectors/science/)  
-*	[engineering](https://tradingnation.mygov.scot/sectors/engineering/)  
-*	[energy](https://tradingnation.mygov.scot/sectors/energy/)  
-*	[digital technology and communications](https://tradingnation.mygov.scot/sectors/technology/)
+*	[Financial and business services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
+*	[Food and drink](https://tradingnation.mygov.scot/sectors/food-and-drink/)  
+*	[Life and chemical sciences](https://tradingnation.mygov.scot/sectors/science/)  
+*	[Engineering](https://tradingnation.mygov.scot/sectors/engineering/)  
+*	[Energy](https://tradingnation.mygov.scot/sectors/energy/)  
+*	[Technology, Digital and Media](https://tradingnation.mygov.scot/sectors/technology/)
 
 Evidence shows these sectors are where Scotland's exports have the most opportunity to grow.
 

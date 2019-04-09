@@ -13,5 +13,5 @@ next: { title: "Engineering", url: "/sectors/engineering/"}
 
 ![An image of test tubes depicting the life and chemical sciences sector](/assets/images/sector_photography/life-and-chemical-sciences.jpg)
 
-![Science](/assets/images/charts_and_graphs/sector/Sector.LifeSciences.Int&RUKProjectionsChart RC.jpg)
-![Science](/assets/images/charts_and_graphs/sector/Sector.LifeSciences.Int&RUKTimeseries RC.jpg)
+![A graph showing science information](/assets/images/charts_and_graphs/sector/Life and Chemical Sciences - Figure 2.jpg)
+![A graph showing science information](/assets/images/charts_and_graphs/sector/Life and Chemical Sciences - Figure 3.jpg)

@@ -13,7 +13,6 @@ next: { title: "Financial and business services", url: "/sectors/financial-and-b
 
 ![An image of code depicting the technology sector](/assets/images/sector_photography/technology-software-and-communications.jpg)
 
-![Technology](/assets/images/charts_and_graphs/sector/Sector.TechnologySoftwareandCommunication.Int&RUKProjections RC.jpg)
-![Technology](/assets/images/charts_and_graphs/sector/Sector.TechnologySoftwareandCommunication.Int&RUKTimeseries RC.jpg)
-![Technology](/assets/images/charts_and_graphs/sector/Sector.TechnologySoftwareandCommunication.IntSub-sectorTimeseries RC.jpg)
-![Technology](/assets/images/charts_and_graphs/sector/Sector.TechnologySoftwareandCommunication.RUKSub-sectorTimeseries RC.jpg)
+![A graph showing technology information](/assets/images/charts_and_graphs/sector/Technology - Figure 1.jpg)
+![A graph showing technology information](/assets/images/charts_and_graphs/sector/Technology - Figure 2.jpg)
+![A graph showing technology information](/assets/images/charts_and_graphs/sector/Technology - Figure 3.jpg)
