@@ -12,6 +12,7 @@ A Trading Nation aims to increase Scotland’s exports by:
 * focussing resources
 * making changes to strategy
 * making changes to policy
+*	checking how exports perform
 
 
 ## Focussing resources
@@ -22,7 +23,7 @@ For example, [evidence shows](https://www.example.com) that successful exporting
 * focus on a limited range of products and services
 * sell to a limited number of countries
 
-This is why A Trading Nation focusses on [key sectors](https://www.example.com) and [countries](https://www.example.com).
+This is why A Trading Nation focusses on [key sectors](https://tradingnation.mygov.scot/sectors/) and [countries](https://tradingnation.mygov.scot/sectors/).
 
 
 ## Top 500 businesses
@@ -30,89 +31,102 @@ Scotland will also focus its resources around its top 500 exporting businesses.
 
 Scotland currently has around 11,000 businesses who export. However, the top 500 are responsible for 80% of exports.
 
-Increasing exports for the top 500 businesses could add 8% to Scotland’s economy (Gross Domestic Product), while increasing exports in the other 10,500 businesses would only add 2%.
+Increasing exports for the top 500 businesses could add £13 billion to Scotland’s economy (Gross Domestic Product), while increasing exports in the other 10,500 businesses would only add £2.9 billion.
 
 Increasing exports for these businesses will also benefit the businesses who supply them.
 
 
 ## Help for new exporters
-All businesses in Scotland will still be able to get some [help to grow their business and start exporting](https://www.example.com). This includes businesses who are new to exporting.
+All businesses in Scotland will still be able to get some [help to grow their business and start exporting](https://tradingnation.mygov.scot/help-for-businesses/). This includes businesses who are new to exporting.
 
 We’re looking at ways we can deliver this help in a different way. For example, improving the help and support available online.
 
 
+## Working together
 
-## Changes to strategy
-As well as focussing resources, other strategy changes will look to:
+A Trading Nation will also focus resources by encouraging organisations to work together on the plan’s priorities. This includes:
 
-* increase and better focus help and support for the top [20 countries we export to](https://www.example.com)
-* have a ‘today and tomorrow strategy’ that watches emerging markets and increases activities as opportunities occur
-* use the Department for International Trade support where Scottish Development International have no representatives
-* grow and make better use of the [GlobalScot](https://www.example.com) and Trade Envoys network in key markets
-* support the top 500 exporters, helping them find new sectors, people and businesses to sell to
-* use sales and exporting qualifications to upskill businesses
+* the Scottish Government
+* the enterprise agencies
+* agencies supporting education, tourism and specific industry sectors
 
-## Scottish enterprise agencies
-[Scottish Enterprise](https://www.example.com) will now deliver a national trade and investment service for:
+By working together, it means businesses can make use of:
 
-* Highlands and Islands Enterprise
-* South of Scotland Enterprise
+* [Scottish Development International offices](https://www.sdi.co.uk/about-sdi/global-offices) in 20 countries
+* [Scottish Government offices](https://www.gov.scot/policies/international-relations/international-offices/) in Brussels and 8 other countries
+* Visit Scotland offices in London and Toronto
 
-This will also be in partnership with private sector support organisations. For example, Chambers of Commerce.
+Businesses will also be able to access wider networks and trade and investment specialists across the world. A Trading Nation will use help from:
 
-This will be for businesses based in Scotland.
+* [GlobalScot](https://www.globalscot.com/)
+* trade envoys
+* [Chambers of Commerce](https://www.scottishchambers.org.uk/)
+* the [British Council](https://www.britishcouncil.org/)
+* the [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade)
+* the [Foreign and Commonwealth Office](https://www.gov.uk/government/organisations/foreign-commonwealth-office)
 
-## Changes to policy
-A Trading Nation has used a framework to organise its policy changes. This is known as an ‘ACE model’. This stands for:
+## Changes to strategy and policy
 
-* awareness and ambition
-* capacity and capabilities
-* expand and exploit
+A Trading Nation makes changes to strategy and policy.
 
-This means A Trading Nation aims to:
+These changes aim to:
 
 * raise awareness of exporting and encourage businesses to see it as an ambition
-* build the capacity and capabilities of exporting businesses
-* help businesses expand so they can take up opportunities to export
+* build the capacity and capabilities of businesses, so they can take up opportunities
+* make sure the right support is available to help businesses expand and exploit opportunities
+
+To do this, A Trading Nation will:
+
+* improve trade promotion as well as Scotland’s overseas profile and reach
+* support businesses by refocussing [Scottish Development International](https://www.sdi.co.uk/)’s priorities
 
 
-## Raising awareness and encouraging ambition
-To raise awareness of exporting and encourage businesses to do it, A Trading Nation will put in place:
+## Improving trade promotion, profile and reach
 
-* a business-to-business mentorship programme (through the First Minister’s Export Challenge)
-* £xm for a campaign to encourage business leaders to export  
-* £xm to develop a Scotland Is Now marketing campaign around Scottish business excellence
-* support Team Scotland to showcase at the Dubai Expo 2020  
+To do this, A Trading Nation will:
 
+* expand the [GlobalScot](https://www.globalscot.com/) network from 600 to 2000 business people in key markets. This includes doubling to 500 people in Europe by 2020
+* give [GlobalScot](https://www.globalscot.com/) clearer “asks” and “offers” of support from [Scottish Development International](https://www.sdi.co.uk/)
+* asking leading Scottish exporters to get involved in [Scotland Is Now](https://www.scotland.org/) to develop a world-class brand for Scotland
+* adding in-market specialists in [key sectors](https://tradingnation.mygov.scot/sectors/), focused on [countries with the most opportunities](https://tradingnation.mygov.scot/where-things-are-being-bought/)
+* continue to do all we can to increase our exports with key countries in Europe, regardless of the outcome of EU Exit
 
-## Building capacity and capabilities in exporting businesses
-To help build capacity and capabilities in exporting businesses, we’ll:
+It’ll also look to increase trade promotion activity with more international missions and exhibitions. This will build on:
 
-* work with Chambers of Commerce to organise trade missions
-* give £xm to run courses to make sure at least YYY companies every year can use global ecommerce platforms such as Amazon, Ali Baba
-* update the data used in A Trading Nation every year and make it available online in a user-friendly way
-* focus resources around differing levels of business needs
-* focus resources around key [countries](https://www.example.com) and [sectors](https://www.example.com)  
-* £xm to fund exporting qualifications for business development managers
+* [Scottish Development International](https://www.sdi.co.uk/)’s current 68 global events
+* the [Chambers of Commerce’s](https://www.scottishchambers.org.uk/) trade missions through their International Trade Promotion programme
+* major international events such as the Rugby World Cup 2019, Dubai Expo 2020 and the Royal Edinburgh Military Tattoo in China 2020
 
 
-We’ll also support our top exporters through:
+Refocussing Scottish Development International’s priorities
 
-* Scottish Enterprise
-* stakeholders offering tailored export support
-* economic diplomacy interventions
+To do this, A Trading Nation will help [Scottish Development International](https://www.sdi.co.uk/) to:
 
+* separate into specialist divisions for exporting and attracting investments. This builds on a successful pilot in the food and drink sector
+* focus their resources on key [countries](https://tradingnation.mygov.scot/country-profiles/) and [sectors](https://tradingnation.mygov.scot/sectors/) that offer the biggest opportunities
+* help existing exporters sell in new countries or create new products
+* work with high potential, early stage businesses in industries like digital and life sciences
+* develop support to help more small businesses who are internationally focussed grow quickly. This includes business in the creative and technology industries
+* work more closely with the enterprise agencies to help more businesses export
+* increase the number of exporting businesses. To do this, they’ll work with the [Chambers of Commerce](https://www.scottishchambers.org.uk/), [Business Gateway](https://www.bgateway.com/), sector leadership bodies
+* increase online training, advice and resources through the new enterprise agencies website
+* improve the skills within businesses through export qualifications and access to sales and marketing courses
 
-## Helping businesses expand and exploit opportunities
-To help businesses expand and take advantage of opportunities we'll:
+It will also improve business networks by:
 
-* create of Z Trade Envoy positions and relaunch the Global Scot programme in key markets
-* establish Trade & Investment ministerial visits to key markets
-* use overseas networks to offer support tailored to market conditions and business needs
-* refocus government resources to better support demand for Scotland’s products and services
-* provide better coordination and collaboration with the Department for International Trade on trade missions
+* giving the [Chambers of Commerce(https://www.scottishchambers.org.uk/) up to £2 million to run trade missions over 3 years (announced December 2018)
+* supporting the [Scottish Business Network](https://www.sbn.scot/) to take up trade opportunities from London
 
+## Checking how Scotland’s exports are performing
 
-Scottish Development International will also improve their market intelligence and export support. They'll realign their overseas network to match the opportunities in A Trading Nation.
+A Trading Nation aims to increase Scottish exports by £25 billion by 2029.
 
-Scottish Government will spend £xm to help with this and create Y new in-market specialist roles.
+To understand how we’re meeting this target, we’ll track the:
+
+* overall value of exports
+* value of exports to particular countries
+* value of exports from particular sectors
+* value of exports from specific businesses
+* the number of exporters
+
+We’ll also regularly check our actions to make sure we focus on the things that work.
