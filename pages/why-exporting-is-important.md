@@ -9,11 +9,11 @@ permalink: /why-exporting-is-important/
 ---
 
 {:.leader}
-In 2017, Scotland exported over **£32 billion** of products and services.
+Countries that export have stronger economies.
 
 ![Why exporting is important](/assets/images/hero/why-exportings-important-header.png)
 
-Exporting helps Scotland’s economy to grow and creates jobs. It also helps the Scottish Government collect more tax to:
+Exporting helps Scotland’s economy to grow and creates jobs. It helps the Scottish Government collect more tax to:
 * improve living standards
 * improve public services
 
@@ -21,53 +21,36 @@ Exporting also helps Scotland build good relationships with other countries. Thi
 
 ## How exporting helps businesses
 
-Exporting helps businesses to grow. How much businesses grow depends on:
+Exporting helps businesses to grow because it:
 
-* the number of people and businesses they can sell to
-* their competitors and what they do
-* the products and services they offer
-
-## Selling to more people and businesses
-
-Exporting means that businesses can sell to more people and businesses. For example, businesses that only sell to Scotland can sell to:
-
-* 4.5 million adults
-* 345,000 businesses
-
-But businesses that sell to other countries can sell to a larger number of people and businesses.
-
-For example in the United States of America, businesses can sell to:
-
-* 252 million adults
-* 28 million businesses
+* leads them to create new products and services
+* makes them more productive
+* gives them more customers to sell to
 
 
-## Competitors, products and services
+## New products and services
 
 Exporting can mean that businesses have more competitors.
 
-But this can be a positive thing and can lead them to develop new products and services.
+But this can be a positive thing and can lead them to develop new products and services
+
+Businesses that export tend to spend more money on research and development. This helps them to develop new products and services to sell.
 
 ## Improving productivity
 
 Exporting helps businesses to become more productive. This means they produce more with the same amount of resources.
 
-Scotland’s working age population is getting smaller. This means Scotland needs businesses to be more productive. Productivity helps to:
+The [Office of National Statistics](https://www.ons.gov.uk/) and [Department for Business, Energy and Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) say:
 
-* increase people’s income
-* improve living standards
-
-Businesses that export tend to be more productive. This is because they spend more money on:
-
-* creating new products or services
-* improving the skills of their workers
+* businesses that export make up 60% of the UK’s annual increase in productivity  
+* the 3% of businesses in Scotland that export are on average 70% more productive than businesses who do not
 
 
-## Making businesses stronger
+## More customers to sell to
 
-Exporting also means businesses do not have to rely on a single market. This helps businesses to spread any risks.
+Exporting also means businesses do not have to rely on a particular set of customers. This helps businesses to spread any risks.
 
-For example, if sales drop in one market, the risk to their business will be less if they have other markets they sell to.
+For example, if sales drop in one market, the risk to their business might be less if they have other markets they sell to.
 
 ## Scotland’s export growth plan
 

@@ -9,10 +9,14 @@ permalink: /where-things-are-being-bought/
 ---
 
 {:.leader}
-A Trading Nation focusses on exporting to 20 countries. Evidence shows these countries are where Scotland's exports are most likely to grow.
+A Trading Nation focusses on exporting to 26 countries. Evidence shows these countries are where Scotland's exports are most likely to grow.
 
 ## Countries we’ll look to export to
-The top 10 countries are:
+
+## A Trading Nation organises countries into 3 priority groups.
+
+### Priority group 1
+The 15 countries in the first priority group are:
 
 * [United States of America](https://tradingnation.mygov.scot/pages/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/pages/country-profiles/germany/)
@@ -24,49 +28,68 @@ The top 10 countries are:
 * [Belgium](https://tradingnation.mygov.scot/pages/country-profiles/belgium/)
 * [China](https://tradingnation.mygov.scot/pages/country-profiles/china/)
 * [Republic of Ireland](https://tradingnation.mygov.scot/pages/country-profiles/republic-of-ireland/)
+* [Denmark](https://tradingnation.mygov.scot/pages/country-profiles/denmark/)
+* [Sweden](https://tradingnation.mygov.scot/pages/country-profiles/sweden/)
+* [Italy](https://tradingnation.mygov.scot/pages/country-profiles/italy/)
+* [Canada](https://tradingnation.mygov.scot/pages/country-profiles/canada/)
+* [Spain](https://tradingnation.mygov.scot/pages/country-profiles/spain/)
 
-These countries currently make up **56%** of Scotland’s exports. They’re expected to provide the most opportunity for Scotland’s future export growth.
 
-## Next 10
-The next 10 countries are:
+These countries currently make up **66%** of Scotland’s exports. They’re expected to provide the most opportunity for Scotland’s future export growth.
 
-* Denmark
-* Sweden
-* Italy
-* Canada
-* Spain
+To help exports to these countries, we’ll put in place support including:
+
+* Scottish Development International help in each country
+* trade envoys for specific sectors
+* help from the GlobalScot network
+* help from in-market sector specialists
+* trade missions and Ministerial visits
+
+
+### Priority group 2
+The 15 countries in the first priority group are:
+
 * Japan
 * Australia
 * Turkey
 * Mexico
 * India
-
-These countries currently make up **17%** of Scotland’s exports.
-
-## Countries that could offer future opportunities
-A Trading Nation also shows countries that could offer:
-
-* longer term opportunities for businesses
-* opportunities for specific sectors
-
-These countries are:
-
-* South Korea
-* United Arab Emirates
-* Nigeria
-* Brazil
 * Singapore
+* the United Arab Emirates (UAE)
+* Nigeria
+* South Korea
+* Brazil
 * Indonesia
 
+These countries currently make up **14%** of Scotland’s exports. These countries are expected to provide opportunities for businesses in:
 
-## How countries were chosen
-Each country was chosen based on evidence. This evidence drew on a range of quantitative and qualitative sources that looked at:
+* the mid to long term
+* specific sectors
 
-* where Scotland is currently selling to
-* the number of people and businesses there are to sell to
-* how close the country is to Scotland
-* where people or businesses are importing more
-* the things people and business want or need, across the world
-* the difficulties of selling in particular countries e.g. rules and regulations
+To help exports to these countries, we’ll put in place support including:
 
-You can find out more about how countries were chosen on A Trading Nation
+* help from Scottish Development International
+* trade envoys for specific sectors
+* help from the GlobalScot network
+
+We’ll also look to make use of the Department for International Trade’s support where possible.
+
+### Priority group 3
+
+The third priority group are countries that might offer opportunities for certain Scottish businesses.
+
+To help exports to these countries, we’ll put in place support including help from:
+
+* Department for International Trade
+* the GlobalScot network
+
+How countries were chosen
+
+Each country was chosen based on evidence. This evidence drew on a range of sources that looked at:
+
+* how much Scotland currently exports there
+* how we think exports there could increase in future
+* how much other countries are exporting there
+* things about that country that can benefit key sectors
+
+You can find out more about how countries were chosen on gov.scot
