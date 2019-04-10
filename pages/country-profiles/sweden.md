@@ -6,7 +6,8 @@ index: 12
 frontpage: yes
 parent: country-profiles
 permalink: /country-profiles/sweden/
-next: { title: "Sweden", url: "/country-profiles/sweden/"}
+prev: { title: "Denmark", url: "/country-profiles/denmark/"}
+next: { title: "Italy", url: "/country-profiles/italy/"}
 ---
 
 {:.leader}

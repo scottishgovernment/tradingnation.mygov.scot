@@ -16,7 +16,6 @@ In 2017, Scotland sold **£2.5 billion** worth of exports to the Netherlands. Th
 ![An image of Netherlands outlined on a map](/assets/images/country_maps/04-Netherlands.png)
 
 ## The benefits of selling to the Netherlands
-
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates the Netherlands as the 36th easiest country in the world to do business with.
 
 The Netherlands is a good place to export to because it:

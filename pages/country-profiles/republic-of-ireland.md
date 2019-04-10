@@ -7,6 +7,7 @@ frontpage: yes
 parent: country-profiles
 permalink: /country-profiles/republic-of-ireland/
 prev: { title: "China", url: "/country-profiles/china/"}
+next: { title: "Denmark", url: "/country-profiles/denmark/"}
 ---
 
 {:.leader}

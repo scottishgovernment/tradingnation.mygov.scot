@@ -16,7 +16,6 @@ In 2017, Scotland sold just under **£1 billion** worth of exports to Belgium. T
 ![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
 
 ## The benefits of selling to Belgium
-
 The World Bank rates Belgium as the 45th easiest country in the world to do business with.
 
 This is because Belgium has:

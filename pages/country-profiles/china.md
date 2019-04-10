@@ -16,7 +16,6 @@ In 2017, Scotland sold just under **£625 million** worth of exports to China. T
 ![An image of China outlined on a map](/assets/images/country_maps/09-China.png)
 
 ## The benefits of selling to China
-
 The World Bank rates China as the 46th easiest country in the world to do business with.
 
 This is because China has:
