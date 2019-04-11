@@ -18,21 +18,21 @@ A Trading Nation focusses on exporting to 26 countries. Evidence shows these cou
 ### Priority group 1
 The 15 countries in the first priority group are:
 
-* [United States of America](https://tradingnation.mygov.scot/pages/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/pages/country-profiles/germany/)
-* [France](https://tradingnation.mygov.scot/pages/country-profiles/france/)
-* [Netherlands](https://tradingnation.mygov.scot/pages/country-profiles/netherlands/)
-* [Switzerland](https://tradingnation.mygov.scot/pages/country-profiles/switzerland/)
-* [Norway](https://tradingnation.mygov.scot/pages/country-profiles/norway/)
-* [Poland](https://tradingnation.mygov.scot/pages/country-profiles/poland/)
-* [Belgium](https://tradingnation.mygov.scot/pages/country-profiles/belgium/)
-* [China](https://tradingnation.mygov.scot/pages/country-profiles/china/)
-* [Republic of Ireland](https://tradingnation.mygov.scot/pages/country-profiles/republic-of-ireland/)
-* [Denmark](https://tradingnation.mygov.scot/pages/country-profiles/denmark/)
-* [Sweden](https://tradingnation.mygov.scot/pages/country-profiles/sweden/)
-* [Italy](https://tradingnation.mygov.scot/pages/country-profiles/italy/)
-* [Canada](https://tradingnation.mygov.scot/pages/country-profiles/canada/)
-* [Spain](https://tradingnation.mygov.scot/pages/country-profiles/spain/)
+* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
+* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
+* [France](https://tradingnation.mygov.scot/country-profiles/france/)
+* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
+* [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
+* [Norway](https://tradingnation.mygov.scot/country-profiles/norway/)
+* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
+* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
+* [China](https://tradingnation.mygov.scot/country-profiles/china/)
+* [Republic of Ireland](https://tradingnation.mygov.scot/country-profiles/republic-of-ireland/)
+* [Denmark](https://tradingnation.mygov.scot/country-profiles/denmark/)
+* [Sweden](https://tradingnation.mygov.scot/country-profiles/sweden/)
+* [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
+* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
+* [Spain](https://tradingnation.mygov.scot/country-profiles/spain/)
 
 
 These countries currently make up **66%** of Scotland’s exports. They’re expected to provide the most opportunity for Scotland’s future export growth.
