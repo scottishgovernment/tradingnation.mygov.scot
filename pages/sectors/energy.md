@@ -2,7 +2,6 @@
 layout: default
 title:  "Energy"
 category: sectors
-summary: ""
 index: 6
 frontpage: yes
 parent: sectors
@@ -12,6 +11,82 @@ prev: { title: "Engineering", url: "/sectors/engineering/"}
 
 ![An image of wind turbines depicting the energy sector](/assets/images/sector_photography/energy.jpg)
 
-![A graph showing energy information](/assets/images/charts_and_graphs/sector/Energy - Figure 1.jpg)
-![A graph showing energy information](/assets/images/charts_and_graphs/sector/Energy - Figure 2.jpg)
-![A graph showing energy information](/assets/images/charts_and_graphs/sector/Energy - Figure 3.jpg)
+In 2017, energy made up:
+
+* **11.7%** of Scotland’s international exports (£3.8 billion)
+* **15.9%** of Scotland’s UK exports (£7.8 billion)
+
+The energy sector covers:
+
+* mining and mining support
+* utilities, such as: electricity, gas, renewables
+
+A Trading Nation covers some oil and gas sector activities, such as:
+
+* consultancy
+* engineering
+* equipment
+
+It does not include oil and gas production.
+
+## How Scotland’s energy exports have increased since 2002
+![Graph showing how Scotland’s energy exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Energy - Figure 1.jpg)
+
+
+## Between 2002 and 2017 Scotland’s energy exports increased:
+* internationally from **£700 million** to **£3.8 billion**
+* to the rest of the UK from **£2.6 billion** to **£7.8 billion**
+
+## Where we can sell more
+A Trading Nation used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+
+This evidence shows where:
+
+* there’s a large or growing demand for imports.
+* Scotland’s exporting less than other, similar countries
+
+> The similar countries are Finland, Norway, Denmark and Ireland.
+
+### Countries where there’s a large or growing demand for energy imports
+* [France](https://tradingnation.mygov.scot/country-profiles/france/)
+* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
+* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
+* Singapore
+
+### Where Scotland’s currently exporting less than similar countries
+* [France](https://tradingnation.mygov.scot/country-profiles/france/)
+* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
+* [Sweden](https://tradingnation.mygov.scot/country-profiles/sweden/)
+* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
+* Australia
+* India
+* Singapore
+* South Korea
+
+## What we're going to do
+
+### Access to data
+
+We'll help industry bodies get better access to data on energy, so they can identify export opportunities.
+
+### In-market specialists
+We'll work with Scottish Development International and Opportunity North East to invest in 5 overseas in-market specialists.
+
+These specialists will find new business opportunities for the Scottish energy supply chain. They'll do this by building relationships with:
+
+* customers
+* government departments
+* regulators
+* intermediaries
+
+### Nuclear decommissioning
+We'll develop a Scottish nuclear decommissioning capability statement, international mapping and networking exercise.
+
+### Global low carbon transition
+We'll work with Scottish businesses to take up opportunities created by the global change to low carbon technologies. We’ll do this by:
+
+* supporting the oil and gas supply chain to diversify
+* helping businesses increase their sales to new countries and sectors
+
+
+You can find more information on Scotland’s energy sector in A Trading Nation.
