@@ -35,7 +35,7 @@ Between 2013 and 2018 Scotland’s food and drink exports:
 
 ## Where we can sell more
 
-A Trading Nation used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
 
 This evidence shows where:
 
@@ -77,7 +77,7 @@ This helps to support:
 * industry in making trade agreements
 
 
-You can find more information on Scotland’s food and drink sector in A Trading Nation.
+You can find more information on Scotland’s food and drink sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
 
 
 
@@ -87,7 +87,7 @@ You can find more information on Scotland’s food and drink sector in A Trading
 
 ## sWhat we can sell more of
 
-A Trading Nation highlights key opportunities for Scottish businesses to sell more. This includes:
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) highlights key opportunities for Scottish businesses to sell more. This includes:
 
 * middle class consumer markets in developed and developing countries, where Scottish brands are appealing to people and businesses
 * white spirits, which sell the most in the global spirits market, presenting opportunities for Scottish gin producers. This also leaves scope for growth and diversity in whisky

@@ -9,7 +9,7 @@ permalink: /contact/
 ---
 
 {:.leader}
-To contact us about A Trading Nation you can
+To contact us about [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) you can
 
 ## Email
 <XXX@gov.scot>

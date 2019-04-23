@@ -21,7 +21,7 @@ The energy sector covers:
 * mining and mining support
 * utilities, such as: electricity, gas, renewables
 
-A Trading Nation covers some oil and gas sector activities, such as:
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) covers some oil and gas sector activities, such as:
 
 * consultancy
 * engineering
@@ -38,7 +38,7 @@ It does not include oil and gas production.
 * to the rest of the UK from **£2.6 billion** to **£7.8 billion**
 
 ## Where we can sell more
-A Trading Nation used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
 
 This evidence shows where:
 
@@ -70,7 +70,7 @@ This evidence shows where:
 We'll help industry bodies get better access to data on energy, so they can identify export opportunities.
 
 ### In-market specialists
-We'll work with Scottish Development International and Opportunity North East to invest in 5 overseas in-market specialists.
+We'll work with Scottish Development International and Opportunity North East to invest in five overseas in-market specialists.
 
 These specialists will find new business opportunities for the Scottish energy supply chain. They'll do this by building relationships with:
 
@@ -89,4 +89,4 @@ We'll work with Scottish businesses to take up opportunities created by the glob
 * helping businesses increase their sales to new countries and sectors
 
 
-You can find more information on Scotland’s energy sector in A Trading Nation.
+You can find more information on Scotland’s energy sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

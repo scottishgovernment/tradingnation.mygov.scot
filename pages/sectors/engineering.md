@@ -36,7 +36,7 @@ Between 2002 and 2017 Scotland’s engineering and advanced manufacturing export
 
 
 ## Where we can sell more
-A Trading Nation used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
 
 This evidence shows where:
 
@@ -76,4 +76,4 @@ To help engineering and advanced manufacturing exports, we’ll:
 * find GlobalScots or Trade Envoys who can offer businesses advice, support or introductions
 * help businesses find export opportunities by exploring ways to make sector data available
 
-You can find more information on Scotland’s engineering and advanced manufacturing sector in A Trading Nation.
+You can find more information on Scotland’s engineering and advanced manufacturing sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

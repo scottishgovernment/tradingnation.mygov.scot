@@ -8,7 +8,7 @@ parent: home
 permalink: /what-people-are-buying/
 ---
 
-A Trading Nation focuses on the following sectors:
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focuses on the following sectors:
 
 *	[Financial and business services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 *	[Food and drink](https://tradingnation.mygov.scot/sectors/food-and-drink/)  
@@ -29,12 +29,12 @@ Each sector was chosen based on evidence. This evidence drew on a range of quant
 * where Scotland is well placed to supply things compared to our competitors
 
 ## Comparing countries
-[Different countries were compared](https://www.example.com) to work out which countries offered opportunities to grow:
+[Different countries were compared](https://tradingnation.mygov.scot/country-profiles/) to work out which countries offered opportunities to grow:
 
 * across sectors
 * for specific sectors only
 
-This showed that the [top 4 countries](https://www.example.com) had opportunities in all chosen sectors. While, the [rest of the countries](https://www.example.com) had opportunities in only some of the chosen sectors.
+This showed that the [top 4 countries](https://tradingnation.mygov.scot/where-things-are-being-bought/) had opportunities in all chosen sectors. While, the [rest of the countries](https://tradingnation.mygov.scot/where-things-are-being-bought/) had opportunities in only some of the chosen sectors.
 
 
-You can find out more about how sectors were chosen on [gov.scot](https://www.example.com)
+You can find out more about how sectors were chosen on [gov.scot](https://www.gov.scot/publications/scotland-a-trading-nation/)

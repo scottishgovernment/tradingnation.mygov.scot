@@ -49,7 +49,7 @@ Between 2002 and 2017 Scotland’s chemical sciences exports increased:
 
 ## Where we can sell more
 
-A Trading Nation used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
 
 This evidence shows where:
 
@@ -112,4 +112,4 @@ To help life and chemical sciences exports, we'll
 * develop the international leadership and sales skills of businesses, helping them take advantage of export opportunities
 * find [GlobalScots](https://www.globalscot.com/) or Trade Envoys who can offer businesses advice, support and introductions
 
-You can find more information on Scotland’s life and chemical sciences sector in A Trading Nation.
+You can find more information on Scotland’s life and chemical sciences sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

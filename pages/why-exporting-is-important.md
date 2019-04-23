@@ -54,4 +54,4 @@ For example, if sales drop in one market, the risk to their business might be le
 
 ## Scotland’s export growth plan
 
-Because exporting is important to Scotland and its businesses, the Scottish Government has created an export growth plan. This plan is called A Trading Nation.  
+Because exporting is important to Scotland and its businesses, the Scottish Government has created an export growth plan. This plan is called [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).  

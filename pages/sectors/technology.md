@@ -38,7 +38,7 @@ Between 2002 and 2017 Scotland’s technology, digital and media exports:
 
 ## Where we can sell more
 
-A Trading Nation used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
 
 This evidence shows where:
 
@@ -82,4 +82,4 @@ To help technology, digital and media exports, we’ll
 * find [GlobalScots](https://www.globalscot.com/) or Trade Envoys who can help businesses with advice, support or introductions
 
 
-You can find more information on Scotland’s technology, digital and media sector in A Trading Nation.
+You can find more information on Scotland’s technology, digital and media sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

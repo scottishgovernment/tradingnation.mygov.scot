@@ -7,7 +7,7 @@ frontpage: yes
 parent: home
 permalink: /increase-scottish-exports/
 ---
-A Trading Nation aims to increase Scotland’s exports by:
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) aims to increase Scotland’s exports by:
 
 * focussing resources
 * making changes to strategy
@@ -18,12 +18,12 @@ A Trading Nation aims to increase Scotland’s exports by:
 ## Focussing resources
 Scotland will increase exports by focussing resources where they will have most impact.
 
-For example, [evidence shows](https://www.example.com) that successful exporting countries:
+For example, [evidence shows](https://www.gov.scot/publications/scotland-a-trading-nation/) that successful exporting countries:
 
 * focus on a limited range of products and services
 * sell to a limited number of countries
 
-This is why A Trading Nation focusses on [key sectors](https://tradingnation.mygov.scot/sectors/) and [countries](https://tradingnation.mygov.scot/sectors/).
+This is why [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on [key sectors](https://tradingnation.mygov.scot/sectors/) and [countries](https://tradingnation.mygov.scot/sectors/).
 
 
 ## Top 500 businesses
@@ -44,7 +44,7 @@ We’re looking at ways we can deliver this help in a different way. For example
 
 ## Working together
 
-A Trading Nation will also focus resources by encouraging organisations to work together on the plan’s priorities. This includes:
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will also focus resources by encouraging organisations to work together on the plan’s priorities. This includes:
 
 * the Scottish Government
 * the enterprise agencies
@@ -67,7 +67,7 @@ Businesses will also be able to access wider networks and trade and investment s
 
 ## Changes to strategy and policy
 
-A Trading Nation makes changes to strategy and policy.
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) makes changes to strategy and policy.
 
 These changes aim to:
 
@@ -75,7 +75,7 @@ These changes aim to:
 * build the capacity and capabilities of businesses, so they can take up opportunities
 * make sure the right support is available to help businesses expand and exploit opportunities
 
-To do this, A Trading Nation will:
+To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will:
 
 * improve trade promotion as well as Scotland’s overseas profile and reach
 * support businesses by refocussing [Scottish Development International](https://www.sdi.co.uk/)’s priorities
@@ -83,7 +83,7 @@ To do this, A Trading Nation will:
 
 ## Improving trade promotion, profile and reach
 
-To do this, A Trading Nation will:
+To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will:
 
 * expand the [GlobalScot](https://www.globalscot.com/) network from 600 to 2000 business people in key markets. This includes doubling to 500 people in Europe by 2020
 * give [GlobalScot](https://www.globalscot.com/) clearer “asks” and “offers” of support from [Scottish Development International](https://www.sdi.co.uk/)
@@ -100,7 +100,7 @@ It’ll also look to increase trade promotion activity with more international m
 
 Refocussing Scottish Development International’s priorities
 
-To do this, A Trading Nation will help [Scottish Development International](https://www.sdi.co.uk/) to:
+To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will help [Scottish Development International](https://www.sdi.co.uk/) to:
 
 * separate into specialist divisions for exporting and attracting investments. This builds on a successful pilot in the food and drink sector
 * focus their resources on key [countries](https://tradingnation.mygov.scot/country-profiles/) and [sectors](https://tradingnation.mygov.scot/sectors/) that offer the biggest opportunities
@@ -119,7 +119,7 @@ It will also improve business networks by:
 
 ## Checking how Scotland’s exports are performing
 
-A Trading Nation aims to increase Scottish exports by £25 billion by 2029.
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) aims to increase Scottish exports by £25 billion by 2029.
 
 To understand how we’re meeting this target, we’ll track the:
 

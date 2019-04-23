@@ -38,7 +38,7 @@ Between 2002 and 2017 Scotland’s financial and business services exports incre
 
 ## Where we can sell more
 
-A Trading Nation used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
 
 This evidence shows where:
 
@@ -72,7 +72,7 @@ This evidence shows where:
 
 We’ll continue to work with the financial and business services sector to help increase exports. This will include working with businesses in the growing financial technologies sector.
 
-You can find more information on Scotland’s financial and business services sector in A Trading Nation.
+You can find more information on Scotland’s financial and business services sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
 
 
 < - - - >

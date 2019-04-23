@@ -9,7 +9,7 @@ permalink: /where-things-are-being-bought/
 ---
 
 {:.leader}
-A Trading Nation focusses on exporting to 26 countries. Evidence shows these countries are where Scotland's exports are most likely to grow.
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on exporting to 26 countries. Evidence shows these countries are where Scotland's exports are most likely to grow.
 
 ## Countries we’ll look to export to
 
@@ -92,4 +92,4 @@ Each country was chosen based on evidence. This evidence drew on a range of sour
 * how much other countries are exporting there
 * things about that country that can benefit key sectors
 
-You can find out more about how countries were chosen on gov.scot
+You can find out more about how countries were chosen on [gov.scot](https://www.gov.scot/publications/scotland-a-trading-nation/)

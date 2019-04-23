@@ -47,7 +47,7 @@ To get funding, you’ll need [an export plan](https://www.scottish-enterprise.c
 ## Research
 Find information on opportunities in different sectors and the people or businesses you can sell to:
 
-*	A Trading Nation
+*	[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/)
 *	[Exporting is Great](https://www.great.gov.uk/)
 *	[Bank of Scotland](https://business.bankofscotland.co.uk/business-resource-centre/economic-and-market-insight.html)
 *	[Santander](https://en.portal.santandertrade.com/analyse-markets)
