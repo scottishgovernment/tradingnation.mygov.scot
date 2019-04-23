@@ -16,14 +16,14 @@ In 2017, Scotland sold just under **£625 million** worth of exports to China. T
 ![An image of China outlined on a map](/assets/images/country_maps/09-China.png)
 
 ## The benefits of selling to China
-The World Bank rates China as the 46th easiest country in the world to do business with.
+The [World Bank](http://www.doingbusiness.org/en/rankings) rates China as the 46th easiest country in the world to do business with.
 
-This is because China has:
+China’s a good place to export to because it has:
 
 * a huge, growing number of people and businesses
 * a stable economy
 
-China is also a good place for Scottish businesses to export to because:
+It’s also a good place for Scottish businesses to export to because:
 
 * UK brands have a positive reputation there
 * it will be the world’s biggest buyer of luxury goods in 2020
@@ -42,37 +42,56 @@ In China, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in China](/assets/images/country_infographics/09-China-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in China
+
+{:.hidden}
+* Life sciences
+* Engineering and advanced manufacturing
+* Food and drink
+* Chemical sciences
+* Technology, digital and media
+
 ## Help with exporting in China
 
 ### Scottish Development International offices
-Scottish Development International help develop trade links between Scotland and China by working with:
+Scottish Development International have offices in:
 
-* the [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade)
-* the [GlobalScot network](https://www.globalscot.com/)
-* local industry partners
+* [Shanghai](https://www.sdi.co.uk/about-sdi/global-offices/asia-and-pacific/china-shanghai)
+* [Beijing](https://www.sdi.co.uk/about-sdi/global-offices/asia-and-pacific/china-beijing)
+* [Hong Kong](https://www.sdi.co.uk/about-sdi/global-offices/asia-and-pacific/china-hong-kong)
+* [Guangzhou](https://www.sdi.co.uk/about-sdi/global-offices/asia-and-pacific/china-guangzhou)
 
-They have offices in:
+They have eight members of staff who are focussed on:
 
-* Shanghai
-* Beijing
-* Hong Kong
-* Guangzhou
+* who produce consumer goods
+* science and technology
+* energy
 
 ### GlobalScot
-[GlobalScot network](https://www.globalscot.com/) is worldwide network of business contacts who are experts in their field. They help and support Scottish businesses.
+The [GlobalScot](https://www.globalscot.com/) network has seven experts in China covering:
+
+* energy
+* tourism
+
+We’re going to expand the GlobalScot network in China.
 
 ### Scottish Affairs Office
 The Scottish Government has a Scottish Affairs Office in Beijing. This promotes Scotland's interests in China.
 
-You can find out more on gov.scot[title](https://www.example.com).
+You can find out more on [gov.scot](https://www.gov.scot/policies/international-relations/international-offices/).
 
 ### Department for International Trade
-The [Department for International Trade](https://www.gov.uk/guidance/exporting-to-china) can help Scottish businesses export to China. It has staff in the embassy in Beijing and in offices in:
+You can contact the [Department for International Trade](https://www.gov.uk/guidance/exporting-to-china) team in China to find opportunities for doing business there.
 
-* Chongqing
-* Guangzhou
-* Shanghai
-* Wuhan
+### Department for International Trade
+The [British Chamber of Commerce](https://www.britishchamber.cn/en/) in China can offer members:
+
+* business support
+* advice
+* introductions
+
+They have an office in [Beijing](https://www.britishchamber.cn/en/contact/).
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 

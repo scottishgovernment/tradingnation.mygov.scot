@@ -16,14 +16,14 @@ In 2017, Scotland sold just under **£1 billion** worth of exports to Belgium. T
 ![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
 
 ## The benefits of selling to Belgium
-The World Bank rates Belgium as the 45th easiest country in the world to do business with.
+The [World Bank](http://www.doingbusiness.org/en/rankings) rates Belgium as the 45th easiest country in the world to do business with.
 
-This is because Belgium has:
+Belgium’s a good place to export to because it has:
 
 * excellent transport networks
 * a strategic location in Europe
 
-Belgium is also a good place for Scottish businesses to export to because:
+It's also a good place for Scottish businesses to export to because:
 
 * UK brands are trusted there
 * English is widely spoken in business there
@@ -44,28 +44,45 @@ In Belgium, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Belgium](/assets/images/country_infographics/08-Belgium-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Belgium
+
+{:.hidden}
+* Chemical sciences
+* Food and drink
+* Energy
+* Life sciences
+* Engineering and advanced manufacturing
+* Financial and business services
+
 ## Help with exporting in Belgium
 
-Scottish Development International offices
+### Scottish Development International offices
 
-Scottish Development International have an office in [Brussels](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/belgium-brussels). They help develop trade links between Scotland and Belgium by working with:
-
-* the [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade)
-* the [GlobalScot network](https://www.globalscot.com/)
-* local industry partners
-
+Scottish Development International have an office in [Brussels](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/belgium-brussels). They have one member of staff focussed on industries that produce consumer goods.
 
 ### GlobalScot
 
-GlobalScot is worldwide network of business contacts who are experts in their field. They help and support Scottish businesses.
+The [GlobalScot](https://www.globalscot.com/) network has three experts in Belgium covering:
 
+* life sciences
+* financial services
+
+We’re going to expand the GlobalScot network in Belgium.
 
 ## Department for International Trade
 
-The [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-belgium/exporting-to-belgium) can help Scottish businesses export to Belgium. It has staff in Brussels.
+You can contact the [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-belgium/exporting-to-belgium) team in Belgium to find opportunities for doing business there.  
 
+### British Chamber of Commerce
+
+The [British Chamber of Commerce](https://www.britishchamber.be/) in Belgium can offer members:
+
+* advice
+* introductions
+
+They have an office in [Brussels](https://www.britishchamber.be/).
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
-
 
 You can also find more information on exporting to Belgium in A Trading Nation.

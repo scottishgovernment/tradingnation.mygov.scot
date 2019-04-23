@@ -44,6 +44,15 @@ In Denmark, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Denmark](/assets/images/country_infographics/11-Denmark-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Denmark
+
+{:.hidden}
+* Life sciences
+* Engineering and advanced manufacturing
+* Energy
+* Chemical sciences
+
 ## Help with exporting in Denmark
 
 ### Scottish Development International offices

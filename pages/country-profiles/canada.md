@@ -44,6 +44,16 @@ In Canada, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Canada](/assets/images/country_infographics/14-Canada-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Canada
+
+{:.hidden}
+* Engineering and advanced manufacturing
+* Food and drink
+* Financial and business services
+* Energy
+* Chemical sciences
+* Life sciences
 
 ## Help with exporting in Canada
 

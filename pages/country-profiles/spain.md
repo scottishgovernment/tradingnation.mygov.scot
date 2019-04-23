@@ -44,16 +44,25 @@ In Spain, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Spain](/assets/images/country_infographics/15-Spain-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Spain
+
+{:.hidden}
+* Food & drink
+* Engineering & advanced manufacturing
+* Chemical sciences
+* Financial and business services
+
 ## Help with exporting in Spain
 ### Scottish Development International offices
 
-Scottish Development International have an offices in [Barcelona](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-barcelona) and [Madrid](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-madrid). They have 2 members of staff working in:
+Scottish Development International have an offices in [Barcelona](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-barcelona) and [Madrid](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-madrid). They have two members of staff working in:
 
 * industries that produce consumer goods
 * science and technology
 
 ### GlobalScot
-The [GlobalScot](https://www.globalscot.com/) network has 5 experts in Spain covering:
+The [GlobalScot](https://www.globalscot.com/) network has five experts in Spain covering:
 
 * energy
 * financial services

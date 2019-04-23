@@ -41,6 +41,18 @@ In the USA, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in the USA](/assets/images/country_infographics/01-USA-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in the United States of America
+
+{:.hidden}
+* Technology, digital and media
+* Life sciences
+* Engineering and advanced manufacturing
+* Food and drink
+* Financial and business services
+* Chemical sciences
+* Energy
+
 ## Help with exporting in the USA
 ### Scottish Development International offices
 Scottish Development International can help Scottish businesses in the USA with:

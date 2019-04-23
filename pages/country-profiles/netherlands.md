@@ -13,7 +13,7 @@ next: { title: "Switzerland", url: "/country-profiles/switzerland/"}
 {:.leader}
 In 2017, Scotland sold **£2.5 billion** worth of exports to the Netherlands. This is **7.6%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the Netherlands increased by an average of **1.6%** each year.
 
-![An image of Netherlands outlined on a map](/assets/images/country_maps/04-Netherlands.png)
+![An image of the Netherlands outlined on a map](/assets/images/country_maps/04-Netherlands.png)
 
 ## The benefits of selling to the Netherlands
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates the Netherlands as the 36th easiest country in the world to do business with.
@@ -29,7 +29,6 @@ It’s also a good place for Scottish businesses to export to because it:
 * has a stable economy
 * is close to Scotland
 * has a similar culture to Scotland
-
 
 ## What we could sell more of
 
@@ -56,25 +55,34 @@ In the Netherlands, the key sectors where Scotland could sell more are:
 * Life sciences
 * Engineering & advanced manufacturing
 
-
 ## Help with exporting in the Netherlands
+
+### Scottish Development International offices
+
+Scottish Development International can help businesses exporting to the Netherlands from their office in [Brussels](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/belgium-brussels).
+
+They have one member of staff focussing on industries that produce consumer goods.
 
 ### GlobalScot
 
-[GlobalScot](https://www.globalscot.com/) is worldwide network of business contacts who are experts in their field. They help and support Scottish businesses.
+The [GlobalScot](https://www.globalscot.com/) network has four experts in the Netherlands covering:
 
+* energy
+* financial and business services
 
-## Department for International Trade
+### Department for International Trade
 
-The [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-netherlands/exporting-to-the-netherlands) can help Scottish businesses export to the Netherlands. It has staff in the British Embassy in The Hague.
-
+You can contact the [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-netherlands/exporting-to-the-netherlands) team in the Netherlands to find opportunities for doing business there.  
 
 ### Chambers of Commerce
 
-The [Netherlands Britain Chamber of Commerce](http://www.nbcc.co.uk/?lang=nl) offers its members advice and introductions in the Netherlands.
+The Netherlands Britain Chamber of Commerce can offer members:
 
+* advice
+* introductions
+
+They have [offices](http://www.nbcc.co.uk/?lang=nl) in London and the Hague.
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
-
 
 You can also find more information on exporting to the Netherlands in A Trading Nation.

@@ -48,13 +48,24 @@ In Italy, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Italy](/assets/images/country_infographics/13-Italy-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Italy
+
+{:.hidden}
+* Engineering and advanced manufacturing
+* Food and drink
+* Life sciences
+* Technology, digital and media
+* Chemical sciences
+* Financial and business services
+
 ## Help with exporting in Italy
 
 ### Scottish Development International offices
-[Scottish Development International](https://www.sdi.co.uk/) have an office in [Milan](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/italy-milan. They have 1 staff member who’s focussed on industries that produce consumer goods.
+[Scottish Development International](https://www.sdi.co.uk/) have an office in [Milan](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/italy-milan. They have one staff member who’s focussed on industries that produce consumer goods.
 
 ### GlobalScot
-The [GlobalScot](https://www.globalscot.com/) network has 4 experts in Italy covering:
+The [GlobalScot](https://www.globalscot.com/) network has four experts in Italy covering:
 
 * financial services
 * energy

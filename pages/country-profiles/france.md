@@ -16,14 +16,14 @@ In 2017, Scotland sold **£2.4 billion** worth of exports to France. This is **7
 ![An image of France outlined on a map](/assets/images/country_maps/03-France.png)
 
 ## The benefits of selling to France
-The World Bank rates France as the 31st easiest country in the world to do business with.
+The [World Bank](http://www.doingbusiness.org/en/rankings) rates France as the 32nd easiest country in the world to do business with.
 
-This is because France:
+France’s a good place to export to because it:
 
 * has well defined and established laws
 * does not have a lot of regulations which can cause barriers for trade
 
-France is also a good place for Scottish businesses to export to because:
+It's also a good place for Scottish businesses to export to because:
 
 * it has a high standard of living and people have money to spend
 * it’s close to Scotland
@@ -41,14 +41,26 @@ In France, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in France](/assets/images/country_infographics/03-France-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in France
+
+{:.hidden}
+* Technology, digital and media
+* Energy
+* Financial and business services
+* Chemical sciences
+* Life sciences
+* Food and drink
+* Engineering and advanced manufacturing
+
 ## Help with exporting in France
 
 ### Scottish Development International offices
-Scottish Development International have an office in Paris. They help develop trade links between Scotland and France by working with:
+Scottish Development International have an office in [Paris](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/france-paris). They have four members of staff focussed on:
 
-* the [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade)
-* the [GlobalScot network](https://www.globalscot.com/)
-* local industry partners
+* energy
+* science and technology
+* industries that produce consumer goods
 
 ### Innovation and Investment Hub
 The Scottish Government have an office in [Paris](https://www.gov.scot/policies/europe/innovation-and-investment-hubs/#Paris). The Innovation and Investment Hub can help businesses:
@@ -59,16 +71,30 @@ The Scottish Government have an office in [Paris](https://www.gov.scot/policies/
 * find opportunities to develop new products and services in France
 
 ### GlobalScot
-[GlobalScot](https://www.globalscot.com/) is network of business contacts who are experts in their field. They help and support Scottish businesses.
+The [GlobalScot](https://www.globalscot.com/) network has eight experts in France covering:
 
-## Department for International Trade
-The [Department for International Trade](https://www.gov.uk/guidance/exporting-to-france) can help Scottish businesses export to France. It has staff in:
+* energy
+* financial and business services
+* food and drink
+* life sciences
+* technology
+* engineering
+* tourism
 
-* the British Embassy in Paris
-* the British Consulates in Lyon and Bordeaux
+We’re going to expand the GlobalScot network in France.
+
+### Department for International Trade
+You can contact the [Department for International Trade](https://www.gov.uk/world/organisations/department-for-international-trade-france#contact-us) in France to find opportunities for doing business there.  
 
 ### Franco-British Chamber of Commerce & Industry
 The [Franco-British Chamber of Commerce & Industry](https://francobritishchamber.com/) helps its members to work with other businesses in France and Britain. It has a network of public and private partners.
+
+They have an office in Paris and groups in:
+
+* Dordogne
+* Toulouse et Midi-Pyrénées
+* Burgundy
+* Monaco
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 

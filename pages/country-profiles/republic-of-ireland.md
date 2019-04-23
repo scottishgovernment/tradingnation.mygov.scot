@@ -16,21 +16,19 @@ In 2017, Scotland sold **£1.5 billion** worth of exports to Ireland. This is **
 ![An image of Republic of Ireland outlined on a map](/assets/images/country_maps/10-Irish-Republic.png)
 
 ## The benefits of selling to Ireland
-The World Bank rates Ireland as the 17th easiest country in the world to do business with.
+The [World Bank](http://www.doingbusiness.org/en/rankings) rates Ireland as the 23rd easiest country in the world to do business with.
 
-This is because Ireland has:
+Ireland’s a good place to export to because it has:
 
 * a strong economy
 * a highly educated workforce
 
-
-Ireland is also a good place for Scottish businesses to export to because:
+It’s also a good place for Scottish businesses to export to because:
 
 * English is the first language
 * it has good transport links
 * it has similar regulations and laws as Scotland
 * it’s close to Scotland
-
 
 ## What we could sell more of
 A Trading Nation uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-people-are-buying/).
@@ -42,16 +40,25 @@ In Ireland, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Republic of Ireland](/assets/images/country_infographics/10-Republic-of-Ireland-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Ireland
+
+{:.hidden}
+* Financial & business services
+* Chemical sciences
+* Technology, digital and media
+* Life sciences
+* Food and drink
+* Engineering & advanced manufacturing
+
 ## Help with exporting in Ireland
 
 ### Scottish Development International offices
 
-Scottish Development International have an office in [Dublin](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/ireland-dublin). They help develop trade links between Scotland and Ireland by working with:
+Scottish Development International have an office in [Dublin](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/ireland-dublin). They have three members of staff focussed on:
 
-* the [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade)
-* the [GlobalScot network](https://www.globalscot.com/)
-* local industry partners
-
+* technology
+* life sciences
 
 ### Innovation and Investment Hub
 
@@ -62,22 +69,27 @@ The Scottish Government have an office in [Dublin](https://www.gov.scot/policies
 * collaborate on ideas for new products or services
 * find events or opportunities
 
-They work across:
-
-* financial services
-* the creative arts
-* culture and heritage
-* renewable energy
-* energy efficiency
-
-
 ### GlobalScot
 
-GlobalScot is worldwide network of business contacts who are experts in their field. They help and support Scottish businesses.
+The [GlobalScot](https://www.globalscot.com/) has three experts in Ireland covering:
 
+* technology
+* life sciences
 
-## Department for International Trade
-The [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-ireland/exporting-to-ireland) can help Scottish businesses export to Ireland.
+We’re going to expand the GlobalScot network in Ireland.
+
+### Department for International Trade
+You can contact the [Department for International Trade](https://www.gov.uk/government/world/organisations/uk-trade-investment-ireland) team in Ireland to find opportunities for doing business there.
+
+### British Irish Chamber of Commerce
+
+The [British Irish Chamber of Commerce](https://www.britishirishchamber.com/) can offer members:
+
+* business support
+* advice
+* introductions
+
+They have [offices](https://www.britishirishchamber.com/contact/) in Dublin and London.
 
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).

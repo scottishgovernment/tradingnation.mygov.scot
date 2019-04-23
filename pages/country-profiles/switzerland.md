@@ -47,14 +47,31 @@ In Switzerland, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Switzerland](/assets/images/country_infographics/05-Switzerland-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Switzerland
+
+{:.hidden}
+* Life sciences
+* Food and drink
+* Financial and business services
+* Technology, digital and media
+
 ## Help with exporting in Switzerland
 
+### Scottish Development International offices
+Scottish Development International have an office in [Bern](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/switzerland-bern). They have one member of staff focussing on science and technology.
+
 ### GlobalScot
-[GlobalScot](https://www.globalscot.com/) is a worldwide network of business contacts who are experts in their field. It helps and supports Scottish businesses.
+The [GlobalScot](https://www.globalscot.com/) network has 17 experts in Switzerland covering:
 
+* financial services
+* life sciences
+* technology
 
-## Department for International Trade
-The [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade) can help Scottish businesses export to Switzerland. It has 6 advisers based in Bern.
+We’re going to expand the GlobalScot network in Switzerland.
+
+### Department for International Trade
+You can contact the [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade) team in Switzerland to find opportunities for doing business there.
 
 ### British-Swiss Chamber of Commerce
 The [British-Swiss Chamber of Commerce](http://www.bscc.co.uk/) helps its members to work with other businesses in Switzerland, Britain and Liechtenstein. It:
@@ -77,7 +94,6 @@ It has groups that meet in:
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
 You can also find more information on exporting to Switzerland in A Trading Nation.
-
 
 ## UK Trade Commissioner for Europe
 The Trade Commissioner is in charge of the Department for International Trade’s work in Europe. This includes:

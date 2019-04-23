@@ -46,33 +46,56 @@ In Poland, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Poland](/assets/images/country_infographics/07-Poland-top-opportunities.png)
 
+{:.hidden}
+### Top opportunities in Poland
+
+{:.hidden}
+* Engineering and advanced manufacturing
+* Food and drink
+* Life sciences
+* Financial and business services
+* Chemical sciences
+* Energy
 
 ## Help with exporting in Poland
 
+### Scottish Development International offices
+Scottish Development International can help businesses exporting to Poland from their office in [Dusseldorf](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/germany-duesseldorf) in Germany.
+
+They have four members of staff who are focussed on:
+
+* energy
+* science and technology
+* industries that produce consumer goods
+
+
 ### GlobalScot
-[GlobalScot](https://www.globalscot.com/) is worldwide network of business contacts who are experts in their field. They help and support Scottish businesses.
+The [GlobalScot]([GlobalScot](https://www.globalscot.com/) ) network has three experts in Poland covering:
 
+* financial services
+* construction
 
-### Trade envoys
-There’s a Scottish trade envoy based in Poland who can help to:
+We’re going to expand the GlobalScot network in Poland.
+
+### Trade Envoys
+Martyn O’Reilly is the Scottish Government’s Trade Envoy based in Poland. He can help:
 
 * connect businesses in Scotland and Poland
 * provide market intelligence
 * raise awareness of opportunities
 
+### Department for International Trade
+You can contact the [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade) team in Poland to find opportunities for doing business there.
 
-## Department for International Trade
-The [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade) can help Scottish businesses export to Poland. It has 7 advisors for:
+### British Polish Chamber of Commerce
 
-* energy
-* infrastructure
-* security
-* defence
-* financial and business
-* retail
-* healthcare
+The British Polish Chamber of Commerce can offer members:
 
-The Department for International Trade has also produced a [guide to doing business in Poland](https://www.gov.uk/government/publications/exporting-to-poland/doing-business-in-poland-poland-trade-and-export-guide).
+* business support
+* advice
+* introductions
+
+They have offices in Warsaw, Wrocław, Kraków and Sevenoaks.
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
