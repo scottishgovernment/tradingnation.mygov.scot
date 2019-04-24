@@ -5,8 +5,8 @@ category: sectors
 index: 6
 frontpage: yes
 parent: sectors
-permalink: /sectors/technology/
-prev: { title: "Life and chemical sciences", url: "/sectors/science/"}
+permalink: /sectors/technology-digital-and-media/
+prev: { title: "Life and chemical sciences", url: "/sectors/life-and-chemical-sciences/"}
 ---
 
 ![An image of code depicting the technology sector](/assets/images/sector_photography/technology-software-and-communications.jpg)

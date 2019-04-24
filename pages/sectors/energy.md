@@ -6,7 +6,7 @@ index: 1
 frontpage: yes
 parent: sectors
 permalink: /sectors/energy/
-next: { title: "Engineering and advanced manufacturing", url: "/sectors/engineering/"}
+next: { title: "Engineering and advanced manufacturing", url: "/sectors/engineering-and-advanced-manufacturing/"}
 ---
 
 ![An image of wind turbines depicting the energy sector](/assets/images/sector_photography/energy.jpg)

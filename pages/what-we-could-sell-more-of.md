@@ -12,10 +12,10 @@ permalink: /what-we-could-sell-more-of/
 
 *	[financial and business services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 *	[food and drink](https://tradingnation.mygov.scot/sectors/food-and-drink/)  
-*	[life and chemical sciences](https://tradingnation.mygov.scot/sectors/science/)  
-*	[engineering](https://tradingnation.mygov.scot/sectors/engineering/)  
+*	[life and chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)  
+*	[engineering](https://tradingnation.mygov.scot/sectors/engineering-and-advanced-manufacturing/)  
 *	[energy](https://tradingnation.mygov.scot/sectors/energy/)  
-*	[technology, digital and media](https://tradingnation.mygov.scot/sectors/technology/)
+*	[technology, digital and media](https://tradingnation.mygov.scot/sectors/technology-digital-and-media/)
 
 Evidence shows these sectors are where Scotland's exports have the most opportunity to grow.
 

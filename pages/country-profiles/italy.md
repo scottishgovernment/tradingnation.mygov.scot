@@ -40,7 +40,7 @@ In Italy, the key sectors where Scotland could sell more are:
 
 * [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 * [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 * computer and information technology services
 * machinery and equipment
 * the manufacture of computer, electronic and optical products

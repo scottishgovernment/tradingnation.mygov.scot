@@ -36,7 +36,7 @@ In Belgium, the key sectors where Scotland could sell more are:
 
 * [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 * information communication technology (ICT)
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 * manufacture of computer, electronic and optical equipment
 * [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * machinery and equipment

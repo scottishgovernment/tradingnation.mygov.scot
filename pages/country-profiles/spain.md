@@ -34,7 +34,7 @@ It’s also a good place for Scottish businesses to export to because:
 
 In Spain, the key sectors where Scotland could sell more are:
 
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 * computer and information technology services
 * machinery and equipment
 * manufacture of computer, electronic and optical products

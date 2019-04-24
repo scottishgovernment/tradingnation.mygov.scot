@@ -39,7 +39,7 @@ In the Netherlands, the key sectors where Scotland could sell more are:
 * machinery and equipment
 * [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 * computer and information technology (IT) services
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 
 ![An infographic of top opportunities in the Netherlands's](/assets/images/country_infographics/04-Netherlands-top-opportunities.png)
 

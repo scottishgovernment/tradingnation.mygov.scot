@@ -7,7 +7,7 @@ frontpage: yes
 parent: sectors
 permalink: /sectors/food-and-drink/
 prev: { title: "Financial and business services", url: "/sectors/financial-and-business/"}
-next: { title: "Life and chemical sciences", url: "/sectors/science/"}
+next: { title: "Life and chemical sciences", url: "/sectors/life-and-chemical-sciences/"}
 ---
 
 ![An image of food and drink depicting the food and drink sector](/assets/images/sector_photography/food-and-drink.png)

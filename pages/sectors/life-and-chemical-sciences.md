@@ -5,9 +5,9 @@ category: sectors
 index: 5
 frontpage: yes
 parent: sectors
-permalink: /sectors/science/
+permalink: /sectors/life-and-chemical-sciences/
 prev: { title: "Food and drink", url: "/sectors/food-and-drink/"}
-next: { title: "Technology, digital and media", url: "/sectors/technology/"}
+next: { title: "Technology, digital and media", url: "/sectors/technology-digital-and-media/"}
 ---
 
 ![An image of test tubes depicting the life and chemical sciences sector](/assets/images/sector_photography/life-and-chemical-sciences.jpg)

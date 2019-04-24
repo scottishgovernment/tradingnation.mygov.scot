@@ -38,9 +38,9 @@ In Canada, the key sectors where Scotland could sell more are:
 * computer and information technology (IT) services
 * the manufacture of computer, electronic and optical products
 * machinery and equipment
-* [engineering](https://tradingnation.mygov.scot/sectors/engineering/)
+* [engineering](https://tradingnation.mygov.scot/sectors/engineering-and-advanced-manufacturing/)
 * [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 
 ![An infographic of top opportunities in Canada](/assets/images/country_infographics/14-Canada-top-opportunities.png)
 

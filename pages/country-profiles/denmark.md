@@ -36,7 +36,7 @@ In Denmark, the key sectors where Scotland could sell more are:
 
 * machinery and equipment
 * computer and information technology (IT) services
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 * [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * transport equipment
 * [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)

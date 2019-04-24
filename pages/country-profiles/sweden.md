@@ -38,7 +38,7 @@ In Sweden, the key sectors where Scotland could sell more are:
 * [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 * the manufacture of computer, electronic and optical products
 * machinery and equipment
-* [engineering](https://tradingnation.mygov.scot/sectors/engineering/)
+* [engineering](https://tradingnation.mygov.scot/sectors/engineering-and-advanced-manufacturing/)
 * business support services
 * [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * transport equipment
