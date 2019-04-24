@@ -37,7 +37,7 @@ It’s also a good place for Scottish businesses to export to because it:
 In the Netherlands, the key sectors where Scotland could sell more are:
 
 * machinery and equipment
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
 * computer and information technology (IT) services
 * [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 

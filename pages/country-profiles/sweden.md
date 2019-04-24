@@ -35,7 +35,7 @@ It’s also a good place for Scottish businesses to export to because:
 In Sweden, the key sectors where Scotland could sell more are:
 
 * computer and information technology (IT) services
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
 * the manufacture of computer, electronic and optical products
 * machinery and equipment
 * [engineering](https://tradingnation.mygov.scot/sectors/engineering-and-advanced-manufacturing/)

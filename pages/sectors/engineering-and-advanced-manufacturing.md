@@ -7,7 +7,7 @@ frontpage: yes
 parent: sectors
 permalink: /sectors/engineering-and-advanced-manufacturing/
 prev: { title: "Energy", url: "/sectors/energy/"}
-next: { title: "Financial and business services", url: "/sectors/financial-and-business/"}
+next: { title: "Financial and business services", url: "/sectors/financial-and-business-services/"}
 ---
 
 ![An image of Queensferry Crossing depicting the engineering sector](/assets/images/sector_photography/engineering-and-advanced-manufacturing.jpg)

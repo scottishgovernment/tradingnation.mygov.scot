@@ -6,7 +6,7 @@ index: 4
 frontpage: yes
 parent: sectors
 permalink: /sectors/food-and-drink/
-prev: { title: "Financial and business services", url: "/sectors/financial-and-business/"}
+prev: { title: "Financial and business services", url: "/sectors/financial-and-business-services/"}
 next: { title: "Life and chemical sciences", url: "/sectors/life-and-chemical-sciences/"}
 ---
 

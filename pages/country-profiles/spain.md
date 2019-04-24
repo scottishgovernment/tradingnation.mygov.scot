@@ -40,7 +40,7 @@ In Spain, the key sectors where Scotland could sell more are:
 * manufacture of computer, electronic and optical products
 * [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * transport equipment
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
 
 ![An infographic of top opportunities in Spain](/assets/images/country_infographics/15-Spain-top-opportunities.png)
 

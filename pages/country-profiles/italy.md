@@ -38,7 +38,7 @@ It’s also a good place for Scottish businesses to export to because:
 
 In Italy, the key sectors where Scotland could sell more are:
 
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
 * [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
 * computer and information technology services

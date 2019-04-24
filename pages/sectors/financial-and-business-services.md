@@ -5,7 +5,7 @@ category: sectors
 index: 3
 frontpage: yes
 parent: sectors
-permalink: /sectors/financial-and-business/
+permalink: /sectors/financial-and-business-services/
 prev: { title: "Engineering and advanced manufacturing", url: "/sectors/engineering-and-advanced-manufacturing/"}
 next: { title: "Food and drink", url: "/sectors/food-and-drink/"}
 ---
