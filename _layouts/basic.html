@@ -72,13 +72,7 @@
 
         --><div class="grid__item  medium--eight-twelfths">
             <div class="main-content">
-                {% if page.summary %}
-                <h2>Summary</h2>
-                <p class="leader">
-                    {{ page.summary }}
-                </p>
-                <hr />
-                {% elsif page.introduction %}
+                {% if page.introduction %}
                 <p class="leader">
                     {{ page.introduction }}
                 </p>
