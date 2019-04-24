@@ -3,7 +3,7 @@ layout: tiles-3-hero
 title:  "Country profiles"
 category: trading-nation
 summary: "Includes the benefits of selling there, what we could sell more of there and help in that country."
-subtitle: ""
+subtitle: "Includes the benefits of selling there, what we could sell more of there and help in that country."
 index: 7
 frontpage: yes
 parent: home
