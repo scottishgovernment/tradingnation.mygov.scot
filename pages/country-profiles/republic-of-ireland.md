@@ -11,7 +11,7 @@ next: { title: "Denmark", url: "/country-profiles/denmark/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£1.5 billion** worth of exports to Ireland. This is **4.5%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of **21%** each year.
+In 2017, Scotland sold £1.5 billion worth of exports to Ireland. This is 4.5% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of 21% each year.
 
 ![An image of Republic of Ireland outlined on a map](/assets/images/country_maps/10-Irish-Republic.png)
 
@@ -55,7 +55,7 @@ In Ireland, the key sectors where Scotland could sell more are:
 
 ### Scottish Development International offices
 
-Scottish Development International have an office in [Dublin](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/ireland-dublin). They have three members of staff focussed on:
+Scottish Development International have an office in [Dublin](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/ireland-dublin). They have 3 members of staff focussed on:
 
 * technology
 * life sciences
@@ -71,7 +71,7 @@ The Scottish Government have an office in [Dublin](https://www.gov.scot/policies
 
 ### GlobalScot
 
-The [GlobalScot](https://www.globalscot.com/) has three experts in Ireland covering:
+The [GlobalScot](https://www.globalscot.com/) has 3 experts in Ireland covering:
 
 * technology
 * life sciences

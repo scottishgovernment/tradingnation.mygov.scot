@@ -11,7 +11,7 @@ next: { title: "China", url: "/country-profiles/china/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold just under **£1 billion** worth of exports to Belgium. This is **3.1%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Belgium increased by an average of **4.6%** each year.
+In 2017, Scotland sold just under £1 billion worth of exports to Belgium. This is 3.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Belgium increased by an average of 4.6% each year.
 
 ![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
 
@@ -34,11 +34,11 @@ It's also a good place for Scottish businesses to export to because:
 
 In Belgium, the key sectors where Scotland could sell more are:
 
-* financial services
-* information communication technology
-* chemical sciences
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
+* information communication technology (ICT)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
 * manufacture of computer, electronic and optical equipment
-* food
+* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * machinery and equipment
 * transport equipment
 
@@ -63,18 +63,18 @@ Scottish Development International have an office in [Brussels](https://www.sdi.
 
 ### GlobalScot
 
-The [GlobalScot](https://www.globalscot.com/) network has three experts in Belgium covering:
+The [GlobalScot](https://www.globalscot.com/) network has 3 experts in Belgium covering:
 
 * life sciences
 * financial services
 
 We’re going to expand the GlobalScot network in Belgium.
 
-## Department for International Trade
+### Department for International Trade
 
 You can contact the [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-belgium/exporting-to-belgium) team in Belgium to find opportunities for doing business there.  
 
-### British Chamber of Commerce
+### Chamber of Commerce
 
 The [British Chamber of Commerce](https://www.britishchamber.be/) in Belgium can offer members:
 

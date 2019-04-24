@@ -11,7 +11,7 @@ next: { title: "Switzerland", url: "/country-profiles/switzerland/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£2.5 billion** worth of exports to the Netherlands. This is **7.6%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the Netherlands increased by an average of **1.6%** each year.
+In 2017, Scotland sold £2.5 billion worth of exports to the Netherlands. This is 7.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the Netherlands increased by an average of 1.6% each year.
 
 ![An image of the Netherlands outlined on a map](/assets/images/country_maps/04-Netherlands.png)
 
@@ -65,7 +65,7 @@ They have one member of staff focussing on industries that produce consumer good
 
 ### GlobalScot
 
-The [GlobalScot](https://www.globalscot.com/) network has four experts in the Netherlands covering:
+The [GlobalScot](https://www.globalscot.com/) network has 4 experts in the Netherlands covering:
 
 * energy
 * financial and business services

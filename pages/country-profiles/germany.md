@@ -11,7 +11,7 @@ next: { title: "France", url: "/country-profiles/france/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£2.3 billion** worth of exports to Germany. This is **7.2%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Germany increased by an average of **7.4%** each year.
+In 2017, Scotland sold £2.3 billion worth of exports to Germany. This is 7.2% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Germany increased by an average of 7.4% each year.
 
 ![An image of Germany outlined on a map](/assets/images/country_maps/02-Germany.png)
 
@@ -63,7 +63,7 @@ In Germany, the key sectors where Scotland could sell more are:
 ## Help with exporting in Germany
 
 ### Scottish Development International offices
-Scottish Development International has an office in [Dusseldorf](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/germany-duesseldorf). They have four members of staff focused on:
+Scottish Development International has an office in [Dusseldorf](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/germany-duesseldorf). They have 4 members of staff focused on:
 
 * energy
 * science and technology

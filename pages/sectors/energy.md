@@ -2,19 +2,19 @@
 layout: default
 title:  "Energy"
 category: sectors
-index: 6
+index: 1
 frontpage: yes
 parent: sectors
 permalink: /sectors/energy/
-prev: { title: "Engineering", url: "/sectors/engineering/"}
+next: { title: "Engineering and advanced manufacturing", url: "/sectors/engineering/"}
 ---
 
 ![An image of wind turbines depicting the energy sector](/assets/images/sector_photography/energy.jpg)
 
 In 2017, energy made up:
 
-* **11.7%** of Scotland’s international exports (£3.8 billion)
-* **15.9%** of Scotland’s UK exports (£7.8 billion)
+* 11.7% of Scotland’s international exports (£3.8 billion)
+* 15.9% of Scotland’s UK exports (£7.8 billion)
 
 The energy sector covers:
 
@@ -34,8 +34,8 @@ It does not include oil and gas production.
 
 
 ## Between 2002 and 2017 Scotland’s energy exports increased:
-* internationally from **£700 million** to **£3.8 billion**
-* to the rest of the UK from **£2.6 billion** to **£7.8 billion**
+* internationally from £700 million to £3.8 billion
+* to the rest of the UK from £2.6 billion to £7.8 billion
 
 ## Where we can sell more
 [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).

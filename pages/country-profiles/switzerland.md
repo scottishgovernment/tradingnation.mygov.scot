@@ -11,7 +11,7 @@ next: { title: "Norway", url: "/country-profiles/norway/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£735 million** worth of exports to Switzerland. This is **2.3%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Switzerland increased by an average of **12.5%** each year.
+In 2017, Scotland sold £735 million worth of exports to Switzerland. This is 2.3% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Switzerland increased by an average of 12.5% each year.
 
 ![An image of Switzerland outlined on a map](/assets/images/country_maps/05-Switzerland.png)
 
@@ -94,10 +94,3 @@ It has groups that meet in:
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
 You can also find more information on exporting to Switzerland in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
-
-## UK Trade Commissioner for Europe
-The Trade Commissioner is in charge of the Department for International Trade’s work in Europe. This includes:
-
-* building trade and investment relationships
-* helping all British businesses to sell to markets
-* developing finance and trade policies

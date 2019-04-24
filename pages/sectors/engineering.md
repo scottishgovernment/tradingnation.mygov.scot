@@ -1,21 +1,21 @@
 ---
 layout: default
-title:  "Engineering"
+title:  "Engineering and advanced manufacturing"
 category: sectors
-index: 5
+index: 2
 frontpage: yes
 parent: sectors
 permalink: /sectors/engineering/
-prev: { title: "Science", url: "/sectors/science/"}
-next: { title: "Energy", url: "/sectors/energy/"}
+prev: { title: "Energy", url: "/sectors/energy/"}
+next: { title: "Financial and business services", url: "/sectors/financial-and-business/"}
 ---
 
 ![An image of Queensferry Crossing depicting the engineering sector](/assets/images/sector_photography/engineering-and-advanced-manufacturing.jpg)
 
 In 2017, engineering and advanced manufacturing made up:
 
-* **17.6%** of Scotland’s international exports (£5.7 billion)
-* **9.7%** of Scotland’s UK exports (£4.7 billion)
+* 17.6% of Scotland’s international exports (£5.7 billion)
+* 9.7% of Scotland’s UK exports (£4.7 billion)
 
 Engineering and advanced manufacturing covers things like:
 
@@ -31,8 +31,8 @@ Engineering and advanced manufacturing covers things like:
 
 Between 2002 and 2017 Scotland’s engineering and advanced manufacturing exports increased:
 
-* internationally from **£3.6 billion** to **£5.7 billion**
-* to the rest of the UK from **£3.8 billion** to **£4.7 billion**
+* internationally from £3.6 billion to £5.7 billion
+* to the rest of the UK from £3.8 billion to £4.7 billion
 
 
 ## Where we can sell more
@@ -46,7 +46,7 @@ This evidence shows where:
 > The similar countries are Finland, Norway, Denmark and Ireland.
 
 
-## Countries where there’s a large or growing demand for engineering and advanced manufacturing imports
+### Countries where there’s a large or growing demand for engineering and advanced manufacturing imports
 * [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
 * [China](https://tradingnation.mygov.scot/country-profiles/china/)
@@ -55,7 +55,7 @@ This evidence shows where:
 * [Spain](https://tradingnation.mygov.scot/country-profiles/spain/)
 * Mexico
 
-## Where Scotland’s currently exporting less than similar countries
+### Where Scotland’s currently exporting less than similar countries
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
 * [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
 * [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
@@ -73,7 +73,7 @@ To help engineering and advanced manufacturing exports, we’ll:
 * help the industry to get high quality graduates and technical talent
 * make sure businesses can still get skilled overseas employees (post-EU exit)
 * help businesses to get finance for export growth plans
-* find GlobalScots or Trade Envoys who can offer businesses advice, support or introductions
+* find [GlobalScots](https://www.globalscot.com/) or Trade Envoys who can offer businesses advice, support or introductions
 * help businesses find export opportunities by exploring ways to make sector data available
 
 You can find more information on Scotland’s engineering and advanced manufacturing sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

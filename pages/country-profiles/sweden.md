@@ -11,7 +11,7 @@ next: { title: "Italy", url: "/country-profiles/italy/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£585 million** worth of exports to Sweden. This is **1.8%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Sweden decreased by an average of **4.1%** each year.
+In 2017, Scotland sold £585 million worth of exports to Sweden. This is 1.8% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Sweden decreased by an average of 4.1% each year.
 
 ![An image of Sweden outlined on a map](/assets/images/country_maps/13-Sweden.png)
 
@@ -34,13 +34,13 @@ It’s also a good place for Scottish businesses to export to because:
 
 In Sweden, the key sectors where Scotland could sell more are:
 
-* computer and information technology services
-* financial services
+* computer and information technology (IT) services
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 * the manufacture of computer, electronic and optical products
 * machinery and equipment
-* engineering
+* [engineering](https://tradingnation.mygov.scot/sectors/engineering/)
 * business support services
-* food
+* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * transport equipment
 
 ![An infographic of top opportunities in Sweden](/assets/images/country_infographics/12-Sweden-top-opportunities.png)
@@ -62,7 +62,7 @@ Scottish Development International can help businesses exporting to Sweden from 
 * [Copenhagen](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/denmark-copenhagen) in Denmark
 * [Stavanger](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/norway-stavanger) in Norway
 
-They have five members of staff who are focussed on:
+They have 5 members of staff who are focussed on:
 
 * energy
 * science and technology
@@ -74,7 +74,7 @@ The [GlobalScot](https://www.globalscot.com/) network has one expert in Sweden c
 We’re going to expand the GlobalScot network in Sweden.
 
 ### Department for International Trade
-You can contact the [Department for International Trade](https://www.gov.uk/world/organisations/department-for-international-trade-sweden) team in Sweden to find opportunities for doing business there.  
+You can contact the [Department for International Trade team](https://www.gov.uk/world/organisations/department-for-international-trade-sweden) in Sweden to find opportunities for doing business there.  
 
 
 ### British Swedish Chamber of Commerce

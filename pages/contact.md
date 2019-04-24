@@ -9,10 +9,10 @@ permalink: /contact/
 ---
 
 {:.leader}
-To contact us about [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) you can
+To contact us about [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) you can:
 
 ## Email
-<XXX@gov.scot>
+Email us at <exportplan@gov.scot>
 
 ## Phone
 Call 0300 244 1305 Monday to Friday, 9am to 4pm.
@@ -20,17 +20,17 @@ Call 0300 244 1305 Monday to Friday, 9am to 4pm.
 [Find out about call charges](https://www.gov.uk/call-charges)
 
 ## Address
-Trade and Investment Delivery Division
-The Scottish Government
-5 Atlantic Quay
-150 Broomielaw
-Glasgow, G2 8LU
+Trade and Investment Delivery Division  
+The Scottish Government  
+5 Atlantic Quay  
+150 Broomielaw  
+Glasgow  
+G2 8LU  
 
 ## Twitter
-[@DITIscotland](https://twitter.com/ditiscotland?lang=en)
+Follow us [@DITIscotland](https://twitter.com/ditiscotland?lang=en)
 
-
-If you’re a business looking for help with exporting, you can [find help and support](https://tradingnation.mygov.scot/help-for-businesses/).
+> If you’re a business looking for help with exporting, you can [find help and support](https://tradingnation.mygov.scot/help-for-businesses/).
 
 
 ## Media enquiries

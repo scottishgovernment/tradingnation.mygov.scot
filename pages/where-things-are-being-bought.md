@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Where things are being bought"
+title:  "Where we could sell more"
 category: trading-nation
 index: 3
 frontpage: yes
@@ -13,7 +13,7 @@ permalink: /where-things-are-being-bought/
 
 ## Countries we’ll look to export to
 
-## A Trading Nation organises countries into 3 priority groups.
+A Trading Nation organises countries into 3 priority groups.
 
 ### Priority group 1
 The 15 countries in the first priority group are:
@@ -47,7 +47,7 @@ To help exports to these countries, we’ll put in place support including:
 
 
 ### Priority group 2
-The 15 countries in the first priority group are:
+The 11 countries in the second priority group are:
 
 * Japan
 * Australia
@@ -83,7 +83,7 @@ To help exports to these countries, we’ll put in place support including help 
 * Department for International Trade
 * the GlobalScot network
 
-How countries were chosen
+## How countries were chosen
 
 Each country was chosen based on evidence. This evidence drew on a range of sources that looked at:
 

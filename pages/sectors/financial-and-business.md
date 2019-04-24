@@ -6,16 +6,16 @@ index: 3
 frontpage: yes
 parent: sectors
 permalink: /sectors/financial-and-business/
-prev: { title: "Technology", url: "/sectors/technology/"}
-next: { title: "Science", url: "/sectors/science/"}
+prev: { title: "Engineering and advanced manufacturing", url: "/sectors/engineering/"}
+next: { title: "Food and drink", url: "/sectors/food-and-drink/"}
 ---
 
 ![An image of paper and pens depicting the financial and business sector](/assets/images/sector_photography/financial-and-business-services.jpg)
 
 In 2017, financial and business services made up around:
 
-* **10.3%** of Scotland’s international exports (£3.4 billion)
-* **27.1%** of Scotland’s UK exports (£13.2 billion)
+* 10.3% of Scotland’s international exports (£3.4 billion)
+* 27.1% of Scotland’s UK exports (£13.2 billion)
 
 Financial and business services covers a range of subsectors. This includes:
 
@@ -32,8 +32,8 @@ Financial and business services covers a range of subsectors. This includes:
 
 Between 2002 and 2017 Scotland’s financial and business services exports increased:
 
-* internationally from **£1.6 billion** to **£3.4 billion**
-* to the rest of the UK from **£6 billion** to **£13.2 billion**
+* internationally from £1.6 billion to £3.4 billion
+* to the rest of the UK from £6 billion to £13.2 billion
 
 
 ## Where we can sell more
@@ -73,29 +73,3 @@ This evidence shows where:
 We’ll continue to work with the financial and business services sector to help increase exports. This will include working with businesses in the growing financial technologies sector.
 
 You can find more information on Scotland’s financial and business services sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
-
-
-< - - - >
-
-
-Estimated future growth
-
-Between 2007 and 2017 exports increased annually by around:
-
-* 6% internationally
-* 3% to the rest of the UK
-
-
-If this growth continues, then in 2027 food and drink exports would be worth around:
-
-* £11 billion internationally
-* £6 billion to the rest of the UK
-
-
-As a business organisation, lobby group or trade body I need:
-
-- information, evidence, data and intelligence                                                   
-
-As internal staff (SG, SE, HIE, SOS, the Minister) we need:
-
-- have clear evidence for decisions

@@ -11,7 +11,7 @@ next: { title: "Spain", url: "/country-profiles/spain/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£580 million** worth of exports to Canada. This is **1.8%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Canada increased by an average of **7.8%** each year.
+In 2017, Scotland sold £580 million worth of exports to Canada. This is 1.8% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Canada increased by an average of 7.8% each year.
 
 ![An image of Canada outlined on a map](/assets/images/country_maps/15-Canada.png)
 
@@ -38,9 +38,9 @@ In Canada, the key sectors where Scotland could sell more are:
 * computer and information technology (IT) services
 * the manufacture of computer, electronic and optical products
 * machinery and equipment
-* engineering
-* food
-* chemical sciences
+* [engineering](https://tradingnation.mygov.scot/sectors/engineering/)
+* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
 
 ![An infographic of top opportunities in Canada](/assets/images/country_infographics/14-Canada-top-opportunities.png)
 
@@ -57,18 +57,16 @@ In Canada, the key sectors where Scotland could sell more are:
 
 ## Help with exporting in Canada
 
-### Scottish Government
-The Scottish Government has [offices](https://www.gov.scot/policies/international-relations/international-offices/) in Toronto and Ottawa. They work to promote Scotland in Canada.
-
-The Scottish Government also have an engagement strategy for Canada.
-
-
 ### Scottish Development International offices
 Scottish Development International has an office in [Calgary](https://www.sdi.co.uk/about-sdi/global-offices/americas/canada-calgary). They have 2 members of staff who are focussed on:
 
 * industries that produce consumer goods
 * science and technology
 
+### Scottish Government
+The Scottish Government has [offices](https://www.gov.scot/policies/international-relations/international-offices/) in Toronto and Ottawa. They work to promote Scotland in Canada.
+
+The Scottish Government also have an engagement strategy for Canada.
 
 ### GlobalScot
 The [GlobalScot](https://www.globalscot.com/) network has 21 experts in Canada covering:
@@ -85,7 +83,7 @@ You can contact the [Department for International Trade](https://www.gov.uk/worl
 
 
 ### British Canadian Chamber of Trade and Commerce
-The [British Canadian Chamber of Trade and Commerce](https://www.britishcanadianchamber.com/ can offer members:
+The [British Canadian Chamber of Trade and Commerce](https://www.britishcanadianchamber.com/) can offer members:
 
 * business support
 * advice

@@ -11,7 +11,7 @@ next: { title: "Belgium", url: "/country-profiles/belgium/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£395 million** worth of exports to Poland. This is **1.2%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Poland increased by an average of **6.5%** each year.
+In 2017, Scotland sold £395 million worth of exports to Poland. This is 1.2% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Poland increased by an average of 6.5% each year.
 
 ![An image of Poland outlined on a map](/assets/images/country_maps/07-Poland.png)
 
@@ -62,7 +62,7 @@ In Poland, the key sectors where Scotland could sell more are:
 ### Scottish Development International offices
 Scottish Development International can help businesses exporting to Poland from their office in [Dusseldorf](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/germany-duesseldorf) in Germany.
 
-They have four members of staff who are focussed on:
+They have 4 members of staff who are focussed on:
 
 * energy
 * science and technology
@@ -70,7 +70,7 @@ They have four members of staff who are focussed on:
 
 
 ### GlobalScot
-The [GlobalScot]([GlobalScot](https://www.globalscot.com/) ) network has three experts in Poland covering:
+The [GlobalScot](https://www.globalscot.com/) network has 3 experts in Poland covering:
 
 * financial services
 * construction
@@ -95,7 +95,7 @@ The British Polish Chamber of Commerce can offer members:
 * advice
 * introductions
 
-They have offices in Warsaw, Wrocław, Kraków and Sevenoaks.
+They have [offices](http://bpcc.org.pl/en/contact) in Warsaw, Wrocław, Kraków and Sevenoaks.
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 

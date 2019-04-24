@@ -11,7 +11,7 @@ next: { title: "Republic of Ireland", url: "/country-profiles/republic-of-irelan
 ---
 
 {:.leader}
-In 2017, Scotland sold just under **£625 million** worth of exports to China. This is **7.2%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to China increased by an average of **1.6%** each year.
+In 2017, Scotland sold just under £625 million worth of exports to China. This is 7.2% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to China increased by an average of 1.6% each year.
 
 ![An image of China outlined on a map](/assets/images/country_maps/09-China.png)
 
@@ -62,14 +62,14 @@ Scottish Development International have offices in:
 * [Hong Kong](https://www.sdi.co.uk/about-sdi/global-offices/asia-and-pacific/china-hong-kong)
 * [Guangzhou](https://www.sdi.co.uk/about-sdi/global-offices/asia-and-pacific/china-guangzhou)
 
-They have eight members of staff who are focussed on:
+They have 8 members of staff who are focussed on:
 
 * who produce consumer goods
 * science and technology
 * energy
 
 ### GlobalScot
-The [GlobalScot](https://www.globalscot.com/) network has seven experts in China covering:
+The [GlobalScot](https://www.globalscot.com/) network has 7 experts in China covering:
 
 * energy
 * tourism
@@ -77,14 +77,14 @@ The [GlobalScot](https://www.globalscot.com/) network has seven experts in China
 We’re going to expand the GlobalScot network in China.
 
 ### Scottish Affairs Office
-The Scottish Government has a Scottish Affairs Office in Beijing. This promotes Scotland's interests in China.
+The Scottish Government has a Scottish Affairs Office in Beijing. This promotes Scotland in China.
 
 You can find out more on [gov.scot](https://www.gov.scot/policies/international-relations/international-offices/).
 
 ### Department for International Trade
 You can contact the [Department for International Trade](https://www.gov.uk/guidance/exporting-to-china) team in China to find opportunities for doing business there.
 
-### Department for International Trade
+### Chamber of Commerce
 The [British Chamber of Commerce](https://www.britishchamber.cn/en/) in China can offer members:
 
 * business support

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Why exporting is important"
+title:  "Why exporting's important"
 category: trading-nation
 index: 1
 frontpage: yes
@@ -11,7 +11,7 @@ permalink: /why-exporting-is-important/
 {:.leader}
 Countries that export have stronger economies.
 
-![Why exporting is important](/assets/images/hero/why-exportings-important-header.png)
+![An image representing industry sectors that are key to Scotland's exports](/assets/images/hero/why-exportings-important-header.png)
 
 Exporting helps Scotland’s economy to grow and creates jobs. It helps the Scottish Government collect more tax to:
 * improve living standards

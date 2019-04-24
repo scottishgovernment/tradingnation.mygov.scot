@@ -1,21 +1,20 @@
 ---
 layout: default
-title:  "Technology"
+title:  "Technology, digital and media"
 category: sectors
-index: 2
+index: 6
 frontpage: yes
 parent: sectors
 permalink: /sectors/technology/
-prev: { title: "Food and drink", url: "/sectors/food-and-drink/"}
-next: { title: "Financial and business services", url: "/sectors/financial-and-business/"}
+prev: { title: "Life and chemical sciences", url: "/sectors/science/"}
 ---
 
 ![An image of code depicting the technology sector](/assets/images/sector_photography/technology-software-and-communications.jpg)
 
 In 2017, technology, digital and media made up:
 
-* **10.3%** of Scotland’s international exports (£3.3 billion)
-* **6.3%** of Scotland’s UK exports (£3.1 billion)
+* 10.3% of Scotland’s international exports (£3.3 billion)
+* 6.3% of Scotland’s UK exports (£3.1 billion)
 
 Technology, digital and media covers:
 
@@ -30,8 +29,8 @@ Technology, digital and media covers:
 
 Between 2002 and 2017 Scotland’s technology, digital and media exports:
 
-* decreased internationally from **£5.9 billion** to **£3.3 billion**
-* increased to the rest of the UK from **£2.3 billion** to **£3.1 billion**
+* decreased internationally from £5.9 billion to £3.3 billion
+* increased to the rest of the UK from £2.3 billion to £3.1 billion
 
 > International exports in this sector decreased between 2002 and 2007. This was due to a decline in Scotland’s electronics manufacturing industry.
 
@@ -47,7 +46,7 @@ This evidence shows where:
 
 > The similar countries are Finland, Norway, Denmark and Ireland.
 
-Countries where there’s a large or growing demand for digital, technology and media imports
+### Countries where there’s a large or growing demand for digital, technology and media imports
 
 * [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
@@ -57,7 +56,7 @@ Countries where there’s a large or growing demand for digital, technology and 
 * Singapore
 * South Korea
 
-Where Scotland’s currently exporting less than similar countries
+### Where Scotland’s currently exporting less than similar countries
 
 * [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
@@ -71,9 +70,9 @@ Where Scotland’s currently exporting less than similar countries
 * India
 
 
-What we're going to do
+## What we're going to do
 
-To help technology, digital and media exports, we’ll
+To help technology, digital and media exports, we’ll:
 
 * work with industry bodies and the enterprise agencies to create market development plans for selected sub-sectors and countries
 * improve access to high quality graduates and technical talent

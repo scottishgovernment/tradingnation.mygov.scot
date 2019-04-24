@@ -11,7 +11,7 @@ next: { title: "Netherlands", url: "/country-profiles/netherlands/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£2.4 billion** worth of exports to France. This is **7.6%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of **7%** each year.
+In 2017, Scotland sold £2.4 billion worth of exports to France. This is 7.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of 7% each year.
 
 ![An image of France outlined on a map](/assets/images/country_maps/03-France.png)
 
@@ -56,7 +56,7 @@ In France, the key sectors where Scotland could sell more are:
 ## Help with exporting in France
 
 ### Scottish Development International offices
-Scottish Development International have an office in [Paris](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/france-paris). They have four members of staff focussed on:
+Scottish Development International have an office in [Paris](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/france-paris). They have 4 members of staff focussed on:
 
 * energy
 * science and technology
@@ -71,7 +71,7 @@ The Scottish Government have an office in [Paris](https://www.gov.scot/policies/
 * find opportunities to develop new products and services in France
 
 ### GlobalScot
-The [GlobalScot](https://www.globalscot.com/) network has eight experts in France covering:
+The [GlobalScot](https://www.globalscot.com/) network has 8 experts in France covering:
 
 * energy
 * financial and business services

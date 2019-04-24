@@ -10,7 +10,7 @@ prev: { title: "Canada", url: "/country-profiles/canada/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£850 million** worth of exports to Spain. This is **2.6%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Spain decreased by an average of **2.4%** each year.
+In 2017, Scotland sold £850 million worth of exports to Spain. This is 2.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Spain decreased by an average of 2.4% each year.
 
 ![An image of Spain outlined on a map](/assets/images/country_maps/16-Spain.png)
 
@@ -34,13 +34,13 @@ It’s also a good place for Scottish businesses to export to because:
 
 In Spain, the key sectors where Scotland could sell more are:
 
-* chemical sciences
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
 * computer and information technology services
 * machinery and equipment
 * manufacture of computer, electronic and optical products
-* food
+* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
 * transport equipment
-* financial services
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
 
 ![An infographic of top opportunities in Spain](/assets/images/country_infographics/15-Spain-top-opportunities.png)
 
@@ -56,13 +56,13 @@ In Spain, the key sectors where Scotland could sell more are:
 ## Help with exporting in Spain
 ### Scottish Development International offices
 
-Scottish Development International have an offices in [Barcelona](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-barcelona) and [Madrid](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-madrid). They have two members of staff working in:
+Scottish Development International have an offices in [Barcelona](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-barcelona) and [Madrid](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-madrid). They have 2 members of staff focussed on:
 
 * industries that produce consumer goods
 * science and technology
 
 ### GlobalScot
-The [GlobalScot](https://www.globalscot.com/) network has five experts in Spain covering:
+The [GlobalScot](https://www.globalscot.com/) network has 5 experts in Spain covering:
 
 * energy
 * financial services
@@ -73,7 +73,7 @@ We’re going to expand the GlobalScot network in Spain.
 ### Department for International Trade
 You can contact the [Department for International Trade](https://www.gov.uk/world/organisations/department-for-international-trade-spain#contact-us) team in Spain to find opportunities for doing business there.  
 
-### British Chamber of Commerce
+### Chamber of Commerce
 The [British Chamber of Commerce](http://www.britishchamberspain.com/index.html) in Spain can offer members:
 
 * business support

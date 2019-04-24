@@ -1,20 +1,20 @@
 ---
 layout: default
-title:  "Science"
+title:  "Life and chemical sciences"
 category: sectors
-index: 4
+index: 5
 frontpage: yes
 parent: sectors
 permalink: /sectors/science/
-prev: { title: "Financial and business services", url: "/sectors/financial-and-business/"}
-next: { title: "Engineering", url: "/sectors/engineering/"}
+prev: { title: "Food and drink", url: "/sectors/food-and-drink/"}
+next: { title: "Technology, digital and media", url: "/sectors/technology/"}
 ---
 
 ![An image of test tubes depicting the life and chemical sciences sector](/assets/images/sector_photography/life-and-chemical-sciences.jpg)
 
-In 2017, life sciences made up **4.8%** of Scotland’s international exports (£1.57 billion). It also made up **0.7%** of its UK exports (£360 million).
+In 2017, life sciences made up 4.8% of Scotland’s international exports (£1.57 billion). It also made up 0.7% of its UK exports (£360 million).
 
-Chemical sciences made up **9.7%** of Scotland’s international exports (£3.2 billion). It also made up **2.7%** of its UK exports (£1.3 billion).
+Chemical sciences made up 9.7% of Scotland’s international exports (£3.2 billion). It also made up 2.7% of its UK exports (£1.3 billion).
 
 Life sciences covers the manufacture of:
 
@@ -34,8 +34,8 @@ Chemical sciences covers the manufacture of:
 
 Between 2002 and 2017 Scotland’s life sciences exports increased:
 
-* internationally from **£750 million** to **£1.57 billion**
-* to the rest of the UK from **£260 million** to **£360 million**
+* internationally from £750 million to £1.57 billion
+* to the rest of the UK from £260 million to £360 million
 
 
 ## How Scotland’s chemical sciences exports have increased since 2002
@@ -43,8 +43,8 @@ Between 2002 and 2017 Scotland’s life sciences exports increased:
 
 Between 2002 and 2017 Scotland’s chemical sciences exports increased:
 
-* internationally from **£2 billion** to **£3.2 billion**
-* to the rest of the UK from **£600 million** to **£1.3 billion**
+* internationally from £2 billion to £3.2 billion
+* to the rest of the UK from £600 million to £1.3 billion
 
 
 ## Where we can sell more
@@ -61,7 +61,7 @@ This evidence shows where:
 
 ### Life sciences
 
-Countries where there’s a large or growing demand for life sciences imports
+Countries where there’s a large or growing demand for life sciences imports:
 
 * [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
@@ -72,7 +72,7 @@ Countries where there’s a large or growing demand for life sciences imports
 * [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
 * Japan
 
-Where Scotland’s currently exporting less than similar countries
+Where Scotland’s currently exporting less than similar countries:
 
 * [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
@@ -90,7 +90,7 @@ Where Scotland’s currently exporting less than similar countries
 
 There’s large or growing demand for chemical sciences imports to China.
 
-Where Scotland’s currently exporting less than similar countries
+Where Scotland’s currently exporting less than similar countries:
 
 * [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
@@ -105,7 +105,7 @@ Where Scotland’s currently exporting less than similar countries
 
 ## What we're going to do
 
-To help life and chemical sciences exports, we'll
+To help life and chemical sciences exports, we'll:
 
 * work with industry bodies and the enterprise agencies to create market development plans for selected sub-sectors and countries
 * use Ministerial visits to build relationships with parent companies of key Scottish-based businesses

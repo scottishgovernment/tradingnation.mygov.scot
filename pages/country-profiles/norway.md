@@ -11,7 +11,7 @@ next: { title: "Poland", url: "/country-profiles/poland/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold over **£1 billion** worth of exports to Norway. This is **3.1%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Norway decreased by an average of **5.9%** each year.
+In 2017, Scotland sold over £1 billion worth of exports to Norway. This is 3.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Norway decreased by an average of 5.9% each year.
 
 > Exports have been affected by a slow-down in Norway’s economy during this time.
 
@@ -60,20 +60,20 @@ In Norway, the key sectors where Scotland could sell more are:
 ## Help with exporting in Norway
 
 ### Scottish Development International offices
-Scottish Development International have an office in [Stavanger](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/norway-stavanger). They have five members of staff focussed on:
+Scottish Development International have an office in [Stavanger](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/norway-stavanger). They have 5 members of staff focussed on:
 
 * industries that produce consumer goods
 * science and technology
 * energy
 
 ### GlobalScot
-The [GlobalScot](https://www.globalscot.com/) network has two experts in Norway covering energy. We’re going to expand the GlobalScot network in Norway.
+The [GlobalScot](https://www.globalscot.com/) network has 2 experts in Norway covering energy. We’re going to expand the GlobalScot network in Norway.
 
 ### Department for International Trade
-You can contact the [Department for International Trade](https://www.gov.uk/government/publications/exporting-to-norway) Department for International Trade team in Norway to find opportunities for doing business there.  
+You can contact the [Department for International Trade team](https://www.gov.uk/government/publications/exporting-to-norway) in Norway to find opportunities for doing business there.  
 
 ### Norwegian British Chamber of Commerce
-The [Norwegian British Chamber](https://nbccuk.com/) of Commerce can offer members:
+The [Norwegian British Chamber of Commerce](https://nbccuk.com/) can offer members:
 
 * business support
 * advice

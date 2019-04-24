@@ -2,19 +2,20 @@
 layout: default
 title:  "Food and drink"
 category: sectors
-index: 1
+index: 4
 frontpage: yes
 parent: sectors
 permalink: /sectors/food-and-drink/
-next: { title: "Technology", url: "/sectors/technology/"}
+prev: { title: "Financial and business services", url: "/sectors/financial-and-business/"}
+next: { title: "Life and chemical sciences", url: "/sectors/science/"}
 ---
 
 ![An image of food and drink depicting the food and drink sector](/assets/images/sector_photography/food-and-drink.png)
 
 In 2017, food and drink made up:
 
-* **20%** of Scotland’s international exports (£6 billion)
-* **9%** of Scotland’s UK exports (£4.5 billion)
+* 20% of Scotland’s international exports (£6 billion)
+* 9% of Scotland’s UK exports (£4.5 billion)
 
 The food and drink sector covers a range of activities, such as:
 
@@ -29,8 +30,8 @@ The food and drink sector covers a range of activities, such as:
 
 Between 2013 and 2018 Scotland’s food and drink exports:
 
-* increased internationally from **£5.4 billion** to **£6.3 billion**
-* decreased to the rest of the UK from **£4.6 billion** to **£4.5 billion**
+* increased internationally from £5.4 billion to £6.3 billion
+* decreased to the rest of the UK from £4.6 billion to £4.5 billion
 
 
 ## Where we can sell more
@@ -78,18 +79,3 @@ This helps to support:
 
 
 You can find more information on Scotland’s food and drink sector in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
-
-
-
-< - - - >
-
-
-
-## sWhat we can sell more of
-
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) highlights key opportunities for Scottish businesses to sell more. This includes:
-
-* middle class consumer markets in developed and developing countries, where Scottish brands are appealing to people and businesses
-* white spirits, which sell the most in the global spirits market, presenting opportunities for Scottish gin producers. This also leaves scope for growth and diversity in whisky
-* consolidating and expanding on the food sector for international markets through targeted retail and food service
-* potential export opportunities of around £1 billion (mainly in fish and seafood) already identified in Scotland Food and Drink’s export plan

@@ -11,7 +11,7 @@ next: { title: "Canada", url: "/country-profiles/canada/"}
 ---
 
 {:.leader}
-In 2017, Scotland sold **£760 million** worth of exports to Italy. This is **2.3%** of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Italy increased by an average of **3.9%** each year.
+In 2017, Scotland sold £760 million worth of exports to Italy. This is 2.3% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Italy increased by an average of 3.9% each year.
 
 ![An image of Italy outlined on a map](/assets/images/country_maps/14-Italy.png)
 
@@ -38,9 +38,9 @@ It’s also a good place for Scottish businesses to export to because:
 
 In Italy, the key sectors where Scotland could sell more are:
 
-* financial services
-* food
-* chemical sciences
+* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business/)
+* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
+* [chemical sciences](https://tradingnation.mygov.scot/sectors/science/)
 * computer and information technology services
 * machinery and equipment
 * the manufacture of computer, electronic and optical products
@@ -62,10 +62,10 @@ In Italy, the key sectors where Scotland could sell more are:
 ## Help with exporting in Italy
 
 ### Scottish Development International offices
-[Scottish Development International](https://www.sdi.co.uk/) have an office in [Milan](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/italy-milan. They have one staff member who’s focussed on industries that produce consumer goods.
+[Scottish Development International](https://www.sdi.co.uk/) have an office in [Milan](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/italy-milan/). They have one staff member who’s focussed on industries that produce consumer goods.
 
 ### GlobalScot
-The [GlobalScot](https://www.globalscot.com/) network has four experts in Italy covering:
+The [GlobalScot](https://www.globalscot.com/) network has 4 experts in Italy covering:
 
 * financial services
 * energy
@@ -77,7 +77,7 @@ We’re going to expand the GlobalScot network in Italy.
 You can contact the [Department for International Trade](https://www.gov.uk/world/organisations/department-for-international-trade-italy#contact-us) team in Italy to find opportunities for doing business there.  
 
 
-### British Chamber of Commerce
+### Chamber of Commerce
 The [British Chamber of Commerce](http://www.britchamitaly.com/en-WR/) in Italy can offer members:
 
 * business support

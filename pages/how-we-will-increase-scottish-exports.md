@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "How we will increase Scottish exports"
+title:  "How we'll increase exports"
 category: trading-nation
 index: 4
 frontpage: yes
@@ -78,15 +78,15 @@ These changes aim to:
 To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will:
 
 * improve trade promotion as well as Scotland’s overseas profile and reach
-* support businesses by refocussing [Scottish Development International](https://www.sdi.co.uk/)’s priorities
+* support businesses by refocussing [Scottish Development International’s](https://www.sdi.co.uk/) priorities
 
 
-## Improving trade promotion, profile and reach
+### Improving trade promotion, profile and reach
 
 To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will:
 
 * expand the [GlobalScot](https://www.globalscot.com/) network from 600 to 2000 business people in key markets. This includes doubling to 500 people in Europe by 2020
-* give [GlobalScot](https://www.globalscot.com/) clearer “asks” and “offers” of support from [Scottish Development International](https://www.sdi.co.uk/)
+* give [GlobalScot](https://www.globalscot.com/) clearer 'asks' and 'offers' of support from [Scottish Development International](https://www.sdi.co.uk/)
 * asking leading Scottish exporters to get involved in [Scotland Is Now](https://www.scotland.org/) to develop a world-class brand for Scotland
 * adding in-market specialists in [key sectors](https://tradingnation.mygov.scot/sectors/), focused on [countries with the most opportunities](https://tradingnation.mygov.scot/where-things-are-being-bought/)
 * continue to do all we can to increase our exports with key countries in Europe, regardless of the outcome of EU Exit
@@ -98,7 +98,7 @@ It’ll also look to increase trade promotion activity with more international m
 * major international events such as the Rugby World Cup 2019, Dubai Expo 2020 and the Royal Edinburgh Military Tattoo in China 2020
 
 
-Refocussing Scottish Development International’s priorities
+### Refocussing Scottish Development International’s priorities
 
 To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will help [Scottish Development International](https://www.sdi.co.uk/) to:
 
@@ -114,7 +114,7 @@ To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trad
 
 It will also improve business networks by:
 
-* giving the [Chambers of Commerce(https://www.scottishchambers.org.uk/) up to £2 million to run trade missions over 3 years (announced December 2018)
+* giving the [Chambers of Commerce](https://www.scottishchambers.org.uk/) up to £2 million to run trade missions over 3 years (announced December 2018)
 * supporting the [Scottish Business Network](https://www.sbn.scot/) to take up trade opportunities from London
 
 ## Checking how Scotland’s exports are performing
