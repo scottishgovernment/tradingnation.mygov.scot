@@ -2,6 +2,7 @@
 layout: default
 title:  "Contact"
 category: trading-nation
+summary: "Contact the Scottish Government about A Trading Nation."
 index: 8
 frontpage: yes
 parent: home

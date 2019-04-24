@@ -2,6 +2,7 @@
 layout: default
 title:  "Why exporting's important"
 category: trading-nation
+summary: "How exporting helps Scotland’s economy and businesses."
 index: 1
 frontpage: yes
 parent: home

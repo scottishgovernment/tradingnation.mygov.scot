@@ -1,8 +1,8 @@
 ---
 layout: tiles-2-hero
-title:  "Sectors"
+title:  "Sector profiles"
 category: trading-nation
-summary: ""
+summary: "Includes where sectors could sell more and what we’re going to do to help."
 subtitle: ""
 index: 6
 frontpage: yes

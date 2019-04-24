@@ -2,6 +2,7 @@
 layout: default
 title:  "How we'll increase exports"
 category: trading-nation
+summary: "Changes we’re making to help increase Scotland’s exports."
 index: 4
 frontpage: yes
 parent: home

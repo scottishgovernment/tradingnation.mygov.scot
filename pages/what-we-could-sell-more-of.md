@@ -2,6 +2,7 @@
 layout: default
 title:  "What we could sell more of"
 category: trading-nation
+summary: "What we think Scotland could export more of."
 index: 2
 frontpage: yes
 parent: home
