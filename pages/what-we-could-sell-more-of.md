@@ -5,7 +5,7 @@ category: trading-nation
 index: 2
 frontpage: yes
 parent: home
-permalink: /what-people-are-buying/
+permalink: /what-we-could-sell-more-of/
 ---
 
 [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focuses on the following sectors:
@@ -34,7 +34,7 @@ Each sector was chosen based on evidence. This evidence drew on a range of quant
 * across sectors
 * for specific sectors only
 
-This showed that the [top 4 countries](https://tradingnation.mygov.scot/where-things-are-being-bought/) had opportunities in all chosen sectors. While, the [rest of the countries](https://tradingnation.mygov.scot/where-things-are-being-bought/) had opportunities in only some of the chosen sectors.
+This showed that the [top 4 countries](https://tradingnation.mygov.scot/where-we-could-sell-more/) had opportunities in all chosen sectors. While, the [rest of the countries](https://tradingnation.mygov.scot/where-we-could-sell-more/) had opportunities in only some of the chosen sectors.
 
 
 You can find out more about how sectors were chosen on [gov.scot](https://www.gov.scot/publications/scotland-a-trading-nation/)

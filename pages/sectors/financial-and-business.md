@@ -38,7 +38,7 @@ Between 2002 and 2017 Scotland’s financial and business services exports incre
 
 ## Where we can sell more
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
 
 This evidence shows where:
 

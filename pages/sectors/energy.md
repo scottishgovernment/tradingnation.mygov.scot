@@ -38,7 +38,7 @@ It does not include oil and gas production.
 * to the rest of the UK from £2.6 billion to £7.8 billion
 
 ## Where we can sell more
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-things-are-being-bought/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
 
 This evidence shows where:
 

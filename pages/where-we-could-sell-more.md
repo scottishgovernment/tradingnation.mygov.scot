@@ -5,7 +5,7 @@ category: trading-nation
 index: 3
 frontpage: yes
 parent: home
-permalink: /where-things-are-being-bought/
+permalink: /where-we-could-sell-more/
 ---
 
 {:.leader}
@@ -35,7 +35,7 @@ The 15 countries in the first priority group are:
 * [Spain](https://tradingnation.mygov.scot/country-profiles/spain/)
 
 
-These countries currently make up **66%** of Scotland’s exports. They’re expected to provide the most opportunity for Scotland’s future export growth.
+These countries currently make up 66% of Scotland’s exports. They’re expected to provide the most opportunity for Scotland’s future export growth.
 
 To help exports to these countries, we’ll put in place support including:
 
@@ -61,7 +61,7 @@ The 11 countries in the second priority group are:
 * Brazil
 * Indonesia
 
-These countries currently make up **14%** of Scotland’s exports. These countries are expected to provide opportunities for businesses in:
+These countries currently make up 14% of Scotland’s exports. These countries are expected to provide opportunities for businesses in:
 
 * the mid to long term
 * specific sectors
