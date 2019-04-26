@@ -28,7 +28,7 @@ The 15 countries in the first priority group are:
 * [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
 * [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
 * [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Republic of Ireland](https://tradingnation.mygov.scot/country-profiles/republic-of-ireland/)
+* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
 * [Denmark](https://tradingnation.mygov.scot/country-profiles/denmark/)
 * [Sweden](https://tradingnation.mygov.scot/country-profiles/sweden/)
 * [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
@@ -56,7 +56,7 @@ The 11 countries in the second priority group are:
 * Mexico
 * India
 * Singapore
-* the United Arab Emirates (UAE)
+* United Arab Emirates (UAE)
 * Nigeria
 * South Korea
 * Brazil

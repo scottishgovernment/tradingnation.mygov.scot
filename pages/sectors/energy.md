@@ -19,7 +19,7 @@ In 2017, energy made up:
 The energy sector covers:
 
 * mining and mining support
-* utilities, such as: electricity, gas, renewables
+* utilities, such as electricity, gas, renewables
 
 [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) covers some oil and gas sector activities, such as:
 
@@ -33,7 +33,7 @@ It does not include oil and gas production.
 ![Graph showing how Scotland’s energy exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Energy - Figure 1.jpg)
 
 
-## Between 2002 and 2017 Scotland’s energy exports increased:
+Between 2002 and 2017 Scotland’s energy exports increased:
 * internationally from £700 million to £3.8 billion
 * to the rest of the UK from £2.6 billion to £7.8 billion
 
@@ -42,7 +42,7 @@ It does not include oil and gas production.
 
 This evidence shows where:
 
-* there’s a large or growing demand for imports.
+* there’s a large or growing demand for imports
 * Scotland’s exporting less than other, similar countries
 
 > The similar countries are Finland, Norway, Denmark and Ireland.

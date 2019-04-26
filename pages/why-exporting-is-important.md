@@ -33,7 +33,7 @@ Exporting helps businesses to grow because it:
 
 Exporting can mean that businesses have more competitors.
 
-But this can be a positive thing and can lead them to develop new products and services
+But this can be a positive thing and can lead them to develop new products and services.
 
 Businesses that export tend to spend more money on research and development. This helps them to develop new products and services to sell.
 
@@ -44,7 +44,7 @@ Exporting helps businesses to become more productive. This means they produce mo
 The [Office of National Statistics](https://www.ons.gov.uk/) and [Department for Business, Energy and Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) say:
 
 * businesses that export make up 60% of the UK’s annual increase in productivity  
-* the 3% of businesses in Scotland that export are on average 70% more productive than businesses who do not
+* the 3% of businesses in Scotland that export are on average 70% more productive than businesses that do not
 
 
 ## More customers to sell to

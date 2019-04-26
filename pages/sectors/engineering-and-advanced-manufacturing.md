@@ -60,7 +60,7 @@ This evidence shows where:
 * [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
 * [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
 * [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/republic-of-ireland/)
+* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
 * South Korea
 
 

@@ -64,7 +64,7 @@ This evidence shows where:
 * [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
 * [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
 * [Norway](https://tradingnation.mygov.scot/country-profiles/norway/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/republic-of-ireland/)
+* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
 * Japan
 * Australia
 * India

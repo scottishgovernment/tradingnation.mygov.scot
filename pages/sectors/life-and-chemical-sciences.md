@@ -68,7 +68,7 @@ Countries where there’s a large or growing demand for life sciences imports:
 * [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
 * [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
 * [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/republic-of-ireland/)
+* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
 * [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
 * Japan
 
@@ -97,7 +97,7 @@ Where Scotland’s currently exporting less than similar countries:
 * [France](https://tradingnation.mygov.scot/country-profiles/france/)
 * [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
 * [Belgium](https://tradingnation.mygov.scot/country-profiles/poland/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/republic-of-ireland/)
+* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
 * [Denmark](https://tradingnation.mygov.scot/country-profiles/denmark/)
 * [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
 * Spain

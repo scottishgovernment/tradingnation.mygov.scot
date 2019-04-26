@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Republic of Ireland"
+title:  "Ireland"
 category: country-profiles
 index: 10
 frontpage: yes
 parent: country-profiles
-permalink: /country-profiles/republic-of-ireland/
+permalink: /country-profiles/ireland/
 prev: { title: "China", url: "/country-profiles/china/"}
 next: { title: "Denmark", url: "/country-profiles/denmark/"}
 ---
@@ -13,7 +13,7 @@ next: { title: "Denmark", url: "/country-profiles/denmark/"}
 {:.leader}
 In 2017, Scotland sold £1.5 billion worth of exports to Ireland. This is 4.5% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of 21% each year.
 
-![An image of Republic of Ireland outlined on a map](/assets/images/country_maps/10-Irish-Republic.png)
+![An image of Ireland outlined on a map](/assets/images/country_maps/10-Irish-Republic.png)
 
 ## The benefits of selling to Ireland
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Ireland as the 23rd easiest country in the world to do business with.
@@ -38,7 +38,7 @@ In Ireland, the key sectors where Scotland could sell more are:
 * machinery and equipment
 * computer programming and information technology (IT)
 
-![An infographic of top opportunities in Republic of Ireland](/assets/images/country_infographics/10-Republic-of-Ireland-top-opportunities.png)
+![An infographic of top opportunities in Ireland](/assets/images/country_infographics/10-ireland-top-opportunities.png)
 
 {:.hidden}
 ### Top opportunities in Ireland
