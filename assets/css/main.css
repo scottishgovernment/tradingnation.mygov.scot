@@ -5410,7 +5410,7 @@ h2 > a:hover {
 .category-item {
   margin-bottom: 28px;
   padding: 0 0 0 10px;
-  border-left: 1px solid #dfb5cc;
+  border-left: 1px solid #dfb4cb;
   transition: border-color 1s;
 }
 /* line 13, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-item.scss */
@@ -8136,32 +8136,32 @@ ol.category-list__list li a h2:before {
     width: 352px;
   }
 }
-/* line 6, ../_scss/overrides/_override.hero-header.scss */
+/* line 3, ../_scss/overrides/_override.hero-header.scss */
 .hero-header__content {
+  display: flex;
+  flex-direction: column;
   position: relative;
 }
-/* line 10, ../_scss/overrides/_override.hero-header.scss */
+/* line 9, ../_scss/overrides/_override.hero-header.scss */
 .hero-header__title {
   border-left: 4px solid #F0A75A;
   color: #A51765;
   margin: 14px 0 28px;
   padding-left: 20px;
 }
-/* line 17, ../_scss/overrides/_override.hero-header.scss */
+/* line 16, ../_scss/overrides/_override.hero-header.scss */
 .hero-header__image {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: -20px;
+  margin: 14px auto;
   max-width: 85%;
-  max-height: 100%;
+  max-height: 350px;
 }
-/* line 26, ../_scss/overrides/_override.hero-header.scss */
+/* line 23, ../_scss/overrides/_override.hero-header.scss */
 .hero-header h1 {
   font-weight: 100;
   margin: 0;
 }
-/* line 31, ../_scss/overrides/_override.hero-header.scss */
+/* line 28, ../_scss/overrides/_override.hero-header.scss */
 .hero-header__tagline {
   display: block;
   font-weight: 700;
@@ -8173,41 +8173,67 @@ ol.category-list__list li a h2:before {
 }
 
 @media (min-width: 768px) {
-  /* line 43, ../_scss/overrides/_override.hero-header.scss */
+  /* line 40, ../_scss/overrides/_override.hero-header.scss */
   .hero-header__image {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    margin-top: 0;
-    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 33%;
   }
 
-  /* line 51, ../_scss/overrides/_override.hero-header.scss */
+  /* line 46, ../_scss/overrides/_override.hero-header.scss */
   .hero-header__content {
     min-height: 210px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
   }
 
-  /* line 55, ../_scss/overrides/_override.hero-header.scss */
+  /* line 53, ../_scss/overrides/_override.hero-header.scss */
   .hero-header__title {
     margin: 28px 0 35px;
-    max-width: 470px;
+    max-width: calc(66% - 30px);
     position: relative;
     z-index: 5000;
   }
 
-  /* line 63, ../_scss/overrides/_override.hero-header.scss */
+  /* line 60, ../_scss/overrides/_override.hero-header.scss */
   .hero-header__tagline {
     margin-top: 14px;
   }
 }
 @media (min-width: 992px) {
-  /* line 70, ../_scss/overrides/_override.hero-header.scss */
+  /* line 66, ../_scss/overrides/_override.hero-header.scss */
   .hero-header__title {
     margin: 56px 0 89px;
-    max-width: 680px;
+  }
+}
+@media (min-width: 1200px) {
+  /* line 72, ../_scss/overrides/_override.hero-header.scss */
+  .hero-header__title {
+    max-width: calc(66% - 30px);
+  }
+
+  /* line 76, ../_scss/overrides/_override.hero-header.scss */
+  .hero-header__image {
+    max-width: 33%;
+  }
+}
+@supports not (display: flex) {
+  @media (min-width: 768px) {
+    /* line 83, ../_scss/overrides/_override.hero-header.scss */
+    .hero-header__image {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
   }
 }
 /* line 1, ../_scss/overrides/_override.page-nav.scss */
+.page-nav__text {
+  display: block;
+}
+
+/* line 5, ../_scss/overrides/_override.page-nav.scss */
 .page-nav__button--left:before, .page-nav__button--right:before {
   background-color: #A51765;
 }
