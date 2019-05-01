@@ -94,4 +94,4 @@ They have [offices](https://www.britishirishchamber.com/contact/) in Dublin and 
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to Germany in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
+You can also find more information on exporting to Ireland in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

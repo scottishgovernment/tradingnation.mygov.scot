@@ -89,4 +89,4 @@ The [British-American Business Council](http://www.babc.org/) is a large network
 
 You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
 
-You can also find more information on exporting to the Netherlands in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
+You can also find more information on exporting to the USA in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
