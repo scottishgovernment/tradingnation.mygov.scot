@@ -38,7 +38,7 @@ In Ireland, the key sectors where Scotland could sell more are:
 * machinery and equipment
 * computer programming and information technology (IT)
 
-![An infographic of top opportunities in Ireland](/assets/images/country_infographics/10-ireland-top-opportunities.png)
+![An infographic of top opportunities in Ireland](/assets/images/country_infographics/10-Ireland-top-opportunities.png)
 
 {:.hidden}
 ### Top opportunities in Ireland
