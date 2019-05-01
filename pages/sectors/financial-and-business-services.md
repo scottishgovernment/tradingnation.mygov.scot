@@ -52,7 +52,7 @@ This evidence shows where:
 * [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
 * [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
 * [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/netherlands/)
+* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
 * [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
 
 ### Where Scotland’s currently exporting less than similar countries
