@@ -24,7 +24,7 @@ For example, [evidence shows](https://www.gov.scot/publications/scotland-a-tradi
 * focus on a limited range of products and services
 * sell to a limited number of countries
 
-This is why [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on [key sectors](https://tradingnation.mygov.scot/sectors/) and [countries](https://tradingnation.mygov.scot/sectors/).
+This is why [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on [key sectors](https://tradingnation.mygov.scot/sectors/) and [countries](https://tradingnation.mygov.scot/country-profiles/).
 
 
 ## Top 500 businesses
