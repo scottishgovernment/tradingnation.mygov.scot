@@ -56,7 +56,7 @@ In Spain, the key sectors where Scotland could sell more are:
 ## Help with exporting in Spain
 ### Scottish Development International offices
 
-Scottish Development International have an offices in [Barcelona](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-barcelona) and [Madrid](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-madrid). They have 2 members of staff focussed on:
+Scottish Development International have an office in [Barcelona](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-barcelona) and [Madrid](https://www.sdi.co.uk/about-sdi/global-offices/europe-middle-east-and-africa/spain-madrid). They have 2 members of staff focussed on:
 
 * industries that produce consumer goods
 * science and technology
@@ -71,7 +71,7 @@ The [GlobalScot](https://www.globalscot.com/) network has 5 experts in Spain cov
 We’re going to expand the GlobalScot network in Spain.
 
 ### Department for International Trade
-You can contact the [Department for International Trade](https://www.gov.uk/world/organisations/department-for-international-trade-spain#contact-us) team in Spain to find opportunities for doing business there.  
+You can contact the [Department for International Trade](https://www.gov.uk/world/organisations/department-for-international-trade-spain#contact-us) team in Spain to find opportunities for doing business there.
 
 ### Chamber of Commerce
 The [British Chamber of Commerce](http://www.britishchamberspain.com/index.html) in Spain can offer members:
