@@ -9,7 +9,7 @@ parent: home
 permalink: /what-we-could-sell-more-of/
 ---
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focuses on the following sectors:
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on the following sectors:
 
 *	[financial and business services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
 *	[food and drink](https://tradingnation.mygov.scot/sectors/food-and-drink/)  

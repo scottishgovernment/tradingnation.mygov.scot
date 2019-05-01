@@ -13,7 +13,7 @@ permalink: /increase-scottish-exports/
 * focussing resources
 * making changes to strategy
 * making changes to policy
-*	checking how exports perform
+* checking how exports perform
 
 
 ## Focussing resources
@@ -89,7 +89,7 @@ To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trad
 * expand the [GlobalScot](https://www.globalscot.com/) network from 600 to 2000 business people in key markets. This includes doubling to 500 people in Europe by 2020
 * give [GlobalScot](https://www.globalscot.com/) clearer 'asks' and 'offers' of support from [Scottish Development International](https://www.sdi.co.uk/)
 * ask leading Scottish exporters to get involved in [Scotland Is Now](https://www.scotland.org/) to develop a world-class brand for Scotland
-* add in-market specialists in [key sectors](https://tradingnation.mygov.scot/sectors/), focused on [countries with the most opportunities](https://tradingnation.mygov.scot/where-we-could-sell-more/)
+* add in-market specialists in [key sectors](https://tradingnation.mygov.scot/sectors/), focussed on [countries with the most opportunities](https://tradingnation.mygov.scot/where-we-could-sell-more/)
 * continue to do all we can to increase our exports with key countries in Europe, regardless of the outcome of EU Exit
 
 It’ll also look to increase trade promotion activity with more international missions and exhibitions. This will build on:
