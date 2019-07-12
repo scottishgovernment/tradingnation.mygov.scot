@@ -10,8 +10,6 @@ headings:
  - name: Cookies that we set
    nested:
     - name: Google Analytics
-    - name: Mouseflow
-    - name: Google Optimize
     - name: YouTube
  - name: Further information
 introduction: A cookie lets a website recognise your device and store some information about your preferences or interactions.
