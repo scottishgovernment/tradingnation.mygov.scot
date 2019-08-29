@@ -1,15 +1,34 @@
 (function() {
-    // default to unspecified
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer[0].userType = 'unspecified';
+
+    function setUserType(userType) {
+        window.dataLayer[0].userType = userType;
+    }
+
+    window.dataLayer = window.dataLayer || [{}];
 
     var xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function () {
-        if(xhr.readyState === 4 && xhr.status === 200) {
-            var response = JSON.parse(xhr.responseText);
-            window.dataLayer[0].userType = response.userType;
+    xhr.open('GET', 'https://www.gov.scot/service/usertype', true);
+
+    xhr.timeout = 1000;
+
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+            var userType;
+            if (xhr.status === 200) {
+                var response = JSON.parse(xhr.responseText);
+                userType = response.userType;
+            } else {
+                userType = 'error';
+            }
+            setUserType(userType);
+            initGTM();
         }
     };
-    xhr.open('GET', 'https://www.gov.scot/service/usertype', true);
+
+    xhr.ontimeout = function() {
+        setUserType('timeout');
+        initGTM();
+    };
+
     xhr.send(null);
 })();
