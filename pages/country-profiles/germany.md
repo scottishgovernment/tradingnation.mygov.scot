@@ -34,7 +34,7 @@ It’s also a good place for Scottish businesses to export to because:
 
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Germany, the key sectors where Scotland could sell more are:
 
@@ -100,6 +100,6 @@ The [British Chamber of Commerce Germany](http://www.bccg.de/) can offer members
 
 They have an office in Berlin.
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Germany in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

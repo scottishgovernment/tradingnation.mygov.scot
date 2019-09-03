@@ -19,21 +19,21 @@ A Trading Nation organises countries into 3 priority groups.
 ### Priority group 1
 The 15 countries in the first priority group are:
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [France](https://tradingnation.mygov.scot/country-profiles/france/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
-* [Norway](https://tradingnation.mygov.scot/country-profiles/norway/)
-* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
-* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
-* [Denmark](https://tradingnation.mygov.scot/country-profiles/denmark/)
-* [Sweden](https://tradingnation.mygov.scot/country-profiles/sweden/)
-* [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
-* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
-* [Spain](https://tradingnation.mygov.scot/country-profiles/spain/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [France](/country-profiles/france/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Switzerland](/country-profiles/switzerland/)
+* [Norway](/country-profiles/norway/)
+* [Poland](/country-profiles/poland/)
+* [Belgium](/country-profiles/belgium/)
+* [China](/country-profiles/china/)
+* [Ireland](/country-profiles/ireland/)
+* [Denmark](/country-profiles/denmark/)
+* [Sweden](/country-profiles/sweden/)
+* [Italy](/country-profiles/italy/)
+* [Canada](/country-profiles/canada/)
+* [Spain](/country-profiles/spain/)
 
 
 These countries currently make up 66% of Scotland’s exports. They’re expected to provide the most opportunity for Scotland’s future export growth.

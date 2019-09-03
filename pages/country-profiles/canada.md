@@ -30,7 +30,7 @@ It’s also a good place for Scottish businesses to export to because:
 * it has a high standard of living, so people have money to spend
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Canada, the key sectors where Scotland could sell more are:
 
@@ -38,9 +38,9 @@ In Canada, the key sectors where Scotland could sell more are:
 * computer and information technology (IT) services
 * the manufacture of computer, electronic and optical products
 * machinery and equipment
-* [engineering](https://tradingnation.mygov.scot/sectors/engineering-and-advanced-manufacturing/)
-* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
+* [engineering](/sectors/engineering-and-advanced-manufacturing/)
+* [food](/sectors/food-and-drink/)
+* [chemical sciences](/sectors/life-and-chemical-sciences/)
 
 ![An infographic of top opportunities in Canada](/assets/images/country_infographics/14-Canada-top-opportunities.png)
 
@@ -91,6 +91,6 @@ The [British Canadian Chamber of Trade and Commerce](https://www.britishcanadian
 
 They have an office in [Toronto](https://www.britishcanadianchamber.com/business-services).
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Canada in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

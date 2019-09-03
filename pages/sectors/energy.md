@@ -38,7 +38,7 @@ Between 2002 and 2017 Scotland’s energy exports increased:
 * to the rest of the UK from £2.6 billion to £7.8 billion
 
 ## Where we can sell more
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](/where-we-could-sell-more/).
 
 This evidence shows where:
 
@@ -48,16 +48,16 @@ This evidence shows where:
 > The similar countries are Finland, Norway, Denmark and Ireland.
 
 ### Countries where there’s a large or growing demand for energy imports
-* [France](https://tradingnation.mygov.scot/country-profiles/france/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
+* [France](/country-profiles/france/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Belgium](/country-profiles/belgium/)
 * Singapore
 
 ### Where Scotland’s currently exporting less than similar countries
-* [France](https://tradingnation.mygov.scot/country-profiles/france/)
-* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
-* [Sweden](https://tradingnation.mygov.scot/country-profiles/sweden/)
-* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
+* [France](/country-profiles/france/)
+* [Poland](/country-profiles/poland/)
+* [Sweden](/country-profiles/sweden/)
+* [Canada](/country-profiles/canada/)
 * Australia
 * India
 * Singapore

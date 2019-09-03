@@ -31,7 +31,7 @@ It’s also a good place for Scottish businesses to export to because:
 * it’s close to Scotland
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 In Ireland, the key sectors where Scotland could sell more are:
 
 * transportation equipment
@@ -92,6 +92,6 @@ The [British Irish Chamber of Commerce](https://www.britishirishchamber.com/) ca
 They have [offices](https://www.britishirishchamber.com/contact/) in Dublin and London.
 
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Ireland in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

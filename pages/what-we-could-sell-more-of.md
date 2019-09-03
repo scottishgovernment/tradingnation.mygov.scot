@@ -11,12 +11,12 @@ permalink: /what-we-could-sell-more-of/
 
 [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on the following sectors:
 
-*	[financial and business services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
-*	[food and drink](https://tradingnation.mygov.scot/sectors/food-and-drink/)  
-*	[life and chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)  
-*	[engineering](https://tradingnation.mygov.scot/sectors/engineering-and-advanced-manufacturing/)  
-*	[energy](https://tradingnation.mygov.scot/sectors/energy/)  
-*	[technology, digital and media](https://tradingnation.mygov.scot/sectors/technology-digital-and-media/)
+*	[financial and business services](/sectors/financial-and-business-services/)
+*	[food and drink](/sectors/food-and-drink/)  
+*	[life and chemical sciences](/sectors/life-and-chemical-sciences/)  
+*	[engineering](/sectors/engineering-and-advanced-manufacturing/)  
+*	[energy](/sectors/energy/)  
+*	[technology, digital and media](/sectors/technology-digital-and-media/)
 
 Evidence shows these sectors are where Scotland's exports have the most opportunity to grow.
 
@@ -30,12 +30,12 @@ Each sector was chosen based on evidence. This evidence drew on a range of quant
 * where Scotland is well placed to supply things compared to our competitors
 
 ## Comparing countries
-[Different countries were compared](https://tradingnation.mygov.scot/country-profiles/) to work out which countries offered opportunities to grow:
+[Different countries were compared](/country-profiles/) to work out which countries offered opportunities to grow:
 
 * across sectors
 * for specific sectors only
 
-This showed that the [top 4 countries](https://tradingnation.mygov.scot/where-we-could-sell-more/) had opportunities in all chosen sectors. While, the [rest of the countries](https://tradingnation.mygov.scot/where-we-could-sell-more/) had opportunities in only some of the chosen sectors.
+This showed that the [top 4 countries](/where-we-could-sell-more/) had opportunities in all chosen sectors. While, the [rest of the countries](/where-we-could-sell-more/) had opportunities in only some of the chosen sectors.
 
 
 You can find out more about how sectors were chosen on [gov.scot](https://www.gov.scot/publications/scotland-a-trading-nation/)

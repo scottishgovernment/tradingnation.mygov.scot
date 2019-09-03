@@ -24,7 +24,7 @@ For example, [evidence shows](https://www.gov.scot/publications/scotland-a-tradi
 * focus on a limited range of products and services
 * sell to a limited number of countries
 
-This is why [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on [key sectors](https://tradingnation.mygov.scot/sectors/) and [countries](https://tradingnation.mygov.scot/country-profiles/).
+This is why [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on [key sectors](/sectors/) and [countries](/country-profiles/).
 
 
 ## Top 500 businesses
@@ -38,7 +38,7 @@ Increasing exports for these businesses will also benefit the businesses who sup
 
 
 ## Help for new exporters
-All businesses in Scotland will still be able to get some [help to grow their business and start exporting](https://tradingnation.mygov.scot/help-for-businesses/). This includes businesses who are new to exporting.
+All businesses in Scotland will still be able to get some [help to grow their business and start exporting](/help-for-businesses/). This includes businesses who are new to exporting.
 
 We’re looking at ways we can deliver this help in a different way. For example, improving the help and support available online.
 
@@ -89,7 +89,7 @@ To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trad
 * expand the [GlobalScot](https://www.globalscot.com/) network from 600 to 2000 business people in key markets. This includes doubling to 500 people in Europe by 2020
 * give [GlobalScot](https://www.globalscot.com/) clearer 'asks' and 'offers' of support from [Scottish Development International](https://www.sdi.co.uk/)
 * ask leading Scottish exporters to get involved in [Scotland Is Now](https://www.scotland.org/) to develop a world-class brand for Scotland
-* add in-market specialists in [key sectors](https://tradingnation.mygov.scot/sectors/), focussed on [countries with the most opportunities](https://tradingnation.mygov.scot/where-we-could-sell-more/)
+* add in-market specialists in [key sectors](/sectors/), focussed on [countries with the most opportunities](/where-we-could-sell-more/)
 * continue to do all we can to increase our exports with key countries in Europe, regardless of the outcome of EU Exit
 
 It’ll also look to increase trade promotion activity with more international missions and exhibitions. This will build on:
@@ -104,7 +104,7 @@ It’ll also look to increase trade promotion activity with more international m
 To do this, [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) will help [Scottish Development International](https://www.sdi.co.uk/) to:
 
 * separate into specialist divisions for exporting and attracting investments. This builds on a successful pilot in the food and drink sector
-* focus their resources on key [countries](https://tradingnation.mygov.scot/country-profiles/) and [sectors](https://tradingnation.mygov.scot/sectors/) that offer the biggest opportunities
+* focus their resources on key [countries](/country-profiles/) and [sectors](/sectors/) that offer the biggest opportunities
 * help existing exporters sell in new countries or create new products
 * work with high potential, early stage businesses in industries like digital and life sciences
 * develop support to help more small businesses who are internationally focussed grow quickly. This includes business in the creative and technology industries

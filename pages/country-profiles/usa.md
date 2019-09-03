@@ -30,7 +30,7 @@ It’s also a good place for Scottish businesses to export to because:
 * English is the first language
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In the USA, the key sectors where Scotland could sell more are:
 
@@ -87,6 +87,6 @@ You can contact the [Department for International Trade team](https://www.gov.uk
 The [British-American Business Council](http://www.babc.org/) is a large network of businesses based throughout the USA and Britain. It gives members advice and introductions in America.
 
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to the USA in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

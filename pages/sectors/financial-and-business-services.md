@@ -38,7 +38,7 @@ Between 2002 and 2017 Scotland’s financial and business services exports incre
 
 ## Where we can sell more
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](/where-we-could-sell-more/).
 
 This evidence shows where:
 
@@ -49,22 +49,22 @@ This evidence shows where:
 
 ### Countries where there’s a large or growing demand for financial and business services imports
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
-* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Ireland](/country-profiles/ireland/)
+* [Canada](/country-profiles/canada/)
 
 ### Where Scotland’s currently exporting less than similar countries
 
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [France](https://tradingnation.mygov.scot/country-profiles/france/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
-* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
-* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
-* [Sweden](https://tradingnation.mygov.scot/country-profiles/sweden/)
-* [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
+* [Germany](/country-profiles/germany/)
+* [France](/country-profiles/france/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Switzerland](/country-profiles/switzerland/)
+* [Poland](/country-profiles/poland/)
+* [Belgium](/country-profiles/belgium/)
+* [Sweden](/country-profiles/sweden/)
+* [Italy](/country-profiles/italy/)
 * Japan
 
 

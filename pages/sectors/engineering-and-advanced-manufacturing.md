@@ -36,7 +36,7 @@ Between 2002 and 2017 Scotland’s engineering and advanced manufacturing export
 
 
 ## Where we can sell more
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](/where-we-could-sell-more/).
 
 This evidence shows where:
 
@@ -47,20 +47,20 @@ This evidence shows where:
 
 
 ### Countries where there’s a large or growing demand for engineering and advanced manufacturing imports
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
-* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
-* [Spain](https://tradingnation.mygov.scot/country-profiles/spain/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [China](/country-profiles/china/)
+* [Italy](/country-profiles/italy/)
+* [Canada](/country-profiles/canada/)
+* [Spain](/country-profiles/spain/)
 * Mexico
 
 ### Where Scotland’s currently exporting less than similar countries
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
+* [Germany](/country-profiles/germany/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Poland](/country-profiles/poland/)
+* [China](/country-profiles/china/)
+* [Ireland](/country-profiles/ireland/)
 * South Korea
 
 

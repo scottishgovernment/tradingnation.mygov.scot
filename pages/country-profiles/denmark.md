@@ -30,16 +30,16 @@ It’s also a good place for Scottish businesses to export to because:
 * UK brands are trusted there
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Denmark, the key sectors where Scotland could sell more are:
 
 * machinery and equipment
 * computer and information technology (IT) services
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
-* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
+* [chemical sciences](/sectors/life-and-chemical-sciences/)
+* [food](/sectors/food-and-drink/)
 * transport equipment
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
+* [financial services](/sectors/financial-and-business-services/)
 * the manufacture of computer, electronic and optical products
 
 ![An infographic of top opportunities in Denmark](/assets/images/country_infographics/11-Denmark-top-opportunities.png)
@@ -90,6 +90,6 @@ The [British Chambers of Commerce](http://www.bccd.dk/) in Denmark can offer mem
 
 They have an office in [Copenhagen](http://www.bccd.dk/?pageid=37&menuid=44&languageid=0).
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Denmark in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

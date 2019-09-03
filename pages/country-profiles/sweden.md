@@ -30,17 +30,17 @@ It’s also a good place for Scottish businesses to export to because:
 * it has a good business culture
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Sweden, the key sectors where Scotland could sell more are:
 
 * computer and information technology (IT) services
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
+* [financial services](/sectors/financial-and-business-services/)
 * the manufacture of computer, electronic and optical products
 * machinery and equipment
-* [engineering](https://tradingnation.mygov.scot/sectors/engineering-and-advanced-manufacturing/)
+* [engineering](/sectors/engineering-and-advanced-manufacturing/)
 * business support services
-* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
+* [food](/sectors/food-and-drink/)
 * transport equipment
 
 ![An infographic of top opportunities in Sweden](/assets/images/country_infographics/12-Sweden-top-opportunities.png)
@@ -86,6 +86,6 @@ The [British Swedish Chamber of Commerce](https://bscc.info/) can offer members:
 
 They have an office in [Stockholm](https://bscc.info/contact/).
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Sweden in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

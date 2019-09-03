@@ -30,15 +30,15 @@ It's also a good place for Scottish businesses to export to because:
 * it has good transport links
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Belgium, the key sectors where Scotland could sell more are:
 
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
+* [financial services](/sectors/financial-and-business-services/)
 * information communication technology (ICT)
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
+* [chemical sciences](/sectors/life-and-chemical-sciences/)
 * manufacture of computer, electronic and optical equipment
-* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
+* [food](/sectors/food-and-drink/)
 * machinery and equipment
 * transport equipment
 
@@ -83,6 +83,6 @@ The [British Chamber of Commerce](https://www.britishchamber.be/) in Belgium can
 
 They have an office in [Brussels](https://www.britishchamber.be/).
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Belgium in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

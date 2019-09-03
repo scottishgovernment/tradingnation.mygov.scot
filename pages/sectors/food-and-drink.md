@@ -36,7 +36,7 @@ Between 2013 and 2018 Scotland’s food and drink exports:
 
 ## Where we can sell more
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](/where-we-could-sell-more/).
 
 This evidence shows where:
 
@@ -47,23 +47,23 @@ This evidence shows where:
 
 ### Countries where there’s a large or growing demand for food and drink imports
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
-* [Spain](https://tradingnation.mygov.scot/country-profiles/spain/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [Netherlands](/country-profiles/netherlands/)
+* [China](/country-profiles/china/)
+* [Canada](/country-profiles/canada/)
+* [Spain](/country-profiles/spain/)
 * Japan
 
 ### Where Scotland’s currently exporting less than similar countries
 
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
-* [Norway](https://tradingnation.mygov.scot/country-profiles/norway/)
-* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
-* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Switzerland](/country-profiles/switzerland/)
+* [Norway](/country-profiles/norway/)
+* [Poland](/country-profiles/poland/)
+* [Belgium](/country-profiles/belgium/)
+* [China](/country-profiles/china/)
+* [Italy](/country-profiles/italy/)
 * Australia
 
 

@@ -37,7 +37,7 @@ Between 2002 and 2017 Scotland’s technology, digital and media exports:
 
 ## Where we can sell more
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](/where-we-could-sell-more/).
 
 This evidence shows where:
 
@@ -48,9 +48,9 @@ This evidence shows where:
 
 ### Countries where there’s a large or growing demand for digital, technology and media imports
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [China](/country-profiles/china/)
 * Japan
 * Mexico
 * Singapore
@@ -58,13 +58,13 @@ This evidence shows where:
 
 ### Where Scotland’s currently exporting less than similar countries
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [France](https://tradingnation.mygov.scot/country-profiles/france/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
-* [Norway](https://tradingnation.mygov.scot/country-profiles/norway/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [France](/country-profiles/france/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Switzerland](/country-profiles/switzerland/)
+* [Norway](/country-profiles/norway/)
+* [Ireland](/country-profiles/ireland/)
 * Japan
 * Australia
 * India

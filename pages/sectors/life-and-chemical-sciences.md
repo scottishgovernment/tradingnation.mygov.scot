@@ -49,7 +49,7 @@ Between 2002 and 2017 Scotland’s chemical sciences exports increased:
 
 ## Where we can sell more
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](https://tradingnation.mygov.scot/where-we-could-sell-more/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) used evidence to work out [where Scotland could sell the most in future](/where-we-could-sell-more/).
 
 This evidence shows where:
 
@@ -63,26 +63,26 @@ This evidence shows where:
 
 Countries where there’s a large or growing demand for life sciences imports:
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
-* [Italy](https://tradingnation.mygov.scot/country-profiles/italy/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Switzerland](/country-profiles/switzerland/)
+* [China](/country-profiles/china/)
+* [Ireland](/country-profiles/ireland/)
+* [Italy](/country-profiles/italy/)
 * Japan
 
 Where Scotland’s currently exporting less than similar countries:
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [France](https://tradingnation.mygov.scot/country-profiles/france/)
-* [Switzerland](https://tradingnation.mygov.scot/country-profiles/switzerland/)
-* [Poland](https://tradingnation.mygov.scot/country-profiles/poland/)
-* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
-* [China](https://tradingnation.mygov.scot/country-profiles/china/)
-* [Denmark](https://tradingnation.mygov.scot/country-profiles/denmark/)
-* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [France](/country-profiles/france/)
+* [Switzerland](/country-profiles/switzerland/)
+* [Poland](/country-profiles/poland/)
+* [Belgium](/country-profiles/belgium/)
+* [China](/country-profiles/china/)
+* [Denmark](/country-profiles/denmark/)
+* [Canada](/country-profiles/canada/)
 * South Korea
 
 
@@ -92,14 +92,14 @@ There’s large or growing demand for chemical sciences imports to China.
 
 Where Scotland’s currently exporting less than similar countries:
 
-* [United States of America](https://tradingnation.mygov.scot/country-profiles/usa/)
-* [Germany](https://tradingnation.mygov.scot/country-profiles/germany/)
-* [France](https://tradingnation.mygov.scot/country-profiles/france/)
-* [Netherlands](https://tradingnation.mygov.scot/country-profiles/netherlands/)
-* [Belgium](https://tradingnation.mygov.scot/country-profiles/belgium/)
-* [Ireland](https://tradingnation.mygov.scot/country-profiles/ireland/)
-* [Denmark](https://tradingnation.mygov.scot/country-profiles/denmark/)
-* [Canada](https://tradingnation.mygov.scot/country-profiles/canada/)
+* [United States of America](/country-profiles/usa/)
+* [Germany](/country-profiles/germany/)
+* [France](/country-profiles/france/)
+* [Netherlands](/country-profiles/netherlands/)
+* [Belgium](/country-profiles/belgium/)
+* [Ireland](/country-profiles/ireland/)
+* [Denmark](/country-profiles/denmark/)
+* [Canada](/country-profiles/canada/)
 * Spain
 
 

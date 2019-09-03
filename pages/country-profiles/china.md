@@ -31,7 +31,7 @@ It’s also a good place for Scottish businesses to export to because:
 * an increasing number of people and businesses are buying more
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In China, the key sectors where Scotland could sell more are:
 
@@ -93,6 +93,6 @@ The [British Chamber of Commerce](https://www.britishchamber.cn/en/) in China ca
 
 They have an office in [Beijing](https://www.britishchamber.cn/en/contact/).
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to China in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

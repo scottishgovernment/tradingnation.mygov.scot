@@ -32,14 +32,14 @@ It’s also a good place for Scottish businesses to export to because it:
 
 ## What we could sell more of
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In the Netherlands, the key sectors where Scotland could sell more are:
 
 * machinery and equipment
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
+* [financial services](/sectors/financial-and-business-services/)
 * computer and information technology (IT) services
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
+* [chemical sciences](/sectors/life-and-chemical-sciences/)
 
 ![An infographic of top opportunities in the Netherlands's](/assets/images/country_infographics/04-Netherlands-top-opportunities.png)
 
@@ -83,6 +83,6 @@ The Netherlands Britain Chamber of Commerce can offer members:
 
 They have [offices](http://www.nbcc.co.uk/?lang=nl) in London and the Hague.
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to the Netherlands in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

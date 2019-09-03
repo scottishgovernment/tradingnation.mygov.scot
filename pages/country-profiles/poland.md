@@ -31,7 +31,7 @@ It’s also a good place for Scottish businesses to export to because:
 * it has a strong and growing economy
 
 ## What we could sell more of
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Poland, the key sectors where Scotland could sell more are:
 
@@ -97,6 +97,6 @@ The British Polish Chamber of Commerce can offer members:
 
 They have [offices](http://bpcc.org.pl/en/contact) in Warsaw, Wrocław, Kraków and Sevenoaks.
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Poland in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

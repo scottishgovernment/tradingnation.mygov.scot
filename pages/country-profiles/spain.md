@@ -30,17 +30,17 @@ It’s also a good place for Scottish businesses to export to because:
 
 ## What we could sell more of
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Spain, the key sectors where Scotland could sell more are:
 
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
+* [chemical sciences](/sectors/life-and-chemical-sciences/)
 * computer and information technology services
 * machinery and equipment
 * manufacture of computer, electronic and optical products
-* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
+* [food](/sectors/food-and-drink/)
 * transport equipment
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
+* [financial services](/sectors/financial-and-business-services/)
 
 ![An infographic of top opportunities in Spain](/assets/images/country_infographics/15-Spain-top-opportunities.png)
 
@@ -82,6 +82,6 @@ The [British Chamber of Commerce](http://www.britishchamberspain.com/index.html)
 
 They have [offices](http://www.britishchamberspain.com/contacto.html) in Barcelona, Madrid and Andalucía.
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Spain in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).

@@ -34,13 +34,13 @@ It’s also a good place for Scottish businesses to export to because:
 
 ## What we could sell more of
 
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](https://tradingnation.mygov.scot/what-we-could-sell-more-of/).
+[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) uses evidence to work out [what Scotland could sell more of](/what-we-could-sell-more-of/).
 
 In Italy, the key sectors where Scotland could sell more are:
 
-* [financial services](https://tradingnation.mygov.scot/sectors/financial-and-business-services/)
-* [food](https://tradingnation.mygov.scot/sectors/food-and-drink/)
-* [chemical sciences](https://tradingnation.mygov.scot/sectors/life-and-chemical-sciences/)
+* [financial services](/sectors/financial-and-business-services/)
+* [food](/sectors/food-and-drink/)
+* [chemical sciences](/sectors/life-and-chemical-sciences/)
 * computer and information technology services
 * machinery and equipment
 * the manufacture of computer, electronic and optical products
@@ -95,6 +95,6 @@ They have groups in:
 * [Toscana](http://www.britchamitaly.com/en-WR/chamber/chapters/detail?contentid=35)
 * [Veneto](http://www.britchamitaly.com/en-WR/chamber/chapters/detail?contentid=1)
 
-You can find more [help with exporting](https://tradingnation.mygov.scot/help-for-businesses/).
+You can find more [help with exporting](/help-for-businesses/).
 
 You can also find more information on exporting to Italy in [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/).
