@@ -30,7 +30,7 @@ The energy sector covers:
 It does not include oil and gas production.
 
 ## How Scotland’s energy exports have increased since 2002
-![Graph showing how Scotland’s energy exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Energy - Figure 1.jpg)
+![Graph showing how Scotland’s energy exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/energy-figure-1.jpg)
 
 
 Between 2002 and 2017 Scotland’s energy exports increased:

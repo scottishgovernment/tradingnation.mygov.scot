@@ -26,7 +26,7 @@ The food and drink sector covers a range of activities, such as:
 
 
 ## How Scotland’s food and drink exports have changed since 2013
-![Graph showing how Scotland’s food and drink exports changed to the rest of the UK and internationally between 2013 and 2017.](/assets/images/charts_and_graphs/sector/Food and Drink - Figure 1.jpg)
+![Graph showing how Scotland’s food and drink exports changed to the rest of the UK and internationally between 2013 and 2017.](/assets/images/charts_and_graphs/sector/food-and-drink-figure-1.jpg)
 
 Between 2013 and 2018 Scotland’s food and drink exports:
 

@@ -30,7 +30,7 @@ Chemical sciences covers the manufacture of:
 
 
 ## How Scotland’s life sciences exports have increased since 2002
-![Graph showing how Scotland’s life sciences exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Life and Chemical Sciences - Figure 3.jpg)
+![Graph showing how Scotland’s life sciences exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/life-and-chemical-sciences-figure-3.jpg)
 
 Between 2002 and 2017 Scotland’s life sciences exports increased:
 
@@ -39,7 +39,7 @@ Between 2002 and 2017 Scotland’s life sciences exports increased:
 
 
 ## How Scotland’s chemical sciences exports have increased since 2002
-![Graph showing how Scotland’s chemical sciences exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Life and Chemical Sciences - Figure 2.jpg)
+![Graph showing how Scotland’s chemical sciences exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/life-and-chemical-sciences-figure-2.jpg)
 
 Between 2002 and 2017 Scotland’s chemical sciences exports increased:
 

@@ -13,7 +13,7 @@ next: { title: "China", url: "/country-profiles/china/"}
 <p class="leader">
 In 2017, Scotland sold just under £1 billion worth of exports to Belgium. This is 3.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Belgium increased by an average of 4.6% each year.</p>
 
-![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
+![An image of Belgium outlined on a map](/assets/images/country_maps/08-belgium.png)
 
 ## The benefits of selling to Belgium
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Belgium as the 45th easiest country in the world to do business with.
@@ -42,7 +42,7 @@ In Belgium, the key sectors where Scotland could sell more are:
 * machinery and equipment
 * transport equipment
 
-![An infographic of top opportunities in Belgium](/assets/images/country_infographics/08-Belgium-top-opportunities.png)
+![An infographic of top opportunities in Belgium](/assets/images/country_infographics/08-belgium-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in Belgium</h3>

@@ -25,7 +25,7 @@ Technology, digital and media covers:
 
 ## How Scotland’s technology, digital and media exports have changed since 2002
 
-![Graph showing how Scotland’s technology, digital and media exports to the rest of the UK and internationally changed between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Technology - Figure 1.jpg)
+![Graph showing how Scotland’s technology, digital and media exports to the rest of the UK and internationally changed between 2002 and 2017.](/assets/images/charts_and_graphs/sector/technology-figure-1.jpg)
 
 Between 2002 and 2017 Scotland’s technology, digital and media exports:
 

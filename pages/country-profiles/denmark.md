@@ -13,7 +13,7 @@ next: { title: "Sweden", url: "/country-profiles/sweden/"}
 <p class="leader">
 In 2017, Scotland sold £875 million worth of exports to Denmark. This is 2.7% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Denmark decreased by an average of 3.1% each year.</p>
 
-![An image of Denmark outlined on a map](/assets/images/country_maps/12-Denmark.png)
+![An image of Denmark outlined on a map](/assets/images/country_maps/12-denmark.png)
 
 ## The benefits of selling to Denmark
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Denmark as the 3rd easiest country in the world to do business with.
@@ -42,7 +42,7 @@ In Denmark, the key sectors where Scotland could sell more are:
 * [financial services](/sectors/financial-and-business-services/)
 * the manufacture of computer, electronic and optical products
 
-![An infographic of top opportunities in Denmark](/assets/images/country_infographics/11-Denmark-top-opportunities.png)
+![An infographic of top opportunities in Denmark](/assets/images/country_infographics/11-denmark-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in Denmark</h3>

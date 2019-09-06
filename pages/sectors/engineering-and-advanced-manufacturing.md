@@ -27,7 +27,7 @@ Engineering and advanced manufacturing covers things like:
 
 
 ## How Scotland’s engineering and advanced manufacturing exports have increased since 2002
-![Graph showing Scotland’s engineering and advanced manufacturing exports. It shows that both international exports and exports the rest of the UK increased between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Engineering and Advanced manufacturing - Figure 1.jpg)
+![Graph showing Scotland’s engineering and advanced manufacturing exports. It shows that both international exports and exports the rest of the UK increased between 2002 and 2017.](/assets/images/charts_and_graphs/sector/engineering-and-advanced-manufacturing-figure-1.jpg)
 
 Between 2002 and 2017 Scotland’s engineering and advanced manufacturing exports increased:
 

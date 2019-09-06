@@ -13,7 +13,7 @@ next: { title: "Switzerland", url: "/country-profiles/switzerland/"}
 <p class="leader">
 In 2017, Scotland sold £2.5 billion worth of exports to the Netherlands. This is 7.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the Netherlands increased by an average of 1.6% each year.</p>
 
-![An image of the Netherlands outlined on a map](/assets/images/country_maps/04-Netherlands.png)
+![An image of the Netherlands outlined on a map](/assets/images/country_maps/04-netherlands.png)
 
 ## The benefits of selling to the Netherlands
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates the Netherlands as the 36th easiest country in the world to do business with.
@@ -41,7 +41,7 @@ In the Netherlands, the key sectors where Scotland could sell more are:
 * computer and information technology (IT) services
 * [chemical sciences](/sectors/life-and-chemical-sciences/)
 
-![An infographic of top opportunities in the Netherlands's](/assets/images/country_infographics/04-Netherlands-top-opportunities.png)
+![An infographic of top opportunities in the Netherlands's](/assets/images/country_infographics/04-netherlands-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in the Netherlands</h3>

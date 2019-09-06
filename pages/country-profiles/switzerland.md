@@ -13,7 +13,7 @@ next: { title: "Norway", url: "/country-profiles/norway/"}
 <p class="leader">
 In 2017, Scotland sold £735 million worth of exports to Switzerland. This is 2.3% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Switzerland increased by an average of 12.5% each year.</p>
 
-![An image of Switzerland outlined on a map](/assets/images/country_maps/05-Switzerland.png)
+![An image of Switzerland outlined on a map](/assets/images/country_maps/05-switzerland.png)
 
 ## The benefits of selling to Switzerland
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Switzerland as the 38th easiest country in the world to do business with.
@@ -45,7 +45,7 @@ In Switzerland, the key sectors where Scotland could sell more are:
 * chemical sciences
 * manufacture of computer, electronic and optical equipment
 
-![An infographic of top opportunities in Switzerland](/assets/images/country_infographics/05-Switzerland-top-opportunities.png)
+![An infographic of top opportunities in Switzerland](/assets/images/country_infographics/05-switzerland-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in Switzerland</h3>

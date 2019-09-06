@@ -13,7 +13,7 @@ next: { title: "Netherlands", url: "/country-profiles/netherlands/"}
 <p class="leader">
 In 2017, Scotland sold £2.4 billion worth of exports to France. This is 7.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of 7% each year.</p>
 
-![An image of France outlined on a map](/assets/images/country_maps/03-France.png)
+![An image of France outlined on a map](/assets/images/country_maps/03-france.png)
 
 ## The benefits of selling to France
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates France as the 32nd easiest country in the world to do business with.
@@ -39,7 +39,7 @@ In France, the key sectors where Scotland could sell more are:
 * transport equipment
 * textiles
 
-![An infographic of top opportunities in France](/assets/images/country_infographics/03-France-top-opportunities.png)
+![An infographic of top opportunities in France](/assets/images/country_infographics/03-france-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in France</h3>

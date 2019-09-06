@@ -27,7 +27,7 @@ Financial and business services covers a range of subsectors. This includes:
 
 
 ## How Scotland’s financial and business services exports have increased since 2002
-![Graph showing how Scotland’s financial and business services exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/Financial and Business services - Figure 1.jpg)
+![Graph showing how Scotland’s financial and business services exports increased to the rest of the UK and internationally between 2002 and 2017.](/assets/images/charts_and_graphs/sector/financial-and-business-services-figure-1.jpg)
 
 
 Between 2002 and 2017 Scotland’s financial and business services exports increased:

@@ -13,7 +13,7 @@ next: { title: "Ireland", url: "/country-profiles/ireland/"}
 <p class="leader">
 In 2017, Scotland sold just under £625 million worth of exports to China. This is 7.2% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to China increased by an average of 1.6% each year.</p>
 
-![An image of China outlined on a map](/assets/images/country_maps/09-China.png)
+![An image of China outlined on a map](/assets/images/country_maps/09-china.png)
 
 ## The benefits of selling to China
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates China as the 46th easiest country in the world to do business with.
@@ -40,7 +40,7 @@ In China, the key sectors where Scotland could sell more are:
 * food
 * chemical sciences
 
-![An infographic of top opportunities in China](/assets/images/country_infographics/09-China-top-opportunities.png)
+![An infographic of top opportunities in China](/assets/images/country_infographics/09-china-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in China</h3>
