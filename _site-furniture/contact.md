@@ -32,7 +32,13 @@ G2 8LU
 ## Twitter
 Follow us [@DITIscotland](https://twitter.com/ditiscotland?lang=en)
 
-> If you’re a business looking for help with exporting, you can [find help and support](/help-for-businesses/).
+<div class="ds_information-text">
+<span class="ds_information-text__icon" aria-hidden="true">i</span>
+<span class="ds_information-text__text">
+<span class="visually-hidden  hidden">Information:</span>
+If you’re a business looking for help with exporting, you can <a href="/help-for-businesses/">find help and support</a>.
+</span>
+</div>
 
 
 ## Media enquiries

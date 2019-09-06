@@ -45,7 +45,13 @@ This evidence shows where:
 * there’s a large or growing demand for imports
 * Scotland’s exporting less than other, similar countries
 
-> The similar countries are Finland, Norway, Denmark and Ireland.
+<div class="ds_information-text">
+<span class="ds_information-text__icon" aria-hidden="true">i</span>
+<span class="ds_information-text__text">
+<span class="visually-hidden  hidden">Information:</span>
+The similar countries are Finland, Norway, Denmark and Ireland.
+</span>
+</div>
 
 ### Countries where there’s a large or growing demand for financial and business services imports
 
