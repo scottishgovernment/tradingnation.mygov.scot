@@ -9,8 +9,9 @@ parent: home
 permalink: /why-exporting-is-important/
 ---
 
-{:.leader}
+<p class="leader">
 Countries that export have stronger economies.
+</p>
 
 ![An image representing industry sectors that are key to Scotland's exports](/assets/images/hero/why-exportings-important-header.png)
 

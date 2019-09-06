@@ -10,8 +10,8 @@ prev: { title: "Denmark", url: "/country-profiles/denmark/"}
 next: { title: "Italy", url: "/country-profiles/italy/"}
 ---
 
-{:.leader}
-In 2017, Scotland sold £585 million worth of exports to Sweden. This is 1.8% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Sweden decreased by an average of 4.1% each year.
+<p class="leader">
+In 2017, Scotland sold £585 million worth of exports to Sweden. This is 1.8% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Sweden decreased by an average of 4.1% each year.</p>
 
 ![An image of Sweden outlined on a map](/assets/images/country_maps/13-Sweden.png)
 
@@ -45,13 +45,14 @@ In Sweden, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Sweden](/assets/images/country_infographics/12-Sweden-top-opportunities.png)
 
-{:.hidden}
-### Top opportunities in Sweden
-
-{:.hidden}
-* Energy
-* Financial and business services
-* Life sciences
+<div class="hidden . visually-hidden">
+<h3>Top opportunities in Sweden</h3>
+<ul>
+<li>Energy</li>
+<li>Financial and business services</li>
+<li>Life sciences</li>
+</ul>
+</div>
 
 ## Help with exporting in Sweden
 

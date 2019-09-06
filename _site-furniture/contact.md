@@ -9,8 +9,9 @@ parent: home
 permalink: /contact/
 ---
 
-{:.leader}
-To contact us about [A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) you can:
+<p class="leader">
+To contact us about <a href="https://www.gov.scot/publications/scotland-a-trading-nation/">A Trading Nation</a> you can:
+</p>
 
 ## Email
 Email us at <exportplan@gov.scot>
@@ -31,7 +32,7 @@ G2 8LU
 ## Twitter
 Follow us [@DITIscotland](https://twitter.com/ditiscotland?lang=en)
 
-> If you’re a business looking for help with exporting, you can [find help and support](https://tradingnation.mygov.scot/help-for-businesses/).
+> If you’re a business looking for help with exporting, you can [find help and support](/help-for-businesses/).
 
 
 ## Media enquiries

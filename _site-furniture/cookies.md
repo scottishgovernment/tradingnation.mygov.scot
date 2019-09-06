@@ -18,8 +18,13 @@ introduction: A cookie lets a website recognise your device and store some infor
 ## Why we use cookies
 We use tradingnation.mygov.scot cookie tracking data to make informed decisions on whether the site is meeting your needs, which leads to us making improvements. For example, we monitor how much traffic each part of the site gets and work to improve areas which are not being found when they should be.
 
-{:.info-note .note}
-The cookies that we set on tradingnation.mygov.scot cannot be used to identify you personally. [Find out more about how to manage cookies for all websites](https://ico.org.uk/your-data-matters/online/cookies/)
+<div class="ds_information-text">
+<span class="ds_information-text__icon" aria-hidden="true">i</span>
+<span class="ds_information-text__text">
+<span class="visually-hidden  hidden">Information:</span>
+The cookies that we set on tradingnation.mygov.scot cannot be used to identify you personally. <a href="https://ico.org.uk/your-data-matters/online/cookies/">Find out more about how to manage cookies for all websites</a>
+</span>
+</div>
 
 ## Cookies that we set
 
@@ -80,5 +85,10 @@ You can email the performance team for further information.
 
 Email: [performance@gov.scot](mailto:performance@gov.scot)
 
-{:.info-note .note}
+<div class="ds_information-text">
+<span class="ds_information-text__icon" aria-hidden="true">i</span>
+<span class="ds_information-text__text">
+<span class="visually-hidden  hidden">Information:</span>
 This is a live document and will continue to be updated on a bi-monthly basis ensuring it complies with industry standards.
+</span>
+</div>

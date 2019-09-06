@@ -9,8 +9,9 @@ parent: home
 permalink: /where-we-could-sell-more/
 ---
 
-{:.leader}
-[A Trading Nation](https://www.gov.scot/publications/scotland-a-trading-nation/) focusses on exporting to 26 countries. Evidence shows these countries are where Scotland's exports are most likely to grow.
+<p class="leader">
+<a href="https://www.gov.scot/publications/scotland-a-trading-nation/">A Trading Nation</a> focusses on exporting to 26 countries. Evidence shows these countries are where Scotland's exports are most likely to grow.
+</p>
 
 ## Countries we’ll look to export to
 

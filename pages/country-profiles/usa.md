@@ -9,8 +9,8 @@ permalink: /country-profiles/usa/
 next: { title: "Germany", url: "/country-profiles/germany/"}
 ---
 
-{:.leader}
-In 2017, Scotland sold £5.5 billion worth of exports to the United States of America (USA). This is 17.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the USA increased by an average of 4.6% each year.
+<p class="leader">
+In 2017, Scotland sold £5.5 billion worth of exports to the United States of America (USA). This is 17.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the USA increased by an average of 4.6% each year.</p>
 
 ![An image of USA outlined on a map](/assets/images/country_maps/01-USA.png)
 
@@ -41,17 +41,19 @@ In the USA, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in the USA](/assets/images/country_infographics/01-USA-top-opportunities.png)
 
-{:.hidden}
-### Top opportunities in the United States of America
+<div class="hidden . visually-hidden">
+<h3>Top opportunities in the United States of America</h3>
 
-{:.hidden}
-* Technology, digital and media
-* Life sciences
-* Engineering and advanced manufacturing
-* Food and drink
-* Financial and business services
-* Chemical sciences
-* Energy
+<ul>
+<li>Technology, digital and media</li>
+<li>Life sciences</li>
+<li>Engineering and advanced manufacturing</li>
+<li>Food and drink</li>
+<li>Financial and business services</li>
+<li>Chemical sciences</li>
+<li>Energy</li>
+</ul>
+</div>
 
 ## Help with exporting in the USA
 ### Scottish Development International offices

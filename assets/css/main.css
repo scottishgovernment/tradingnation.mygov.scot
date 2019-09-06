@@ -6738,153 +6738,42 @@ a.file-icon:active {
 }
 
 /*------------------------------------*\
-    $INFORMATIONAL NOTES
+    #INFORMATION TEXT
 \*------------------------------------*/
-/* line 18, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note {
-  border-left: 4px solid #0065bd;
-  clear: both;
+/* line 8, ../_scss/components/_component.information-text.scss */
+.ds_information-text {
+  border: 1px solid #b3b3b3;
+  border-width: 1px 0;
   font-size: 15px;
-  line-height: 21px;
   margin: 35px 0;
   padding: 13px 10px 13px 49px;
   position: relative;
-  top: 4px;
 }
-/* line 28, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note :last-child {
-  margin-bottom: 0;
-}
-/* line 32, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note--large-margins {
-  margin: 35px 0;
-}
-/* line 36, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.note {
-  border-width: 1px 0;
-  border-color: #b3b3b3;
-  border-style: solid;
-  font-size: 15px;
-  padding-left: 49px;
-  line-height: 21px;
-  font-weight: 400;
-}
-/* line 38, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.note:before {
-  background: url("../images/icons/note.png") no-repeat 0 0 transparent;
-  content: '';
+
+/* line 17, ../_scss/components/_component.information-text.scss */
+.ds_information-text__icon {
+  background: #333333;
+  border-radius: 26px;
+  color: #ffffff;
+  display: inline-block;
   height: 26px;
+  font-family: "Lucida Bright", serif;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 700;
   left: 10px;
+  line-height: 26px;
   position: absolute;
+  text-align: center;
   top: 13px;
   width: 26px;
 }
-@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 38, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note.note:before {
-    background-image: url("../images/icons/note_@2x.png");
-    background-size: 26px 26px;
-  }
-}
-/* line 57, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.note p {
-  padding-top: 0;
-}
-/* line 62, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.caution {
-  font-size: 16px !important;
-  border-width: 1px 0;
-  border-color: #b3b3b3;
-  border-style: solid;
-  background-color: inherit;
-  padding: 20px 10px 27px 59px;
-  font-weight: 700;
-  line-height: 21px;
-}
-/* line 64, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.caution:before {
-  background: url("../images/icons/caution.png") no-repeat 0 0 transparent;
-  content: '';
-  height: 36px;
-  left: 10px;
-  position: absolute;
-  top: 15px;
-  width: 36px;
-}
-@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 64, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note.caution:before {
-    background-image: url("../images/icons/caution_@2x.png");
-    background-size: 36px 36px;
-  }
-}
-/* line 84, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.caution p {
-  padding-top: 4px;
-}
-/* line 89, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.attribution {
-  background: #f8f8f8;
-  background-color: inherit;
-  border-left: 4px solid #333333;
-  font-size: 14px;
-  padding: 3px 35px 4px 10px;
-}
-/* line 97, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.blockquote {
-  border: 0;
-  border-left: 4px solid #0065bd;
-  padding: 14px 10px 14px 15px;
-  font-style: italic;
-  font-weight: 300;
-}
-/* line 104, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.blockquote:before {
-  content: none;
-}
-/* line 108, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-.info-note.blockquote cite {
-  display: block;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  margin-top: 8px;
-}
 
 @media (min-width: 768px) {
-  /* line 118, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note {
-    border-left: 4px solid #0065bd;
-    font-size: 19px;
-    line-height: 28px;
-    padding-right: 35px;
-    top: 0;
-  }
-  /* line 125, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note.note {
+  /* line 36, ../_scss/components/_component.information-text.scss */
+  .ds_information-text {
     font-size: 17px;
-    padding: 13px 35px 13px 49px;
-    line-height: 28px;
-    font-weight: 400;
-  }
-  /* line 132, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note.caution {
     padding-right: 35px;
-    padding-left: 64px;
-    font-size: 18px !important;
-    line-height: 28px;
-  }
-  /* line 133, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note.caution:before {
-    left: 15px;
-  }
-  /* line 143, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note.attribution {
-    line-height: 21px;
-  }
-  /* line 148, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.informational-notes.scss */
-  .info-note.blockquote cite {
-    font-size: 15px;
   }
 }
 /*------------------------------------*\

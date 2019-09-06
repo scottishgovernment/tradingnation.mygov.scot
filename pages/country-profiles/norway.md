@@ -10,8 +10,8 @@ prev: { title: "Switzerland", url: "/country-profiles/switzerland/"}
 next: { title: "Poland", url: "/country-profiles/poland/"}
 ---
 
-{:.leader}
-In 2017, Scotland sold over £1 billion worth of exports to Norway. This is 3.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Norway decreased by an average of 5.9% each year.
+<p class="leader">
+In 2017, Scotland sold over £1 billion worth of exports to Norway. This is 3.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Norway decreased by an average of 5.9% each year.</p>
 
 > Exports have been affected by a slow-down in Norway’s economy during this time.
 
@@ -46,16 +46,17 @@ In Norway, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Norway](/assets/images/country_infographics/06-Norway-top-opportunities.png)
 
-{:.hidden}
-### Top opportunities in Norway
-
-{:.hidden}
-* Technology, digital and media
-* Engineering and advanced manufacturing
-* Food and drink
-* Energy
-* Life sciences
-* Financial and business services
+<div class="hidden . visually-hidden">
+<h3>Top opportunities in Norway</h3>
+<ul>
+<li>Technology, digital and media</li>
+<li>Engineering and advanced manufacturing</li>
+<li>Food and drink</li>
+<li>Energy</li>
+<li>Life sciences</li>
+<li>Financial and business services</li>
+</ul>
+</div>
 
 ## Help with exporting in Norway
 

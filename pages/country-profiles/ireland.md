@@ -10,8 +10,8 @@ prev: { title: "China", url: "/country-profiles/china/"}
 next: { title: "Denmark", url: "/country-profiles/denmark/"}
 ---
 
-{:.leader}
-In 2017, Scotland sold £1.5 billion worth of exports to Ireland. This is 4.5% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of 21% each year.
+<p class="leader">
+In 2017, Scotland sold £1.5 billion worth of exports to Ireland. This is 4.5% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Ireland increased by an average of 21% each year.</p>
 
 ![An image of Ireland outlined on a map](/assets/images/country_maps/10-Irish-Republic.png)
 
@@ -40,16 +40,17 @@ In Ireland, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Ireland](/assets/images/country_infographics/10-Ireland-top-opportunities.png)
 
-{:.hidden}
-### Top opportunities in Ireland
-
-{:.hidden}
-* Financial & business services
-* Chemical sciences
-* Technology, digital and media
-* Life sciences
-* Food and drink
-* Engineering & advanced manufacturing
+<div class="hidden . visually-hidden">
+<h3>Top opportunities in Ireland</h3>
+<ul>
+<li>Financial and business services</li>
+<li>Chemical sciences</li>
+<li>Technology, digital and media</li>
+<li>Life sciences</li>
+<li>Food and drink</li>
+<li>Engineering and advanced manufacturing</li>
+</ul>
+</div>
 
 ## Help with exporting in Ireland
 

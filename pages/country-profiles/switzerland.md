@@ -10,8 +10,8 @@ prev: { title: "Netherlands", url: "/country-profiles/netherlands/"}
 next: { title: "Norway", url: "/country-profiles/norway/"}
 ---
 
-{:.leader}
-In 2017, Scotland sold £735 million worth of exports to Switzerland. This is 2.3% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Switzerland increased by an average of 12.5% each year.
+<p class="leader">
+In 2017, Scotland sold £735 million worth of exports to Switzerland. This is 2.3% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Switzerland increased by an average of 12.5% each year.</p>
 
 ![An image of Switzerland outlined on a map](/assets/images/country_maps/05-Switzerland.png)
 
@@ -47,14 +47,15 @@ In Switzerland, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Switzerland](/assets/images/country_infographics/05-Switzerland-top-opportunities.png)
 
-{:.hidden}
-### Top opportunities in Switzerland
-
-{:.hidden}
-* Life sciences
-* Food and drink
-* Financial and business services
-* Technology, digital and media
+<div class="hidden . visually-hidden">
+<h3>Top opportunities in Switzerland</h3>
+<ul>
+<li>Life sciences</li>
+<li>Food and drink</li>
+<li>Financial and business services</li>
+<li>Technology, digital and media</li>
+</ul>
+</div>
 
 ## Help with exporting in Switzerland
 

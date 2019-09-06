@@ -10,8 +10,8 @@ prev: { title: "Sweden", url: "/country-profiles/sweden/"}
 next: { title: "Canada", url: "/country-profiles/canada/"}
 ---
 
-{:.leader}
-In 2017, Scotland sold £760 million worth of exports to Italy. This is 2.3% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Italy increased by an average of 3.9% each year.
+<p class="leader">
+In 2017, Scotland sold £760 million worth of exports to Italy. This is 2.3% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Italy increased by an average of 3.9% each year.</p>
 
 ![An image of Italy outlined on a map](/assets/images/country_maps/14-Italy.png)
 
@@ -48,16 +48,17 @@ In Italy, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Italy](/assets/images/country_infographics/13-Italy-top-opportunities.png)
 
-{:.hidden}
-### Top opportunities in Italy
-
-{:.hidden}
-* Engineering and advanced manufacturing
-* Food and drink
-* Life sciences
-* Technology, digital and media
-* Chemical sciences
-* Financial and business services
+<div class="hidden . visually-hidden">
+<h3>Top opportunities in Italy</h3>
+<ul>
+<li>Engineering and advanced manufacturing</li>
+<li>Food and drink</li>
+<li>Life sciences</li>
+<li>Technology, digital and media</li>
+<li>Chemical sciences</li>
+<li>Financial and business services</li>
+</ul>
+</div>
 
 ## Help with exporting in Italy
 

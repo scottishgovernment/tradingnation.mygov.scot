@@ -9,8 +9,8 @@ parent: home
 permalink: /help-for-businesses/
 ---
 
-{:.leader}
-Different organisations can help your business to export. Who can help depends on what you’re trying to do.
+<p class="leader">
+Different organisations can help your business to export. Who can help depends on what you’re trying to do.</p>
 
 ## Advice and guidance
 For general advice and guidance on exporting, go to:

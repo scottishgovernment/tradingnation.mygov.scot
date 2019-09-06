@@ -10,8 +10,8 @@ prev: { title: "Germany", url: "/country-profiles/germany/"}
 next: { title: "Netherlands", url: "/country-profiles/netherlands/"}
 ---
 
-{:.leader}
-In 2017, Scotland sold £2.4 billion worth of exports to France. This is 7.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of 7% each year.
+<p class="leader">
+In 2017, Scotland sold £2.4 billion worth of exports to France. This is 7.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to France increased by an average of 7% each year.</p>
 
 ![An image of France outlined on a map](/assets/images/country_maps/03-France.png)
 
@@ -41,17 +41,18 @@ In France, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in France](/assets/images/country_infographics/03-France-top-opportunities.png)
 
-{:.hidden}
-### Top opportunities in France
-
-{:.hidden}
-* Technology, digital and media
-* Energy
-* Financial and business services
-* Chemical sciences
-* Life sciences
-* Food and drink
-* Engineering and advanced manufacturing
+<div class="hidden . visually-hidden">
+<h3>Top opportunities in France</h3>
+<ul>
+<li>Technology, digital and media</li>
+<li>Energy</li>
+<li>Financial and business services</li>
+<li>Chemical sciences</li>
+<li>Life sciences</li>
+<li>Food and drink</li>
+<li>Engineering and advanced manufacturing</li>
+</ul>
+</div>
 
 ## Help with exporting in France
 
