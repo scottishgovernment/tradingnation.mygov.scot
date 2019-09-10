@@ -10,6 +10,6 @@ parent: home
 navitems: country-profiles
 thispage: country-profiles
 permalink: /country-profiles/
-hero: CountryNavImage.png
+hero: /assets/images/hero/CountryNavImage.png
 ordered: true
 ---

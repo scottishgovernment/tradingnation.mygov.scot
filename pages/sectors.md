@@ -10,5 +10,5 @@ parent: home
 navitems: sectors
 thispage: sectors
 permalink: /sectors/
-hero: SectorNavImage.png
+hero: /assets/images/hero/SectorNavImage.png
 ---

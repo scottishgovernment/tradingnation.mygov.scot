@@ -4,5 +4,5 @@ subtitle: "A Trading Nation is the Scottish Government’s export growth plan. F
 layout: tiles-hero
 navitems: trading-nation
 thispage: home
-hero: FirstLevelNavImage.png
+hero: /assets/images/hero/FirstLevelNavImage.png
 ---
