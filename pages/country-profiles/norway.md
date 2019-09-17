@@ -21,7 +21,7 @@ Exports have been affected by a slow-down in Norway’s economy during this time
 </span>
 </div>
 
-![An image of Norway outlined on a map](/assets/images/country_maps/06-norway.png)
+![An image of Norway outlined on a map](/assets/images/country_maps/06-Norway.png)
 
 ## The benefits of selling to Norway
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Norway as the 7th easiest country in the world to do business with.
@@ -50,7 +50,7 @@ In Norway, the key sectors where Scotland could sell more are:
 * food
 * textiles
 
-![An infographic of top opportunities in Norway](/assets/images/country_infographics/06-norway-top-opportunities.png)
+![An infographic of top opportunities in Norway](/assets/images/country_infographics/06-Norway-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in Norway</h3>

@@ -39,7 +39,7 @@ In the USA, the key sectors where Scotland could sell more are:
 * computer programming
 * research
 
-![An infographic of top opportunities in the USA](/assets/images/country_infographics/01-usa-top-opportunities.png)
+![An infographic of top opportunities in the USA](/assets/images/country_infographics/01-USA-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in the United States of America</h3>

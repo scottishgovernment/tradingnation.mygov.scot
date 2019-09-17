@@ -13,7 +13,7 @@ next: { title: "Belgium", url: "/country-profiles/belgium/"}
 <p class="leader">
 In 2017, Scotland sold £395 million worth of exports to Poland. This is 1.2% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Poland increased by an average of 6.5% each year.</p>
 
-![An image of Poland outlined on a map](/assets/images/country_maps/07-poland.png)
+![An image of Poland outlined on a map](/assets/images/country_maps/07-Poland.png)
 
 ## The benefits of selling to Poland
 The [World Bank](http://www.doingbusiness.org/en/rankings) rates Poland as the 33rd easiest country in the world to do business with.
@@ -44,7 +44,7 @@ In Poland, the key sectors where Scotland could sell more are:
 * engineering
 * machinery and equipment
 
-![An infographic of top opportunities in Poland](/assets/images/country_infographics/07-poland-top-opportunities.png)
+![An infographic of top opportunities in Poland](/assets/images/country_infographics/07-Poland-top-opportunities.png)
 
 <div class="hidden . visually-hidden">
 <h3>Top opportunities in Poland</h3>
