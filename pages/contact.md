@@ -9,7 +9,7 @@ parent: home
 permalink: /contact/
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 To contact us about <a href="https://www.gov.scot/publications/scotland-a-trading-nation/">A Trading Nation</a> you can:
 </p>
 

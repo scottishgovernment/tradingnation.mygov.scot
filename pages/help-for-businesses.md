@@ -9,7 +9,7 @@ parent: home
 permalink: /help-for-businesses/
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 Different organisations can help your business to export. Who can help depends on what you’re trying to do.</p>
 
 ## Advice and guidance

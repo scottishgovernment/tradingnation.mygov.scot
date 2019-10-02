@@ -10,7 +10,7 @@ prev: { title: "Poland", url: "/country-profiles/poland/"}
 next: { title: "China", url: "/country-profiles/china/"}
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 In 2017, Scotland sold just under £1 billion worth of exports to Belgium. This is 3.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Belgium increased by an average of 4.6% each year.</p>
 
 ![An image of Belgium outlined on a map](/assets/images/country_maps/08-Belgium.png)
@@ -44,7 +44,7 @@ In Belgium, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Belgium](/assets/images/country_infographics/08-Belgium-top-opportunities.png)
 
-<div class="hidden . visually-hidden">
+<div class="hidden  visually-hidden">
 <h3>Top opportunities in Belgium</h3>
 <ul>
 <li>Chemical sciences</li>

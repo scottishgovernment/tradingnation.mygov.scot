@@ -10,7 +10,7 @@ prev: { title: "Italy", url: "/country-profiles/italy/"}
 next: { title: "Spain", url: "/country-profiles/spain/"}
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 In 2017, Scotland sold £580 million worth of exports to Canada. This is 1.8% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Canada increased by an average of 7.8% each year.</p>
 
 ![An image of Canada outlined on a map](/assets/images/country_maps/15-Canada.png)
@@ -44,7 +44,7 @@ In Canada, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Canada](/assets/images/country_infographics/14-Canada-top-opportunities.png)
 
-<div class="hidden . visually-hidden">
+<div class="hidden  visually-hidden">
 <h3>Top opportunities in Canada</h3>
 <ul>
 <li>Engineering and advanced manufacturing</li>

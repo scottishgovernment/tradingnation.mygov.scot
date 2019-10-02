@@ -10,7 +10,7 @@ prev: { title: "France", url: "/country-profiles/france/"}
 next: { title: "Switzerland", url: "/country-profiles/switzerland/"}
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 In 2017, Scotland sold £2.5 billion worth of exports to the Netherlands. This is 7.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to the Netherlands increased by an average of 1.6% each year.</p>
 
 ![An image of the Netherlands outlined on a map](/assets/images/country_maps/04-Netherlands.png)
@@ -43,7 +43,7 @@ In the Netherlands, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in the Netherlands's](/assets/images/country_infographics/04-Netherlands-top-opportunities.png)
 
-<div class="hidden . visually-hidden">
+<div class="hidden  visually-hidden">
 <h3>Top opportunities in the Netherlands</h3>
 <ul>
 <li>Food and drink</li>

@@ -9,7 +9,7 @@ parent: home
 permalink: /why-exporting-is-important/
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 Countries that export have stronger economies.
 </p>
 

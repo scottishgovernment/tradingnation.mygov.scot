@@ -9,7 +9,7 @@ permalink: /country-profiles/spain/
 prev: { title: "Canada", url: "/country-profiles/canada/"}
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 In 2017, Scotland sold £850 million worth of exports to Spain. This is 2.6% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Spain decreased by an average of 2.4% each year.</p>
 
 ![An image of Spain outlined on a map](/assets/images/country_maps/16-Spain.png)
@@ -44,7 +44,7 @@ In Spain, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Spain](/assets/images/country_infographics/15-Spain-top-opportunities.png)
 
-<div class="hidden . visually-hidden">
+<div class="hidden  visually-hidden">
 <h3>Top opportunities in Spain</h3>
 
 <ul>

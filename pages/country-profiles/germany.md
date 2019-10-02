@@ -10,7 +10,7 @@ prev: { title: "USA&nbsp;&nbsp;", url: "/country-profiles/usa/"}
 next: { title: "France", url: "/country-profiles/france/"}
 ---
 
-<p class="leader">
+<p class="leader  ds_leader">
 In 2017, Scotland sold £2.3 billion worth of exports to Germany. This is 7.2% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Germany increased by an average of 7.4% each year.</p>
 
 ![An image of Germany outlined on a map](/assets/images/country_maps/02-Germany.png)
@@ -48,7 +48,7 @@ In Germany, the key sectors where Scotland could sell more are:
 
 ![An infographic of top opportunities in Germany](/assets/images/country_infographics/02-Germany-top-opportunities.png)
 
-<div class="hidden . visually-hidden">
+<div class="hidden  visually-hidden">
 <h3>Top opportunities in Germany</h3>
 <ul>
 <li>Engineering and advanced manufacturing</li>
