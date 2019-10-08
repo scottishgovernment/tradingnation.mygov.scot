@@ -1,12 +1,9 @@
 ---
-layout: default
-title:  "Contact"
-category: trading-nation
-summary: "Contact the Scottish Government about A Trading Nation."
-index: 8
-frontpage: yes
-parent: home
+layout: basic
+title: Contact
 permalink: /contact/
+parent: home
+thispage: contact
 ---
 
 <p class="leader  ds_leader">
