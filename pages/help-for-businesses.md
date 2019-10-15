@@ -16,9 +16,9 @@ Different organisations can help your business to export. Who can help depends o
 For general advice and guidance on exporting, go to:
 * [Business Gateway](https://www.bgateway.com/resources/exporting-the-basics)
 * [Scottish Enterprise](https://www.scottish-enterprise.com/support-for-businesses/exports-and-international-markets/why-export/export-advisory-service/export-advisory-service-enquiry)
-* [Highlands and Islands Enterprise](http://www.hie.co.uk/business-support/international-trade-support/contact-an-adviser.html)
+* [Highlands and Islands Enterprise](http://www.hie.co.uk/business-support/international-trade-support/export-advisory-service.html)
 * [Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade/about-our-services)
-* [Chambers of Commerce](https://www.scottishchambers.org.uk/chambers/chamber-listing)
+* [Chambers of Commerce](https://www.scottishchambers.org.uk/our-network/)
 * [HM Revenue & Customs](https://www.gov.uk/topic/business-tax/import-export)
 
 You might also be able to get help from your bank or [a lawyer](https://www.lawscot.org.uk/find-a-solicitor/).
@@ -30,7 +30,7 @@ To work out what skills or training you’ll need to export, go to:
 *	[Scottish Enterprise](https://www.scottish-enterprise.com/learning-zone/events-and-webinars)
 *	[Highlands and Islands Enterprise](http://www.hie.co.uk/about-hie/events/)
 *	[Institute of Export](https://www.export.org.uk/page/training)
-*	[Chambers of Commerce](https://www.scottishchambers.org.uk/chambers/chamber-listing)
+*	[Chambers of Commerce](https://www.scottishchambers.org.uk/our-network/)
 
 
 ## Funding
@@ -64,7 +64,7 @@ If you’re going to sell to another country it’s good to visit it first. You 
 
 *	[Scottish Development International](https://www.sdi.co.uk/about-sdi/contact-us)
 *	[Department for International Trade](https://www.gov.uk/government/organisations/department-for-international-trade/about-our-services)
-*	[Chambers of Commerce](https://www.scottishchambers.org.uk/chambers/chamber-listing)
+*	[Chambers of Commerce](https://www.scottishchambers.org.uk/our-network/)
 *	[Connected Scotland](https://connectedscotland.org/contact/)
 *	[Universities Scotland](https://www.universities-scotland.ac.uk/get-in-touch/)
 *	[The British Council](https://www.britishcouncil.org/contact)
