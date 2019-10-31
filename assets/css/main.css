@@ -4180,14 +4180,6 @@ a > img {
 hr {
   border: 0;
   border-bottom: 1px solid #ebebeb;
-  position: relative;
-  top: -4px;
-}
-@media (min-width: 768px) {
-  /* line 10, ../../node_modules/@scottish-government/mygov-assets/scss/base/_base.rules.scss */
-  hr {
-    top: 1px;
-  }
 }
 
 /*------------------------------------*\
@@ -4390,18 +4382,17 @@ form .emphasis:first-child {
 h3.emphasis,
 .gamma.emphasis {
   padding-top: 14px;
-  text-transform: uppercase;
 }
 
 @media (min-width: 768px) {
-  /* line 44, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
+  /* line 43, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
   h3.emphasis,
   .gamma.emphasis {
     font-size: 19px;
     margin: 0 0 14px 0;
   }
 }
-/* line 51, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
+/* line 50, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
 .emphasis--light {
   font-size: 24px;
   font-weight: 300;
@@ -4410,7 +4401,7 @@ h3.emphasis,
   margin-bottom: 35px;
   padding-top: 7px;
 }
-/* line 59, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
+/* line 58, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
 .emphasis--light:before {
   background: #0065bd;
   border-radius: 4px;
@@ -4422,7 +4413,7 @@ h3.emphasis,
   width: 65px;
 }
 @media (min-width: 768px) {
-  /* line 51, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
+  /* line 50, ../../node_modules/@scottish-government/mygov-assets/scss/base/type/_type.header-emphasis.scss */
   .emphasis--light {
     font-size: 35px;
     line-height: 42px;
@@ -5812,13 +5803,12 @@ h2 > a:hover {
 /* line 82, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__header:focus {
   background-color: #f8f8f8;
-  outline: none;
 }
-/* line 87, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 86, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__header:active {
   background-color: #d9effc !important;
 }
-/* line 92, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 91, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__title {
   color: inherit;
   display: table-cell;
@@ -5829,14 +5819,14 @@ h2 > a:hover {
   vertical-align: middle;
   width: 100%;
 }
-/* line 102, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 101, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__title--right {
   display: block;
   margin-bottom: 0;
   padding: 6px 0 7px 42px;
   text-align: right;
 }
-/* line 110, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 109, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__icon {
   background: url("../images/icons/arrows/int_arrow_down_blue_35px.png") no-repeat center transparent;
   border-radius: 100%;
@@ -5849,13 +5839,13 @@ h2 > a:hover {
   transition: background 1s;
 }
 @media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 110, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 109, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item__icon {
     background-image: url("../images/icons/arrows/int_arrow_down_blue_35px_@2x.png");
     background-size: 35px 35px;
   }
 }
-/* line 123, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 122, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__body {
   background-color: transparent;
   display: none;
@@ -5863,19 +5853,19 @@ h2 > a:hover {
   padding: 21px 15px 27px;
   position: relative;
 }
-/* line 130, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 129, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__body p.headerforlink {
   margin: 28px 0 7px;
 }
-/* line 133, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 132, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__body p.headerforlink:first-child {
   margin-top: 0;
 }
-/* line 138, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 137, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__body :first-child {
   margin-top: 0;
 }
-/* line 142, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 141, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item__link-trigger:after {
   background: url("../images/icons/arrows/down_arrow_18px.png") no-repeat center center #A51765;
   background-size: contain;
@@ -5889,51 +5879,51 @@ h2 > a:hover {
   width: 18px;
 }
 @media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 142, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 141, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item__link-trigger:after {
     background-image: url("../images/icons/arrows/down_arrow_18px_@2x.png");
     background-size: 18px 18px;
   }
 }
-/* line 160, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 159, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item--open .expandable-item__header {
   background-color: #e5f0f8;
   color: #333333;
 }
-/* line 164, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 163, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item--open .expandable-item__header .expandable-item__icon {
   background: url("../images/icons/arrows/int_arrow_up_blue_35px.png") no-repeat center transparent;
 }
 @media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 164, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 163, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item--open .expandable-item__header .expandable-item__icon {
     background-image: url("../images/icons/arrows/int_arrow_up_blue_35px_@2x.png");
     background-size: 35px 35px;
   }
 }
-/* line 168, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 167, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item--open .expandable-item__header .expandable-item__icon:hover {
   background: url("../images/icons/arrows/int_arrow_up_blue_35px.png") no-repeat center transparent;
 }
 @media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 168, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 167, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item--open .expandable-item__header .expandable-item__icon:hover {
     background-image: url("../images/icons/arrows/int_arrow_up_blue_35px_@2x.png");
     background-size: 35px 35px;
   }
 }
-/* line 176, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 175, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item--open .expandable-item__link-trigger:after {
   background-image: url("../images/icons/arrows/up_arrow_18px.png");
 }
 @media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 176, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 175, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item--open .expandable-item__link-trigger:after {
     background-image: url("../images/icons/arrows/up_arrow_18px_@2x.png");
     background-size: 18px 18px;
   }
 }
-/* line 184, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 183, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item:last-child .expandable-item__body:after {
   content: none;
 }
@@ -5941,36 +5931,36 @@ h2 > a:hover {
 /*
 For disclaimers in forms
 */
-/* line 193, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 192, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item--disclaimer {
   border: 0;
   margin: 0;
 }
-/* line 197, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 196, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item--disclaimer .expandable-item__body {
   background: transparent;
   font-size: 14px;
   margin-bottom: 28px;
   padding: 28px 25px;
 }
-/* line 203, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+/* line 202, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
 .expandable-item--disclaimer .expandable-item__body h2 {
   margin-top: 2px;
 }
 
 @media (min-width: 768px) {
-  /* line 209, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 208, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item--disclaimer .expandable-item__body {
     font-size: 16px;
     line-height: 21px;
   }
 
-  /* line 214, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 213, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item {
     margin-left: 0;
     margin-right: 0;
   }
-  /* line 218, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
+  /* line 217, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.expandable.scss */
   .expandable-item__body:not(.expandable-item__body--with-padding) {
     padding-left: 0;
     padding-right: 0;
@@ -7318,8 +7308,11 @@ div:empty {
   display: inline-block;
   padding-top: 21px;
   position: relative;
+  /*
+  [1] this is the legacy property name, required by IE11. correct property name is "overflow-wrap"
+  */
 }
-/* line 143, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.page-nav.scss */
+/* line 146, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.page-nav.scss */
 .page-nav__text:before {
   color: #002d54;
   content: attr(data-label);
@@ -7330,10 +7323,13 @@ div:empty {
   right: 0;
   text-transform: uppercase;
   top: 0;
+  word-wrap: normal;
+  /* [1] */
+  overflow-wrap: normal;
 }
 
 @media (min-width: 768px) {
-  /* line 157, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.page-nav.scss */
+  /* line 162, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.page-nav.scss */
   .page-nav {
     margin-bottom: 56px;
   }
@@ -7767,73 +7763,163 @@ body.home {
   padding: 0.2em 1.5em 1em;
 }
 
-/* line 1, ../_scss/components/_component.notifications.scss */
-.notification {
-  top: -100%;
-  -webkit-transition: top .4s;
-  transition: top .4s;
-  background: #333333;
-  border-bottom: 1px solid #ffffff;
-  color: #ffffff;
+/*------------------------------------*\
+    NOTIFICATION BANNER
+\*------------------------------------*/
+/* line 11, ../_scss/components/_component.notifications.scss */
+.ds_reversed a,
+.ds_reversed .ds_link {
+  color: currentColor;
 }
-/* line 10, ../_scss/components/_component.notifications.scss */
-.notification p {
-  margin: 7px 0 0;
-  padding-right: 40px;
-}
-/* line 15, ../_scss/components/_component.notifications.scss */
-.notification a {
-  color: #ffffff;
-}
-/* line 19, ../_scss/components/_component.notifications.scss */
-.notification .wrapper {
-  position: relative;
-  padding: 8px 15px 12px;
-}
-/* line 24, ../_scss/components/_component.notifications.scss */
-.notification .close-notification {
-  background: url(../images/icons/notification_close_white.png) no-repeat top right transparent;
-  height: 27px;
-  margin: 0;
+
+/* line 16, ../_scss/components/_component.notifications.scss */
+.visually-hidden {
+  clip: rect(1px 1px 1px 1px);
+  /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  width: 1px;
   overflow: hidden;
-  position: absolute;
-  right: 15px;
-  text-indent: -999em;
-  top: 14px;
-  width: 27px;
-  transition: opacity 1s;
+  position: absolute !important;
 }
-@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 24, ../_scss/components/_component.notifications.scss */
-  .notification .close-notification {
-    background-image: url("../images/icons/notification_close_white_@2x.png");
-    background-size: 27px 27px;
-  }
+
+/* line 24, ../_scss/components/_component.notifications.scss */
+.fully-hidden {
+  display: none;
 }
-/* line 39, ../_scss/components/_component.notifications.scss */
-.notification .close-notification:hover, .notification .close-notification:active {
-  opacity: 0.5;
-  transition: opacity 0.2s;
+
+/* line 31, ../_scss/components/_component.notifications.scss */
+.ds_notification {
+  background: #333333;
+  color: #ffffff;
+  margin-bottom: 1px;
+  background: #e5f0f8;
+  color: #333333;
+}
+/* line 40, ../_scss/components/_component.notifications.scss */
+.ds_notification__content {
+  display: flex;
+  align-items: center;
+  padding: 14px 0;
+  position: relative;
 }
 /* line 47, ../_scss/components/_component.notifications.scss */
-.notification.strong {
+.ds_notification__content--has-close {
+  padding-right: 45px;
+}
+/* line 52, ../_scss/components/_component.notifications.scss */
+.ds_notification__text {
+  display: inline-block;
+  margin-right: 20px;
+}
+/* line 56, ../_scss/components/_component.notifications.scss */
+.ds_notification__text > :last-child {
+  margin-bottom: 0;
+}
+/* line 60, ../_scss/components/_component.notifications.scss */
+.ds_notification__text:last-child {
+  margin-bottom: 0;
+}
+/* line 65, ../_scss/components/_component.notifications.scss */
+.ds_notification__actions {
+  display: inline-block;
+  margin: 7px 0 -7px;
+}
+/* line 69, ../_scss/components/_component.notifications.scss */
+.ds_notification__actions > * {
+  margin-top: 0;
+  margin-right: 5px;
+  margin-bottom: 14px;
+}
+/* line 76, ../_scss/components/_component.notifications.scss */
+.ds_notification__icon {
+  background-color: currentColor;
+  border-radius: 100px;
+  display: block;
+  float: left;
+  height: 29px;
+  line-height: 0;
+  margin-left: -5px;
+  padding: 5px;
+  width: 29px;
+}
+/* line 87, ../_scss/components/_component.notifications.scss */
+.ds_notification__icon + .ds_notification__text {
+  margin-left: 40px;
+}
+/* line 92, ../_scss/components/_component.notifications.scss */
+.ds_notification__close {
+  background: transparent;
+  box-sizing: content-box;
+  color: currentColor;
+  display: none;
+  font-size: 14px;
+  height: 21px;
+  margin: -5px -5px -5px 25px;
+  padding: 5px;
+  position: absolute;
+  right: 0;
+  top: 14px;
+  width: 21px;
+}
+/* line 106, ../_scss/components/_component.notifications.scss */
+.ds_notification__close:hover {
+  background-color: transparent;
+}
+/* line 110, ../_scss/components/_component.notifications.scss */
+.ds_notification__close:hover:not(:focus) {
+  background-color: transparent;
+  color: currentColor;
+  outline: 2px solid currentColor;
+}
+/* line 117, ../_scss/components/_component.notifications.scss */
+.ds_notification--major {
   background: #ffb644;
+}
+/* line 120, ../_scss/components/_component.notifications.scss */
+.ds_notification--major .ds_notification__icon svg {
+  fill: #ffb644;
+}
+/* line 127, ../_scss/components/_component.notifications.scss */
+.ds_notification--major .ds_notification__close:focus,
+.ds_notification--major a:focus {
+  outline-color: #333333;
   color: #333333;
 }
-/* line 51, ../_scss/components/_component.notifications.scss */
-.notification.strong a {
-  color: #333333;
+/* line 132, ../_scss/components/_component.notifications.scss */
+.ds_notification--major .ds_notification__close:active,
+.ds_notification--major a:active {
+  background-color: #333333;
+  color: #ffb644 !important;
 }
-/* line 55, ../_scss/components/_component.notifications.scss */
-.notification.strong .close-notification {
-  background-image: url(../images/icons/notification_close_grey.png);
+/* line 139, ../_scss/components/_component.notifications.scss */
+.ds_notification--positive {
+  background: #4e9d52;
+  color: #ffffff;
 }
-@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 55, ../_scss/components/_component.notifications.scss */
-  .notification.strong .close-notification {
-    background-image: url("../images/icons/notification_close_grey_@2x.png");
-    background-size: 27px 27px;
+/* line 143, ../_scss/components/_component.notifications.scss */
+.ds_notification--positive .ds_notification__icon svg {
+  fill: #4e9d52;
+}
+/* line 148, ../_scss/components/_component.notifications.scss */
+.ds_notification--negative {
+  background: #d32205;
+  color: #ffffff;
+}
+/* line 152, ../_scss/components/_component.notifications.scss */
+.ds_notification--negative .ds_notification__icon svg {
+  fill: #d32205;
+}
+
+@media (min-width: 768px) {
+  /* line 159, ../_scss/components/_component.notifications.scss */
+  .ds_notification__close {
+    top: 18px;
   }
+}
+/* line 165, ../_scss/components/_component.notifications.scss */
+.js-enabled .ds_notification__close {
+  display: block;
 }
 
 /**
@@ -7932,14 +8018,13 @@ ol.category-list__list li a h2:before {
 /* line 6, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
 .header-bar .search-box {
   height: auto;
-  left: 15px;
   margin: 0;
   position: absolute;
   top: 10px;
   right: 15px;
   transition: background-color 0.1s;
 }
-/* line 16, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+/* line 15, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
 .header-bar .search-box__input[type=text] {
   font-size: 16px;
   height: 35px;
@@ -7948,18 +8033,18 @@ ol.category-list__list li a h2:before {
   width: 0;
   transition: width 0.1s;
 }
-/* line 26, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+/* line 25, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
 .header-bar .search-box__button {
   font-size: 15px;
   height: 35px;
   width: 35px;
 }
-/* line 33, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+/* line 32, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
 .header-bar .search-box--expanded {
   background: #ffffff;
   z-index: 2;
 }
-/* line 37, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+/* line 36, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
 .header-bar .search-box--expanded .search-box__input[type=text] {
   position: relative;
   padding: 0 42px 0 25px;
@@ -7968,25 +8053,25 @@ ol.category-list__list li a h2:before {
 }
 
 @media (min-width: 768px) {
-  /* line 47, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 46, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box {
     top: 14px;
   }
-  /* line 50, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 49, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box__input[type=text] {
     font-size: 16px;
     height: 42px;
   }
-  /* line 55, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 54, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box--expanded {
     background: transparent;
   }
-  /* line 58, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 57, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box--expanded .search-box__input[type=text] {
     padding-right: 49px;
     width: 50%;
   }
-  /* line 64, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 63, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box__button {
     font-size: 17px;
     height: 42px;
@@ -7994,21 +8079,21 @@ ol.category-list__list li a h2:before {
   }
 }
 @media (min-width: 992px) {
-  /* line 73, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 72, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box {
     top: 22px;
   }
-  /* line 76, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 75, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box__input[type=text] {
     height: 49px;
     padding: 0 56px 0 25px;
     width: 284px;
   }
-  /* line 83, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 82, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box--expanded .search-box__input[type=text] {
     width: 284px;
   }
-  /* line 88, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 87, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box__button {
     font-size: 22px;
     height: 49px;
@@ -8016,11 +8101,11 @@ ol.category-list__list li a h2:before {
   }
 }
 @media (min-width: 1200px) {
-  /* line 98, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 97, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box__input[type=text] {
     width: 350px;
   }
-  /* line 103, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
+  /* line 102, ../../node_modules/@scottish-government/mygov-assets/scss/trumps/_trump.header-search.scss */
   .header-bar .search-box--expanded .search-box__input[type=text] {
     width: 352px;
   }
@@ -8436,4 +8521,181 @@ ol.category-list__list li a h2:before {
 /* line 155, ../_scss/main.scss */
 .main-content p + h2, .main-content ul + h2 {
   margin-top: 1.6em !important;
+}
+
+/*------------------------------------*\
+    COOKIE FORM
+    temporary styles taken from mygov.scot pending development of design system form styles
+\*------------------------------------*/
+/* line 8, ../_scss/components/_temp.cookie-form.scss */
+input[type=radio].fancy-radio {
+  display: inline-block;
+  width: 1px;
+  /* having them 0px wide causes Safari to not tab through them */
+  font-size: 40px;
+  margin: 21px 0 0px 10px;
+}
+
+/* line 16, ../_scss/components/_temp.cookie-form.scss */
+label.fancy-radio {
+  position: relative;
+  padding-left: 41px;
+  margin-top: 21px;
+  margin-left: 0px;
+}
+
+/* line 22, ../_scss/components/_temp.cookie-form.scss */
+label.fancy-radio:first-of-type {
+  margin-top: 14px;
+}
+
+/* line 26, ../_scss/components/_temp.cookie-form.scss */
+input.fancy-radio {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=00)";
+  position: absolute;
+}
+
+/* line 32, ../_scss/components/_temp.cookie-form.scss */
+input + label.fancy-radio:before, label.fancy-radio:before {
+  background-color: #fff;
+  border: 3px solid #727272;
+  border-radius: 50%;
+  content: "";
+  float: left;
+  font-size: 10px;
+  height: 28px;
+  left: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  width: 28px;
+  box-sizing: border-box;
+}
+
+/* CHECKED STATE */
+/* line 49, ../_scss/components/_temp.cookie-form.scss */
+input:checked + label.fancy-radio:before {
+  border-color: #A51765;
+  color: #A51765;
+  background-color: #fff;
+}
+
+/* line 55, ../_scss/components/_temp.cookie-form.scss */
+input:checked + label.fancy-radio:after {
+  background: #A51765;
+  border: 5px solid #A51765;
+  border-radius: 50%;
+  content: "";
+  height: 0;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 0;
+}
+
+/* FOCUS STATE */
+/* line 68, ../_scss/components/_temp.cookie-form.scss */
+input:focus + label.fancy-radio:before {
+  border-color: #000000;
+  color: #000000;
+  background-color: #ffb644;
+  border-width: 4px;
+  line-height: 20px;
+}
+
+/* line 76, ../_scss/components/_temp.cookie-form.scss */
+input:focus + label.fancy-radio:after {
+  background: #000000;
+  border-color: #000000;
+}
+
+/* ERROR STATE */
+/* line 82, ../_scss/components/_temp.cookie-form.scss */
+.input-error + label.fancy-radio:before {
+  border-color: #d32205;
+  color: #d32205;
+}
+
+/* line 88, ../_scss/components/_temp.cookie-form.scss */
+.form-box fieldset {
+  border: 0;
+  margin: 0;
+}
+
+/* line 93, ../_scss/components/_temp.cookie-form.scss */
+.form-box {
+  background-color: #f8f8f8;
+  box-sizing: border-box;
+  margin: 28px -15px;
+  padding: 35px 15px;
+}
+
+/* line 100, ../_scss/components/_temp.cookie-form.scss */
+.form-box:first-child {
+  margin-top: 0;
+}
+
+@media (min-width: 768px) {
+  /* line 105, ../_scss/components/_temp.cookie-form.scss */
+  .form-box {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+/* line 113, ../_scss/components/_temp.cookie-form.scss */
+.form-message {
+  background-color: #fff;
+  border: 7px solid #727272;
+  border-radius: 15px;
+  margin-bottom: 28px;
+  padding: 14px 15px 0px 15px;
+  position: relative;
+}
+
+/* line 122, ../_scss/components/_temp.cookie-form.scss */
+.form-message h2 {
+  margin: 5px 0 13px;
+  padding: 0;
+}
+
+/* line 127, ../_scss/components/_temp.cookie-form.scss */
+.form-message--success {
+  border-color: #4e9d52;
+  color: #4e9d52;
+  margin-bottom: 49px;
+  padding: 21px 30px 14px 30px;
+}
+
+/* line 134, ../_scss/components/_temp.cookie-form.scss */
+.form-message--success h2 {
+  color: #4e9d52;
+}
+
+/* line 138, ../_scss/components/_temp.cookie-form.scss */
+.form-message--success p {
+  font-weight: 500;
+  color: #333;
+}
+
+/* line 144, ../_scss/components/_temp.cookie-form.scss */
+.form-group {
+  margin: 49px 0 28px;
+}
+
+/* line 148, ../_scss/components/_temp.cookie-form.scss */
+label.fancy-radio {
+  margin-right: 25px;
+}
+
+/* line 152, ../_scss/components/_temp.cookie-form.scss */
+.no-top-margin {
+  margin-top: 0;
+}
+
+/* line 156, ../_scss/components/_temp.cookie-form.scss */
+.no-bottom-margin {
+  margin-bottom: 0;
 }

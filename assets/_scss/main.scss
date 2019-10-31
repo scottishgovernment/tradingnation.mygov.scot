@@ -155,3 +155,5 @@ $breakpoint-has-pull:   ('medium', 'large', 'xlarge');
 .main-content p + h2, .main-content ul + h2 {
     margin-top: 2em*28/35 !important;
 }
+
+@import "components/temp.cookie-form.scss";
