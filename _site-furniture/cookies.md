@@ -21,4 +21,4 @@ The cookies that we set on tradingnation.mygov.scot cannot be used to identify y
 ## Turn cookies on or off
 We use 3 main types of cookie on our website. You can choose which cookies you're happy for us to use.
 
-[Find out more about the cookies we use](/cookie-details)
+[Find out more about the cookies we use](/cookie-details/)
