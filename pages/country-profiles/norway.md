@@ -14,7 +14,6 @@ next: { title: "Poland", url: "/country-profiles/poland/"}
 In 2017, Scotland sold over £1 billion worth of exports to Norway. This is 3.1% of Scotland’s total international exports. Between 2013 and 2017, Scottish exports to Norway decreased by an average of 5.9% each year.</p>
 
 <div class="ds_information-text">
-<span class="ds_information-text__icon" aria-hidden="true">i</span>
 <span class="ds_information-text__text">
 <span class="visually-hidden  hidden">Information:</span>
 Exports have been affected by a slow-down in Norway’s economy during this time.

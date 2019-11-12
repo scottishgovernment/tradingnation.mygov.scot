@@ -57,7 +57,6 @@ This evidence shows where:
 * Scotland’s exporting less than other, similar countries
 
 <div class="ds_information-text">
-<span class="ds_information-text__icon" aria-hidden="true">i</span>
 <span class="ds_information-text__text">
 <span class="visually-hidden  hidden">Information:</span>
 The similar countries are Finland, Norway, Denmark and Ireland.
