@@ -6,7 +6,7 @@
     border-left: 10px solid $color__grey--medium;
     padding: 28px 15px;
 
-    @include block-margins;
+    margin: 35px 0;
 }
 
 @media (min-width: 768px) {
