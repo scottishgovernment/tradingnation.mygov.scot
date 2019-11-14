@@ -131,12 +131,11 @@ const cookieModule = {
                     expires: 365
                 });
 
-                document.querySelector('#cookie-success-message').classList.remove('fully-hidden');
-                document.querySelector('#cookie-success-message').style.top = '35px';
-
                 // hide cookie notice
                 that.cookieNotice.classList.add('fully-hidden');
                 that.cookieConfirm.classList.remove('fully-hidden');
+
+                window.scrollTo(window.scrollX, 0);
             });
         }
 

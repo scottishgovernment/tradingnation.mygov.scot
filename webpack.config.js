@@ -7,7 +7,7 @@ module.exports = [{
     'cookie': [
       path.resolve(__dirname, 'assets/scripts/cookies.js')
     ],
-    'userType': [
+    'usertype': [
       path.resolve(__dirname, 'assets/scripts/usertype.js')
     ]
   },
@@ -23,7 +23,7 @@ module.exports = [{
     'cookie': [
       path.resolve(__dirname, 'assets/scripts/cookies.js')
     ],
-    'userType': [
+    'usertype': [
       path.resolve(__dirname, 'assets/scripts/usertype.js')
     ]
   },
