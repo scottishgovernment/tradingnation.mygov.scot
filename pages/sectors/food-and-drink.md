@@ -43,11 +43,10 @@ This evidence shows where:
 * there’s a large or growing demand for imports
 * Scotland’s exporting less than other, similar countries
 
-<div class="ds_information-text">
-<span class="ds_information-text__text">
-<span class="visually-hidden  hidden">Information:</span>
+<div class="ds_inset-text">
+<div class="ds_inset-text__text">
 The similar countries are Finland, Norway, Denmark and Ireland.
-</span>
+</div>
 </div>
 
 ### Countries where there’s a large or growing demand for food and drink imports

@@ -66,9 +66,8 @@ You can email the performance team for further information.
 
 Email: [performance@gov.scot](mailto:performance@gov.scot)
 
-<div class="ds_information-text">
-<span class="ds_information-text__text">
-<span class="visually-hidden  hidden">Information:</span>
+<div class="ds_inset-text">
+<div class="ds_inset-text__text">
 This is a live document and will continue to be updated on a bi-monthly basis ensuring it complies with industry standards.
-</span>
+</div>
 </div>

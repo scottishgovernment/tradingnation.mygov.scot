@@ -29,11 +29,10 @@ G2 8LU
 ## Twitter
 Follow us [@DITIscotland](https://twitter.com/ditiscotland?lang=en)
 
-<div class="ds_information-text">
-<span class="ds_information-text__text">
-<span class="visually-hidden  hidden">Information:</span>
+<div class="ds_inset-text">
+<div class="ds_inset-text__text">
 If you’re a business looking for help with exporting, you can <a href="/help-for-businesses/">find help and support</a>.
-</span>
+</div>
 </div>
 
 

@@ -32,11 +32,10 @@ Between 2002 and 2017 Scotland’s technology, digital and media exports:
 * decreased internationally from £5.9 billion to £3.3 billion
 * increased to the rest of the UK from £2.3 billion to £3.1 billion
 
-<div class="ds_information-text">
-<span class="ds_information-text__text">
-<span class="visually-hidden  hidden">Information:</span>
+<div class="ds_inset-text">
+<div class="ds_inset-text__text">
 International exports in this sector decreased between 2002 and 2007. This was due to a decline in Scotland’s electronics manufacturing industry.
-</span>
+</div>
 </div>
 
 
@@ -49,11 +48,10 @@ This evidence shows where:
 * there’s a large or growing demand for imports
 * Scotland’s exporting less than other, similar countries
 
-<div class="ds_information-text">
-<span class="ds_information-text__text">
-<span class="visually-hidden  hidden">Information:</span>
+<div class="ds_inset-text">
+<div class="ds_inset-text__text">
 The similar countries are Finland, Norway, Denmark and Ireland.
-</span>
+</div>
 </div>
 
 ### Countries where there’s a large or growing demand for digital, technology and media imports
